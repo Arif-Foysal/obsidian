@@ -1,1 +1,2 @@
 - [ ] No chill till final
+- [ ] smash electronics
