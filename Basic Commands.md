@@ -1,5 +1,5 @@
 
-##### Make a directory-
+#### Make a directory-
 ##### Windows
 `mkdir directory_name` 
 Make a directory that has spaces in between-
@@ -9,7 +9,7 @@ or, seperating with a backtick
 mkdir directory` name
 ```
 ##### Linux
-##### Making directory-- same as powershell
+Making directory-- same as powershell
 Making directory with a space-
 `mkdir 'directory name'`
 or

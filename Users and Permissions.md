@@ -1,3 +1,4 @@
+#### Managing Users
 ##### Windows
 We can manage users and groups both in GUI and CLI. 
 ###### GUI
@@ -35,7 +36,7 @@ View who has access to run sudo
 View list of users-
 `cat /etc/passwd`
 
-##### Passwords
+#### Passwords
 ###### Windows
 ###### CLI
 Change the password of a user-
@@ -56,7 +57,7 @@ Force a user to change password-
 -e flag stands for expire
 `sudo passwd -e $username`
 
-##### Adding and removing users
+#### Adding and removing users
 ###### Windows GUI
 computer management tool > Local users and groups > right click > create new user
 ###### Windows CLI
@@ -73,7 +74,7 @@ add a user-
 `sudo useradd $username`
 remove a user-
 `sudo userdel $username`
-##### Permissions
+#### Permissions
 ###### Windiws
 In windows, files and directory permissions are assigned using Access Control Lists. To be more specific, we are gonna work with Discretionary Access Control Lists or DACLs.
 Windows files and folders can also have System Access Control Lists or SACLs assigned to them.
@@ -97,7 +98,7 @@ here,
 add details....
 ```
 
-##### Modifying permission
+#### Modifying permission
 ###### Windows
 Gui- properties > security > you know what do do
 ###### CLI
@@ -143,7 +144,7 @@ We can modify permissions using `chmod`
 synopsis-
 `chown <user> <file>`
 
-##### Special Permissions
+#### Special Permissions
 ###### GUI
 To view special permissions in gui,
 properties > security > Advanced

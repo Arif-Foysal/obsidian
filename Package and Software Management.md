@@ -1,5 +1,4 @@
-
-##### Package Dependencies
+#### Package Dependencies
 ###### Windows
 Locate packages along with it's dependencies-
 `Find-Package sysinternals -IncludeDependencies`
@@ -13,7 +12,7 @@ We can also specify the ProviderName in case of confliction.
 ###### Linux
 Install dependencies automatically while installing an package-
 ``
-##### Package Management
+#### Package Management
 ###### Windows
 We can either use the chocolatry command line tool or use the package management feature that was recently released for Powershell.
 
@@ -28,7 +27,7 @@ The repository source file in Ubuntu is `/etc/apt/sources.list`
 **Be careful using a ppa repository instead of original developers repo. It can sometime contain malicious  programs**
 Launchpad is a website owned by the organization, Canonical Limited. It allows open source developers to develop, maintain and distribute softwares.
 Learn more about ppa and launchpad https://help.launchpad.net/Packaging/PPA
-###### Underneath the hood 
+#### Underneath the hood 
 ###### Windows
 `orca.exe` is used to create or edit windows installer packages.
 https://drive.google.com/file/d/1RnJ0Xi40ZQKbMoVrcbqn9wp2xSqy_LXo/view

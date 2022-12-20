@@ -1,3 +1,4 @@
+#### Viewing contents of a file
 ##### Windows
 view the contents of a file 
 `cat _file`
@@ -31,7 +32,7 @@ There is another type of command called `cmd.exe` that we can use in windows.
 `Get-Help ls` 
 `/?` is used for other commands such as-
 `dir /?`
-##### Searching within file
+#### Searching within file
 ##### Windows
 ###### Searching using GUI:
 By default, windows searches only for indexed properties.
@@ -58,7 +59,7 @@ let's find 'foo' in one.txt -
 `grep foo one.txt`
 This will output lines that has the string 'foo' in it.
 using [[wildcards]] is also allowed
-##### Input, Output and Pipeline
+#### Input, Output and Pipeline
 ###### Windows
 Each process in #windows as well as #linux has 3 different streams.
 1. stdin (Standard IN)
