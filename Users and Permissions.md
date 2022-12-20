@@ -112,7 +112,7 @@ Powershell-
 
 ###### Linux
 
-|Notation| Roles |
+|Notation|Roles|
 |--------|---------|
 |u|owner|
 |g|group|
@@ -128,7 +128,7 @@ Powershell-
 
 **Numeric Representations**
 |number|permissions|
-|-|:-|
+|------|-----------|
 |7|full(rwx)|
 |6|read and write(rw-)|
 |5|read and execute(r-x)|
