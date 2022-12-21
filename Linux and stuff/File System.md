@@ -65,7 +65,11 @@ Supplemental Reading-
 ###### Mounting
 Making something accessible to the computer, like a filesystem or a hard disk.
 ##### Linux
-To view what disks are connected to the computer-
+`Parted` is a interective CLI program that is used to format and partition disks in linux.
+**Synopsis-**
+`parted [options] [device [command [options...]...]]`
+
+List partition layouts of connected block devices-
 `sudo parted -l`
 o/p-
 ```
@@ -100,6 +104,43 @@ The `Start` and `End` field is where the partitions starts on the disk.
 The `Size` field represents how large the partition size is.
 the `Filesystem` field tells us what filesystem is on our partition.
 
-`Parted` is a interective CLI program that is used to format and partition disks in linux.
-**Synopsis-**
-`parted [options] [device [command [options...]...]]`
+##### partitioning a disk
+We can partition a disk by running the interective mode of `parted`-
+`sudo parted /dev/sdb`
+o/p-
+```
+GNU Parted 3.4  
+Using /dev/sdb  
+Welcome to GNU Parted! Type 'help' to view a list of commands.  
+(parted) print                                                               
+Model: JetFlash Transcend 32GB (scsi)  
+Disk /dev/sdb: 30.6GB  
+Sector size (logical/physical): 512B/512B  
+Partition Table: loop  
+Disk Flags:    
+  
+Number  Start  End     Size    File system  Flags  
+1      0.00B  30.6GB  30.6GB  fat32  
+  
+(parted)
+```
+
+Create a new disklabel (partition table) -
+`mklabel gpt`
+
+Make a partition-
+**Synopsis**
+`mkpart PART-TYPE [FS-TYPE] START END`
+**E.g.**
+`mkpart primary ext4 1MiB 5GiB`
+Learn about [[partition types]]
+
+Format the partition-
+`sudo mkfs ext4 /dev/sdb1`
+
+#### Mounting and unmounting Filesystems
+
+Mount a filesystem-
+`sudo mount <device> <path to mount>`
+
+File systems can also be mounted using [[fstab]]
