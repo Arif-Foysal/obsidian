@@ -9,7 +9,8 @@
 >	- [[File and Text Manipulation#Input, Output and Pipeline|Input, Output and Pipeline]]
 >- [[Users and Permissions]]
 >	- [[Users and Permissions#Managing Users|Input, Output and Pipeline]]
->	- [[Users and Permissions#Passwords|Passwords]]
+>	- [[Users and Permissions#Passwords|Pa
+sswords]
 >	- [[Users and Permissions#Adding and removing users|Adding and removing users]]
 >	- [[Users and Permissions#Permissions|Permissions]]
 >	- [[Users and Permissions#Modifying permission|Modyfying permission]]
@@ -19,7 +20,6 @@
 >	- [[Package and Software Management#Package Management|Package Management]]
 >	- [[Package and Software Management#Underneath the hood|Underneath the hood]]
 >- [[Devices and Drivers]]
-
-
+>- [[]]
 
 
