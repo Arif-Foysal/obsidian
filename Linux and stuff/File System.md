@@ -60,3 +60,46 @@ Now we can format the disk with any file system-
 
 Supplemental Reading-
 [[Diskpart]]
+
+##### Mounting and Unmounting a Filesystem
+###### Mounting
+Making something accessible to the computer, like a filesystem or a hard disk.
+##### Linux
+To view what disks are connected to the computer-
+`sudo parted -l`
+o/p-
+```
+Model: ATA Lexar 256GB SSD (scsi)  
+Disk /dev/sda: 256GB  
+Sector size (logical/physical): 512B/512B  
+Partition Table: gpt  
+Disk Flags:    
+  
+Number  Start   End     Size    File system     Name  Flags  
+2      9437kB  17.2GB  17.2GB  linux-swap(v1)        swap  
+3      17.2GB  256GB   238GB   btrfs  
+4      256GB   256GB   537MB   fat32                 boot, esp  
+  
+  
+Model: INTEL SSDPEKNW512G8 (nvme)  
+Disk /dev/nvme0n1: 512GB  
+Sector size (logical/physical): 512B/512B  
+Partition Table: gpt  
+Disk Flags:    
+  
+Number  Start   End    Size   File system  Name  Flags  
+1      1049kB  512GB  512GB  ext4
+```
+
+Here, The first column `Number` field corresponds to the partitions on the disk.
+Since our disk `ATA Lexar 256GB SSD` is represented by `/dev/sda` , the partitions will correspond to according to the `Number` field-
+`/dev/sda2` 
+`/dev/sda3` and
+`/dev/sda3`
+The `Start` and `End` field is where the partitions starts on the disk.
+The `Size` field represents how large the partition size is.
+the `Filesystem` field tells us what filesystem is on our partition.
+
+`Parted` is a interective CLI program that is used to format and partition disks in linux.
+**Synopsis-**
+`parted [options] [device [command [options...]...]]`

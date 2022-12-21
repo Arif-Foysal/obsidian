@@ -8,9 +8,7 @@
 >	- [[File and Text Manipulation#Searching within file|Searching within file]]
 >	- [[File and Text Manipulation#Input, Output and Pipeline|Input, Output and Pipeline]]
 >- [[Users and Permissions]]
->	- [[Users and Permissions#Managing Users|Input, Output and Pipeline]]
->	- [[Users and Permissions#Passwords|Pa
-sswords]
+>	- [[Users and Permissions#Passwords|Passwords]]
 >	- [[Users and Permissions#Adding and removing users|Adding and removing users]]
 >	- [[Users and Permissions#Permissions|Permissions]]
 >	- [[Users and Permissions#Modifying permission|Modyfying permission]]
@@ -20,6 +18,12 @@ sswords]
 >	- [[Package and Software Management#Package Management|Package Management]]
 >	- [[Package and Software Management#Underneath the hood|Underneath the hood]]
 >- [[Devices and Drivers]]
->- [[]]
+>- [[File System]]
+>	- [[File System#Disk Partitioning|Disk Partitioning]]
+>	- [[File System#Disk Partitioning and Formatting Filesystem| Formatting Filesystem]]
+>	- [[File System#Mounting and Unmounting a Filesystem|Mounting and Unmountig a Filesystem]]
+>	- [[File System#]]
+>	- 
+>- 
 
 
