@@ -73,73 +73,14 @@ As an IT Support professional, you may need to expand the hard drive space on a 
 1.  Format the drive using the **fdisk** command. Select a Linux compatible file system, like ext4. If needed, you can also create a partition on the drive with the **fdisk** command.  
     
 2.  Find which block devices the Linux system has assigned to the new drive. The block device is a storage device (hard drive, DVD drive, etc.) that is registered as a file in the **/dev** directory. The device file provides an interface between the system and the attached device for read-write processes. Use the **lsblk** command to find the list of block devices that are connected to the system.
-    
 
 Example output from the **lsblk** command:
-
-NAME
-
-MAJ:MIN
-
-RM
-
-SIZE
-
-RO
-
-TYPE
-
-MOUNTPOINT
-
-sda
-
-8:0
-
-0
-
-512G
-
-0
-
-disk
-
-┖ sda1
-
-8:1
-
-0
-
-1G
-
-0
-
-part
-
-/boot
-
-sdb
-
-8:16
-
-0
-
-1T
-
-0
-
-disk
-
-┖ sdb1
-
-8:17
-
-0
-
-128G
-
-0
-
-part
+|Name|MAJ:MIN|RM|SIZE|RO|TYPE|MOUNTPOINT|
+|----|-------|--|----|--|----|----------|
+|sda|8:0|0|512G|0|Disk||
+|┖sda1|8:1 |0|1G|0|Part|/boot|
+|sdb|8:16|0|1T|0|Disk||
+|┖sdb1|8:17|0|128G|0|Part|
 
 The seven columns in the output from the **lsblk** command are as follows:
 

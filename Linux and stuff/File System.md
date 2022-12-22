@@ -143,4 +143,29 @@ Format the partition-
 Mount a filesystem-
 `sudo mount <device> <path to mount>`
 
-File systems can also be mounted using [[fstab]]
+Unmount a filesystem-
+`sudo umount <device>`
+
+File systems can be mounted on startup using [[fstab]]
+To do this, we need to modify a file located in `/etc/fstab`
+
+Each devices has a **UUID** (Universally Unique ID).  To view **UUIDs** of connected block devices-
+`sudo blkid`
+[[swap memory]]
+#### Swap Memory
+swap memory is _the dedicated amount of hard drive that is used whenever RAM runs out of memory_.
+##### Windows
+Windows os uses a program called **Memory Manager** to handle virtual memory. It's job is to take care of the mapping of virtual to physical memory for our programs and to manage paging.
+In windows, pages saved to disk are stored in a special hidden file on the root partition of a volume called ==pagefile.sys==.
+Windows automatically created the page files and uses  memory manager to copy pages of memory to be read as needed. The OS does a pretty good job managing the page file automatically. Even so, windows provides a way to modify the size, number and location of pagefiles through a control panel applet called ==system properties==.
+To access ==system properties== -
+```
+control panel > system and security > system > advanced system setting > adcanced > performance(settings) > advanced
+```
+You should see a section called virtual memory which displays the paging file size.
+You can change the paging file size from here.
+Lean more- [[Windows Paging Files]]
+
+
+##### Linux
+In linux, the dedicated area of the hard drive is used for virtual memory, known as **swap space**.
