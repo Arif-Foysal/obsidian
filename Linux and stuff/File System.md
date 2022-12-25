@@ -169,3 +169,46 @@ Lean more- [[Windows Paging Files]]
 
 ##### Linux
 In linux, the dedicated area of the hard drive is used for virtual memory, known as **swap space**.
+**Creating a swap partition-**
+- Use `parted` followed by the disk
+`sudo parted /dev/sdb`
+- set up a swap area using `mkswap`-
+`sudo mkswap /dev/sdb2`
+- Enable swapping on that partition-
+`sudo swapon /dev/sdb2`
+
+#### The windows filesystem(NTFS)-
+NTFS uses [[MFT(Master File Table)]].
+Every file in volume has at least one entry in the MFT. This includes-
+	- File name
+	- Timestamp
+	- Permissions
+	- Location
+etc.
+
+When you create a file in the NTFS file system, entries get added to the MFT. When files get deleted,  their entries in MFT is marked as free.
+
+==shortcut== is a special type of file in windows. It has a reference to some destination, so when you open the file, you are taken to that destination.
+To create shortcut, right click on the file and click create shortcut.
+
+NTFS has 2 other ways to link file-
+	- [[Hard Links]]
+	- [[Symbolic Links]]
+**Symbolic Links** are kind of like shortcuts, but file system level. When you create a symbolic link, you basically create an entry in MFT that points another entry or another file. 
+
+When you try to read the contents of a shortcut-
+`cat file.shortcut`
+It returns a random string that is not readable by us.
+
+We can overcome this problem by creating symbolic link or hard link.
+To create a symbolic link-
+`mklink <outFile> <inFile>`
+
+symbolic links are not accessable when the name of the file is changes
+
+When you create a hard link, an entry is added to the MFT that points to the linked file record number. So the file name of the target can change, and hard links can still point to it. Which does not happen in symbolic links.
+Craeting hard link-
+`mklink /H <outFile> <inFile>`
+``
+
+
