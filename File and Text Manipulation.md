@@ -58,6 +58,9 @@ ex: Listing all the .exe files in the current directory (including the subdirect
 let's find 'foo' in one.txt -
 `grep foo one.txt`
 This will output lines that has the string 'foo' in it.
+You can use the option `-r` to search within directories.
+`grep fruit * -r`
+
 using [[wildcards]] is also allowed
 #### Input, Output and Pipeline
 ###### Windows
