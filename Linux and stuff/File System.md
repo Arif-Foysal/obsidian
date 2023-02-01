@@ -210,5 +210,84 @@ When you create a hard link, an entry is added to the MFT that points to the lin
 Craeting hard link-
 `mklink /H <outFile> <inFile>`
 ``
+#### Linux Filesystem
+
+In linux, metadata and files are organized into a structure called [[inode]].
+Inodes are similar to MFT records of windows. Inode itself doesnot contain the filename and the file data itself, but it contains everything else about the file. 
+Shortcuts in linux are reffeerd to as softlinks or symlinks. They work in a similar way symbolic link work in windows. They basically point to another file. 
+Hardlinks in linux do not point to a file. They link to an inode which is stored in an inode table on the filesystem. When you create a hardlink, you point to a physical location on a disk. If you delete a file of a hardlink, all other hardlinks would still work.
+
+if you list contents using `ls -l`
+o/p-
+```
+-rw-rw-r-- 1 mrx mrx 1474873344 Oct 19 22:50  ubuntu-22.04.1-live-server-amd64.iso
+```
+the number (1) after the permissions indicates the amount of hardlinks a file has.
+when the hardlink count of a file is `0`, this means the file is completely removed from the computer. 
+##### Creating Symlinks in Linux
+`ln` command can be used to create symlinks in linux.
+
+To create a softlink-
+```
+ln -s <source-location> <symlink-location>
+```
+To create a hardlink, we run the same command without the flag `-s`-
+
+`ln <source-location> <symlink-location>`
 
 
+#### Disk Usage
+##### Windows
+To check disk usage,
+
+you can open up the computer management utility.
+
+Then head to the `disk management console`.
+From there, right click on the partition you're interested in and select properties.
+
+Windows also provides a command line utility called `Disk usage` that can be used for for the same purpose.
+###### Disk Usage using Command line
+Du (disk usage) reports the disk space usage for the directory you specify. By default it recurses directories to show the total size of a directory and its subdirectories.
+
+## Using Disk Usage (DU)
+
+**Usage: du [-c[t]] [-l <levels> | -n | -v] [-u] [-q] <directory>**
+
+|Parameter| Description |
+|---------|-------------|
+|**-c**|Print output as CSV. Use -ct for tab delimiting.|
+| **-l** | Specify subdirectory depth of information (default is 0 levels). |
+| **-n** | Do not recurse. |
+| **-v** | Show size (in KB) of intermediate directories. |
+| **-u**  | Count each instance of a hardlinked file. |
+| **-q** | Quiet. |
+| **-nobanner** | Do not display the startup banner and copyright message. |
+
+CSV output is formatted as:
+
+Path, CurrentFileCount, CurrentFileSize, FileCount, DirectoryCount, DirectorySize, DirectorySizeOnDisk
+
+In the properties window, the `Disk Cleanup` button does some cleanup to the system. This includes deleting temporary files, compressing old and rarely used files etc. 
+[[Defragmentation]] is the idea to take all the files stored on a given disk, and rorganize them into neighbouring locations. SSD's usually do not need defragmentation. [[Defragmentation]] in windows is handled as a scheduled task. 
+###### Disk cleanup using command line
+To start the Disk Cleanup tool and specify the hard disk to be cleaned by using the command line, follow these steps:  
+
+1.  Click **Start**, and then click **Run**.
+    
+2.  In the **Open** box, type the following command, and then press Enter:
+    
+    ```
+    c:\windows\SYSTEM32\cleanmgr.exe /d**Drive**
+    ```
+> Note In this command, the placeholder **Drive** represents the drive letter of the hard disk to be cleaned.
+
+#### Linux Disk Usage
+Disk usage in linux can be monitored using 
+`du -h`
+If you do not specify the directory, it will default your current one.
+If you wanna know how much free space available, you can use-
+`df -h`
+Defragmentation is not needed in linux, as linux is already good at it.
+
+##### Filesystem repair
+###### Windows
