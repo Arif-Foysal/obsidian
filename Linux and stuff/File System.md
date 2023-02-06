@@ -291,3 +291,29 @@ Defragmentation is not needed in linux, as linux is already good at it.
 
 ##### Filesystem repair
 ###### Windows
+When we read or write something to a drive, we actually put it into a buffer, or cache first.
+A data buffer is a region of RAM that's used to temporarily store data
+
+while it's being moved around.
+
+So when you copy something from your OS to your USB drive, it first gets copied to
+
+a data buffer because RAM operates faster than hard drives.
+So if you don't properly unmount a file system and give your buffer enough time to finish moving data, you run the risk of data corruption.
+
+The NTFS file system has some advanced features built into it that can help minimize the danger of corruption, as well as, try to recover when the file system does get damaged.
+One of these features, through a process called journaling, logs changes made to a file metadata into a log file called the NTFS log. By logging these changes, NTFS creates a history of the actions it's taken.
+This means it can look at the log to see what the current state of the file system should be. If a crash or bug does cause corruption, the file system can initiate recovery process that will use that log to make sure the system is in a consistent state.
+
+In addition to journaling, NTFS and Windows implements something called self-healing. the self-healing mechanism makes changes to minor problems and corruptions on the disk automatically in the background. It does this while Windows is running so you don't need to perform a reboot.
+If you want to check the status of the self-healing process on your computer, you can open up an administrative command prompt and use the fsutil tool
+`fsutil repair query C:`
+
+To run check disks manually, you can open up an administrator command prompt and type-
+`chkdsk /F D:`
+
+By default, check disk will run in read-only mode. So it'll give you a report on the health of the disk, but won't make any modifications or repairs to it.
+You can tell check disk to fix any problems it finds with the /F flag.
+
+###### Linux
+[[Linux Filesystem Repair]]
