@@ -6,7 +6,6 @@
 1. Be yourself
 2. Stick to a certain topic
 3. It's not about having 100M subs, it's not about earning a whole bunch of money, it's about having fun.
-4.   
 ### Informational Channels
 1. ForrestKnight
 2. CodingPhase
