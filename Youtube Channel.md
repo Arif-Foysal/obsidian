@@ -7,10 +7,11 @@
 2. Stick to a certain topic
 3. It's not about having 100M subs, it's not about earning a whole bunch of money, it's about having fun.
 ### Informational Channels
-1. ForrestKnight
-2. CodingPhase
-3. RealToughCandy
-4. Andy Sterkowitz
+1. [Hallden](https://www.youtube.com/@Hallden_)
+3. [ForrestKnight](https://www.youtube.com/@fknight)
+4. [CodingPhase](https://www.youtube.com/@CodingPhase)
+5. [RealToughCandy](https://www.youtube.com/@RealToughCandy)
+6. [Andy Sterkowitz](https://www.youtube.com/@AndySterkowitz)
 ### Software Entertainment
 Focused on the outcome of the program, and not on the actual code used.
 #### Channels
