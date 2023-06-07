@@ -20,7 +20,7 @@ Focused on the outcome of the program, and not on the actual code used.
 4. CodeParade
 5. Robot Family
 ### Things to get ready
-- [ ] Channel Name
+- [x] Channel Name
 - [ ] Channel Icon
 - [ ] Channel Art (Like the cover photo of a facebook profile)
 - [ ] Video Watermark
