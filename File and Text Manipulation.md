@@ -46,7 +46,7 @@ Done! Try searching using your file explorer.
 `sls` or Select-String command to find words or other string of characters and files. 
 Let's search for the word 'foo' in the file one.txt-
 `sls foo one.txt` 
-we can also search through through several files in the directory using [[wildcards]]
+we can also search through through several files in the directory using [[Bash Wildcards]]
 ###### searching for something within directory/filtering
 `-Filter` option can be used for this job
 ex: Listing all the .exe files in the current directory (including the subdirectory)-
@@ -61,7 +61,7 @@ This will output lines that has the string 'foo' in it.
 You can use the option `-r` to search within directories.
 `grep fruit * -r`
 
-using [[wildcards]] is also allowed
+using [[Bash Wildcards]] is also allowed
 #### Input, Output and Pipeline
 ###### Windows
 Each process in #windows as well as #linux has 3 different streams.

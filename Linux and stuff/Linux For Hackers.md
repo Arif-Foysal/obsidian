@@ -52,7 +52,7 @@ kali> `find /home/mrx -type f -name freecodeCamp.png`
 bash: `/home/mrx/Certifications/FreeCodeCamp.png`
 **Downsides**
 - only outputs the exact matches. Even if the searched file has an extension, it will not find a match.
-**sol:** We can easily solve this problem by using [[wildcards]]. Wildcard come in a few different forms such as: * . ? and [ ]
+**sol:** We can easily solve this problem by using [[Bash Wildcards]]. Wildcard come in a few different forms such as: * . ? and [ ]
 
 
 
