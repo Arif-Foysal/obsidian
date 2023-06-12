@@ -202,6 +202,41 @@ CREATE TABLE `offices` (
 ```
 >- **Note that a table must have at least 1 column**
 
+#### Describing/Viewing a table
+We can view a table information (Fields and their data types) by-
+```
+DESCRIBE `<tableName>`;
+```
+For example, if we wanna describe the table we just created,
+```
+Describe `offices`;
+```
+Output:
+```
++--------------+-------------+------+-----+---------+-------+
+| Field        | Type        | Null | Key | Default | Extra |
++--------------+-------------+------+-----+---------+-------+
+| officeCode   | varchar(10) | NO   | PRI | NULL    |       |
+| city         | varchar(50) | NO   |     | NULL    |       |
+| phone        | varchar(50) | NO   |     | NULL    |       |
+| addressLine1 | varchar(50) | NO   |     | NULL    |       |
+| addressLine2 | varchar(50) | YES  |     | NULL    |       |
+| state        | varchar(50) | YES  |     | NULL    |       |
+| country      | varchar(50) | NO   |     | NULL    |       |
+| postalCode   | varchar(15) | NO   |     | NULL    |       |
+| territory    | varchar(10) | NO   |     | NULL    |       |
++--------------+-------------+------+-----+---------+-------+
+```
+
+#### Inserting Data to a table
+We can insert some rows into the table using the following statement.
+```
+INSERT INTO <table_name> (column1, column2, column3, ...)
+VALUES (value11, value21, value31, ...) --record/row 01
+	   (value12, value22, value32, ...); --record/row 02
+```
+> **Note that,**
+- `(column1, column2, column3, ...)` is an optional list of column names within parentheses. If you specify column names, the data will be inserted into those specific columns. If you omit this list, you need to provide values for all columns in the table, and the order of values should match the table's column order.
 
 
 **References**
