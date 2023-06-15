@@ -1,0 +1,8 @@
+DRAM is a type of RAM that stores data in capacitors, which are electronic components capable of storing electrical charge. Each bit of data is stored as a charge on a capacitor within an integrated circuit.
+
+- Operation: DRAM requires constant refreshing to maintain data integrity. The stored charge gradually leaks away, so the data must be periodically read and rewritten, which is known as refreshing. This refreshing process consumes additional time and resources compared to SRAM.
+- Speed: DRAM is generally slower than SRAM due to the need for refreshing and the additional overhead involved. However, advancements in technology have led to faster DRAM variants such as SDRAM (Synchronous DRAM) and its subsequent generations.
+- Stability: DRAM is volatile and requires constant power supply and refreshing to retain data. If power is interrupted or refresh cycles are missed, the stored data will be lost. This makes it necessary to save important data to secondary storage for long-term preservation.
+- Complexity: DRAM is simpler and cheaper to manufacture compared to SRAM, making it more cost-effective for larger memory capacities. It requires fewer transistors per bit of data, allowing for higher storage density.
+- Capacity: DRAM offers higher storage density compared to SRAM, resulting in lower cost per unit of storage. It is widely used as the main memory in computer systems, providing a large memory capacity for storing program instructions and data.
+- Usage: DRAM is commonly used as the [[Primary Memory]] in computers and other electronic devices. It provides a balance between cost, capacity, and performance, making it suitable for general-purpose memory requirements.
