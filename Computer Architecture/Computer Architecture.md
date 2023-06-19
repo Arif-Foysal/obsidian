@@ -1,9 +1,10 @@
-#Computer-Science 
-#Computer-Architecture
-#UIU
+#Computer-Science #Computer-Architecture #UIU
+
+> [!Contents]
+> [[assembly-language]]
+> [[MIPS]]
 
 Computer Architecture refers to the structure and design principles of a computer system. It encompasses the organization, functionality and implementation of computer hardware and software that work to perform computational tasks.
-
 ## How computers executes programming languages
 
 Computers execute programming languages through a process called [[interpretation]] or [[compilation]]. The specific method used depends on the programming language and the implementation of the language.

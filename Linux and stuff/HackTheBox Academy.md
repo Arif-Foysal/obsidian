@@ -1,3 +1,4 @@
+#shell #bash 
 ## Linux Fundamentals Cheatsheet
 | **Command** | **Description** |
 | --------------|--------------|

@@ -1,15 +1,11 @@
-https://misc.flogisoft.com/bash/tip_colors_and_formatting
-Color
-
-Example
-
-Preview
-
-39
+#bash #shell
+Ref: https://misc.flogisoft.com/bash/tip_colors_and_formatting
 
 Default foreground color
 
+```bash
 echo -e "Default \e[39mDefault"
+```
 
 ![Default Default](https://misc.flogisoft.com/_media/bash/colors_format/vt100_color_fg_39_default.png "Default Default")
 
@@ -17,7 +13,9 @@ echo -e "Default \e[39mDefault"
 
 Black
 
+```bash
 echo -e "Default \e[30mBlack"
+```
 
 ![Default Black](https://misc.flogisoft.com/_media/bash/colors_format/vt100_color_fg_30_black.png "Default Black")
 

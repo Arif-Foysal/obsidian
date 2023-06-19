@@ -1,3 +1,4 @@
+#project #electronics #uiu 
 - Enter RFID > if rfid matched
 - Select Items
 - Rotate Corresponding servo motors

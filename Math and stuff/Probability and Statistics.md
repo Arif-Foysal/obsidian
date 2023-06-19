@@ -12,8 +12,6 @@
 >- [[#Variable]]
 >	- [[#Categorical Variables]]
 >	- [[#Numerical Variables]]
->- [[Linux For Hackers]]
->[[Linux notion]]	
 ## What is statistics
 Statistics is the discipline that concerns the collection, organization, analysis, interpretation,and presentation of data.
 Data are individual facts or items of information, may be qualitative or quantitative.

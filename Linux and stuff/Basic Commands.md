@@ -19,7 +19,7 @@ or
 view command history -
 `history`
 Search through command histroy using the shortcut-
-Works on #windows as well
+Works on windows as well
 `ctrl + R`
 History autocompletion (Cycle through matches) - 
 `#mkdir 'TAB'`
