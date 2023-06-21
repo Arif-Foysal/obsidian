@@ -1,0 +1,19 @@
+### Listing Databases
+To display available databases, use the statement:
+```
+SHOW DATABASES;
+```
+
+Output:
+```sql
++--------------------+
+| Database           |
++--------------------+
+| information_schema |
+| mysql              |
+| performance_schema |
+| sys                |
++--------------------+
+4 rows in set (0.01 sec)
+
+```
