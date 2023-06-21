@@ -1,4 +1,4 @@
-# Theory of Computation
+#Computer-Science #uiu 
 ## Introduction
 Theory of computation (also known as automata theory) is a theoretical branch of computer science and mathematics which mainly deals with logic of computation with respect to simple machines, referred to as automata.
 

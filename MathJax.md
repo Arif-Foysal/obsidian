@@ -1,4 +1,8 @@
 #math #research 
+> [!Contents]
+> [[Change MathJax Font Size on Obsidian]]
+> [[Latex Mathematix]]
+
 
 1. **For inline formulas, enclose the formula in `$`…`$`. For displayed formulas, use `$$`…`$$`.**
     
@@ -8,19 +12,13 @@
 
 - or type the following for display mode:  
     `$$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$`  
-    
-    ∑i=0ni2=(n2+n)(2n+1)6
-    
+    $\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$ 
 
-- For **Greek letters**, use `\alpha`, `\beta`, …, `\omega`: α
-    
-, β, …, ω
+- For **Greek letters**, use `\alpha`, `\beta`, …, `\omega`:
+	$\alpha$ $\beta$ $\omega$
 
-.
-
-- For uppercase letters, use `\Gamma`, `\Delta`, …, `\Omega`: Γ
-
-, Δ, …, Ω- .
+- For uppercase letters, use `\Gamma`, `\Delta`, …, `\Omega`: 
+	$\Gamma$ $\Delta$ $\Omega$
 - For other Greek capital letters, use Latin `$A,`, `B`, `E$` and so on: A,B,E
 - .
 - Some Greek letters have variant forms: `\epsilon \varepsilon` ϵ
@@ -198,4 +196,4 @@ To set plain text, use `\text{…}`: {x∈s∣x is extra large}
 , `\{` {, `\}` }, `\_` _, `\#` #, `\&` &. If you want `\` itself, you should use `\backslash` (symbol) or `\setminus` ([binary operation](https://tex.stackexchange.com/questions/511328/difference-between-commands-setminus-and-backslash/511332#511332)) for ∖, because `\\` is for a new line.
 
 
-**Ref: ** https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference
+**Ref:** https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference
