@@ -1,4 +1,3 @@
-
 #### Disk Partitioning
 Partitions act as own seperate sub disks. 
 When you formate a file system in a partition, it becomes a **Volume**
@@ -277,8 +276,7 @@ To start the Disk Cleanup tool and specify the hard disk to be cleaned by using 
     
 2.  In the **Open** box, type the following command, and then press Enter:
     
-    ```
-    c:\windows\SYSTEM32\cleanmgr.exe /d**Drive**
+    ```c:\windows\SYSTEM32\cleanmgr.exe /d**Drive**
     ```
 > Note In this command, the placeholder **Drive** represents the drive letter of the hard disk to be cleaned.
 
