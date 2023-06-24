@@ -1,0 +1,1 @@
+An assembler is a program that converts [[assembly-language]] to machine code or binary code.
