@@ -1,0 +1,7 @@
+An instruction set is a collection of instructions that a processor or a [[computer architecture]] can execute. It defines the set of operations that a processor can perform and the format of the instructions that the processor can understand.
+
+The instruction set architecture (ISA) is a specification that describes the interface between the hardware and the software of a computer system. It defines the instructions available to programmers and the encoding of those instructions. The ISA specifies the registers available, the memory addressing modes, the data types supported, and the behavior of the instructions.
+
+Different processor architectures have their own instruction sets. Some popular instruction sets include x86 (used by Intel and AMD processors), ARM (widely used in mobile devices), MIPS (often used in embedded systems), PowerPC (used in IBM systems), and RISC-V (an open-source instruction set architecture).
+
+The instruction set is a fundamental aspect of a processor's design, and it influences factors such as performance, code density, and ease of programming. Programmers write software in a high-level language, and compilers or assemblers translate that code into machine code instructions that conform to the processor's instruction set.

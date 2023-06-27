@@ -1,3 +1,9 @@
+> [!Contents]
+> [[C Program to MIPS Conversion]]
+> 
+
+
+
 MIPS stands for "Microprocessor without Interlocked Pipeline Stages." It is both a specific microprocessor architecture and an [[acronym]] for the company that originally designed it, **MIPS Technologies**.
 
 MIPS is a [[Reduced Instruction Set Computer (RISC)]] architecture, which means it uses a simplified set of instructions compared to Complex Instruction Set Computers (CISC). The architecture was developed in the early 1980s and gained popularity in the embedded systems and workstation markets.
