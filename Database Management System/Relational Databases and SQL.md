@@ -10,8 +10,8 @@
 >	- [[Listing Databases]]
 >	-
 >	- [[Comments in SQL]] 
->- [[Lab_4 (Retrieving Data from Table).pdf | Lab-04 Assignment]]
->- 
+>- [[DBMS Lab-04 Assignment]]
+
 
 **What is a Database?**
 A database is an organized collection of structured information, typically stored in the form of tables (rows/records & columns/fields). Relational databases allow storing and retrieving different kinds of related information e.g. products, customers, and orders for an online shopping site. Structured Query Language or SQL (pronounced "sequel") is the most widely used language for interacting with relational databases, and is an essential skill for Data Science professionals.

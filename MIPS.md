@@ -1,5 +1,7 @@
 > [!Contents]
+> [[Registers]]
 > [[C Program to MIPS Conversion]]
+> [[2's complement]]
 > 
 
 
@@ -21,6 +23,7 @@ In addition to the hardware architecture, MIPS also refers to the MIPS Technolog
 ## Registers:
 A register is a special storage location built into the CPU. The data in the registers can be accessed much faster than data in memory.
 - The MIPS architecture provides 32 general purpose registers.
+- The size of a register in the MIPS architecture is 32 bits.
     
 - The registers each have a symbolic name (for use in assembly language) as well as a numeric code.
     
