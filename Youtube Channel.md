@@ -1,3 +1,8 @@
+#youtube #goals #todo
+
+[[Brainstorming Video Ideas]]
+
+
 > You don't even have to know anything about a topic to teach someone about the topic. All you have to have is an interest and a desire to learn.
 
 - [ ] Determine your goal.
@@ -24,11 +29,11 @@ Focused on the outcome of the program, and not on the actual code used.
 - [x] Channel Name
 - [ ] Channel Icon
 - [ ] Channel Art (Like the cover photo of a facebook profile)
-- [ ] Video Watermark
 - [ ] Intro (Keep it under 5 sec)
+- [ ] Video Watermark
 - [ ] Outro
 ### Steps to make a video
-1. Brainstorming
+1. [[Brainstorming Video Ideas]]
 		Write down every idea you can posibbly think of
 2. Narrow down those ideas to the best ideas.
 3. Research
