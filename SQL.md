@@ -11,8 +11,10 @@
 > - [[Viewing Data from a Table]]
 > - [[SQL Data Types]]
 > - [[SQL Key Types]]
-
+> - 
 
 ## Structured Query Language
-
 Structured Query Language or [[SQL]] is a programming language for interacting with relational databases. Unlike general purpose programming languages like Python, Java, C++ etc., SQL has a very limited syntax.
+
+**MYSQL Official Documentation by Oracle**
+https://dev.mysql.com/doc/refman/8.0/en/

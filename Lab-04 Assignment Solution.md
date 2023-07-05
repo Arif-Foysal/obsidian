@@ -1,2 +1,5 @@
-# Task-03
-### a. Find the names of all departments with the instructor, and remove duplicates.
+#dbms #assignment #uiu #Computer-Science 
+
+### Task-01
+After creating the given tables on the university database-
+
