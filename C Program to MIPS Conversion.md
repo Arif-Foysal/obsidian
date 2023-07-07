@@ -65,7 +65,8 @@ sub d, a, e
 ```
 
 >Compile the following C code to MIPS-
->```f = (g + h) – (i + j);
+>```
+>f = (g + h) – (i + j);
 >```
 
 The compiler must break this statement into several assembly instructions, since only one operation is performed per MIPS instruction. the first MIPS instruction calculates the sum of g and h. We must place the result somewhere, so the compiler creates a temporary variable, called t0:
@@ -81,6 +82,7 @@ So, there is a restriction that three operands of MIPS arithmetic instructions m
 It is the [[compilation | compiler]]'s job to associate program variables with registers.
 
 ### Compiling a C assignment using Registers
+
 > The assignment statement from our earlier example:
 > `f = (g + h) – (i + j);`
 
@@ -90,4 +92,48 @@ add $t0, $S1, $S2
 add $t2, $S3, $S4
 sub $S0, $t0, $t1
 ```
+
+### Working with constants
+#### Adding
+What if we need to add or subtract a constant from a variable?
+`a=b+2`
+Here, instead if `add` , we need to use `addi` which accepts accepts one source register and one constant and stores their sub into the destination register.
+```
+addi <destination>, <source>, <constant>
+```
+So if we want to compile the following statement,
+```C
+a=b+2
+```
+
+into MIPS code, it would be-
+```MIPS
+addi $S0, $S1, 2
+```
+> Note that constants always placed as the last(right most) operand
+
+#### Subtracting
+Unlike `addi`, there is no `subi` instruction in MIPS. That's simply because we can perform subtraction using `addi` by [[2's complement]]. 
+```c
+a=b-2
+```
+Compiled MIPS code-
+```MIPS
+addi $S0, $S1, -2
+```
+
+#### Assigning values into variables
+Assigning constants into variables can simply be done using `addi` instruction and `$ZERO` register.
+For instance-
+```C
+a = 10
+```
+
+```MIPS
+addi $S0, $ZERO, 10
+```
+
+## Logical
+[[Logical Operations]]
+
 
