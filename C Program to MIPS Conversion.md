@@ -135,5 +135,29 @@ addi $S0, $ZERO, 10
 
 ## Logical
 [[Logical Operations]]
+### Logical AND
+```C
+a = b && c
+```
 
+```MIPS
+and $S1, $S2, $S3
+```
+
+### AND with constant
+```C
+a = b && 1
+```
+
+```MIPS
+andi $S1, $S2, 1
+```
+### Logical OR
+```C
+a = b || c
+```
+
+```MIPS
+or $S0
+```
 
