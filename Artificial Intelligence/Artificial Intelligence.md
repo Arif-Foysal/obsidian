@@ -1,4 +1,6 @@
-#Computer-Science #uiu
+#Computer-Science #uiu #artificial-intellegence
+
+[[Characterics of Environment]]
 
 
 
