@@ -1,0 +1,1 @@
+Discrete refers to variables or characteristics that have distinct, separate, and countable values.

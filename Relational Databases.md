@@ -1,3 +1,4 @@
+[[Relational Databases and SQL]]
 
 ## Relational Databases
 There are many ways of storing data on a computer (text files, [[JSON]] files, [[CSV]] files, spreadsheets etc.). A relational database is a data storage system with the following properties:

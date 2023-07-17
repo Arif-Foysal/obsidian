@@ -3,7 +3,7 @@
 > [!Contents]
 > [[assembly-language]]
 > [[MIPS]]
-> [[C Program to MIPS Conversion]]
+> [[High Level Program to MIPS Conversion]]
 > [[Computer Memory]]
 > [[Performance]]
 > 

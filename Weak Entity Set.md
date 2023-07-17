@@ -1,0 +1,2 @@
+#dbms #Computer-Science 
+A weak entity set is an entity set that does not have sufficient attributes to uniquely identify all its entities. In other words, a weak entity set will not have a primary key on its own.

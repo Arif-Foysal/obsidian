@@ -4,6 +4,7 @@ There are three types of SQL statements:
 
 - Generating a table
 - Modifying a structure of a table (altering)
+[[Query Processor]] interprets DDL commands into [[low level language | low level instructions]]
 
 **2. Data Control Language(DCL):** The Data Control Language allows you to manipulate and manage user access rights on database objects. It consists of two commands:
 
@@ -22,3 +23,4 @@ Some quick notes on the SQL syntax:
 - The statements in this tutorial can be executed on the MySQL command line or the workbench
 
 The SQL syntax for each relational database software package is slightly different. Check the official documentation of your DB for details.
+DML Compiler converts the DML to [[low level language]]

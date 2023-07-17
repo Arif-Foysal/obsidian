@@ -1,6 +1,6 @@
 > [!Contents]
 > [[Registers]]
-> [[C Program to MIPS Conversion]]
+> [[High Level Program to MIPS Conversion]]
 > [[2's complement]]
 > 
 
