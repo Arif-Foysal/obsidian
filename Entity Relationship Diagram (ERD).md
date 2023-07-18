@@ -5,6 +5,7 @@
 > [[Entity Relationship Diagram (ERD)#ERD Notations|ERD Notations]]
 > 	- [[Chen Notation]]
 > 	- [[Crow's Foot Notation]]
+> [[ERD Practice Problems]]
 > 
 > 
 
@@ -36,7 +37,7 @@ There are several types of attributes which include-
   - [[Super Key]]
   - [[Candidate Key]]
   - [[Primary Key]]
-  - 
+  - [[partial key]]
 
 ### Relationships
 A relationship is a connection between two or more entities.

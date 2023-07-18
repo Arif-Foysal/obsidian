@@ -21,9 +21,9 @@ In this scenario, each department can have multiple employees, but each employee
 ### Trick to Identify
 
 Ask question from each side, 
-`|Department|<----<lives>----->|Employee|`
-`  1                      ??   *      ` `How many Departments can 1 employee have?`
-`?? 1                          1      ` `How many Employee can have 1 department?`
+`|Department|<----<lives>-----|Employee|`
+` 1----------------------------??  * ` `How many Departments can 1 employee have?`
+`?? 1 ----------------------- 1   ` `How many Employee can have 1 department?`
 
 If we get 1 on one side in each cases, and many on another side, then it's a one to one cardinality.
 
