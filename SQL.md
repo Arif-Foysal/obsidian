@@ -16,5 +16,7 @@
 ## Structured Query Language
 Structured Query Language or [[SQL]] is a programming language for interacting with relational databases. Unlike general purpose programming languages like Python, Java, C++ etc., SQL has a very limited syntax.
 
+**Resources:**
+[[CSI-222-LAB_Manual.pdf|DBMS Lab Manual PDF]]
 **MYSQL Official Documentation by Oracle**
 https://dev.mysql.com/doc/refman/8.0/en/
