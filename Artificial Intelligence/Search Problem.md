@@ -18,7 +18,7 @@ Sometimes, Transition Function and Cost Function are together called **Successor
 There are many different search algorithms that can be used to solve search problems. Some of the most common algorithms include:
 - [[Uniform Cost Search]]
 - [[Breadth-first search]]
-	- [[Greedy Breadth-first search]]
+	- [[Greedy Breadth-First Search(GBFS)]]
 - [[Depth-first search]]
 - [[A* Search]]
 	- [[A* tree search]]
