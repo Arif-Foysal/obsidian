@@ -8,7 +8,12 @@ A search problem can be defined by the following elements:
 - **Goal state(test):** The state that the problem is trying to achieve.
 - **Transition function:** A function that maps from one state to a set of possible successor states.
 - **Cost function:** A function that assigns a cost to each state or transition.
-Sometimes, Transition Function and Cost Function are together called **Successor Funciton**
+Sometimes, Transition Function and Cost Function are together called **Successor Function**
+### Search Algorithm Properties
+- [[Complete Algorithm]]
+- [[Optimal Algorithm]]
+- [[Time Complexity]]
+- [[Space Complexity]]
 
 There are many different search algorithms that can be used to solve search problems. Some of the most common algorithms include:
 - [[Uniform Cost Search]]

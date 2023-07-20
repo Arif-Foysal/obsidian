@@ -1,3 +1,4 @@
+#Computer-Science 
 Logical operations in computers refer to the fundamental operations performed on binary data, which consists of bits (0s and 1s). These operations manipulate the binary values according to specific rules to produce logical outcomes. There are several common logical operations used in computer programming and digital circuitry, including:
 
 1. AND (Conjunction): The AND operation takes two input bits and produces an output bit that is 1 only if both input bits are 1. Otherwise, the output is 0. It can be represented using the symbol "&" or the logical operator "AND."

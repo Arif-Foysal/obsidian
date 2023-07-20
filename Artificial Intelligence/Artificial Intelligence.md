@@ -4,6 +4,7 @@
 > - [[Characteristics of Environment]]
 > - [[Search Problem]]
 > 	- [[State space]]
+> 	- [[Search Problem#]]
 > 	- [[Uniform Cost Search]]
 > 	- [[Breadth-first search]]
 > 		- [[Greedy Breadth-first search]]
@@ -12,6 +13,7 @@
 > 		- [[A* tree search]]
 > 		- [[A* Graph Search]]
 > - 
+
 
 
 

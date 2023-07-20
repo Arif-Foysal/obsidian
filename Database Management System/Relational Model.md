@@ -14,7 +14,7 @@ The main components of Relational Schema are-
 For [[one to many cardinality]], primary key of one side comes to the many side as a foreign key.
 #### Weak Entity Set to Relational Schema
 ![[Weak-entity_to_rel-scm.png]]
-#### [[Composite Attribute]] to Relational Schema
+#### [[composite attribute]] to Relational Schema
 ![[composite-attrib-to-rel-scm.jpg]]
 
 #### [[multi-valued attribute]] to Relational Schema
