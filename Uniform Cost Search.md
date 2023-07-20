@@ -8,3 +8,8 @@ Uniform-cost search (UCS) is an **uninformed search algorithm** that finds the p
 
 
 
+
+
+
+## Uniform Cost Search Simulation Example
+![[Uniform-cost-search-simulation.jpg]]

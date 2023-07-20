@@ -5,7 +5,7 @@ A search problem can be defined by the following elements:
 
 - **[[State space]]:** The set of all possible states that the problem can be in.
 - **Start state:** The initial state of the problem.
-- **Goal state:** The state that the problem is trying to achieve.
+- **Goal state(test):** The state that the problem is trying to achieve.
 - **Transition function:** A function that maps from one state to a set of possible successor states.
 - **Cost function:** A function that assigns a cost to each state or transition.
 Sometimes, Transition Function and Cost Function are together called **Successor Funciton**
