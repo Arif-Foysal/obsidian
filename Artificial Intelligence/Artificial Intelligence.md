@@ -5,7 +5,7 @@
 > - [[Search Problem]]
 > 	- [[State space]]
 > 	- [[Search Problem#]]
-> 	- [[Uniform Cost Search]]
+> 	- [[Uniform Cost Search(UCS)]]
 > 	- [[Breadth-first search]]
 > 		- [[Greedy Breadth-First Search(GBFS)]]
 > 	- [[Depth-first search]]
