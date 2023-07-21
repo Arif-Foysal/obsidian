@@ -21,4 +21,6 @@ Greedy Breadth-First Search combines these two approaches by using the heuristic
 - Not [[Complete Algorithm]]. Due to its greedy nature, it may get stuck in an infinite loop.
 ### GBFS Simulation
 >[!Strategy]
+>Expand the Node that seems closest
 
+![[AI.png]]
