@@ -19,5 +19,5 @@ It uses a [[Heuristic Function]], often denoted as h(n), to estimate the cost of
 ![[A Star heuristic funciton.svg]]
 ## A* Search Simulation
 ![[A star graph 01.svg]]
-
+fetch
 
