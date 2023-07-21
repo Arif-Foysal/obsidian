@@ -6,6 +6,8 @@ Heuristic functions are commonly used in [[Informed search algorithm]] , such as
 A heuristic function for **path finding** can be -
 - [[Euclidian Distance]] or **straight line distance**
 - [[Manhattan Distance]]
+## Properties of a Heuristic Function
+- [[Admissible Heuristic]]
 
 
 

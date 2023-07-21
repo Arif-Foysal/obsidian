@@ -2,6 +2,7 @@
 
 >[!Contents]
 > - [[Characteristics of Environment]]
+> - [[AI problem Formulation]]
 > - [[Search Problem]]
 > 	- [[State space]]
 > 	- [[Search Problem#]]
@@ -9,11 +10,13 @@
 > 	- [[Breadth-first search]]
 > 		- [[Greedy Breadth-First Search(GBFS)]]
 > 	- [[Depth-first search]]
-> 	- [[A* Search]]
-> 		- [[A* tree search]]
-> 		- [[A* Graph Search]]
+> 	- [[A Star Search]]
+> 		- [[A star tree search]]
+> 		- [[A Star Graph Search]]
 > - 
 
+**Additional Resources:**
+https://www.youtube.com/@CSFall-de7jy/videos
 
 
 
