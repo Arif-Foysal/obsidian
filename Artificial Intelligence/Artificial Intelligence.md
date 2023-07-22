@@ -1,7 +1,8 @@
 #Computer-Science #uiu #artificial-intellegence
 
 >[!Contents]
-> - [[Characteristics of Environment]]
+>[[AI Agent and Environment]]
+> 	- [[Characteristics of Environment]]
 > - [[AI problem Formulation]]
 > - [[Search Problem]]
 > 	- [[State space]]

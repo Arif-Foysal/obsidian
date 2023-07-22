@@ -6,6 +6,8 @@ Local Search can be used when
 - [[Optimization Problems]]
 ## Examples of Local Search Algorithms
 - [[Hill Climbing Search]]
+- [[Simulated annealing (SA)]]
+- 
 ## Properties of Local Search Algorithm
 - 
 
