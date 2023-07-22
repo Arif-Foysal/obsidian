@@ -10,10 +10,8 @@ It uses a [[Heuristic Function]], often denoted as h(n), to estimate the cost of
 ### Advantages
 - A* search is a  [[Optimal Algorithm]]. But it must be fed with an [[Admissible Heuristic]]. It may not find the optimal path if it is fed with a bad heuristic function.
 >[!Note]
->[[A star tree search]] will be optimal if fed with [[Admissible Heuristic]].
->[[A Star Graph Search]] may not find optimal solution even if fed with [[Admissible Heuristic]].
-
-
+>[[A star tree search]] is optimal when it has a [[Admissible Heuristic]].
+>[[A Star Graph Search]] is optimal when it has [[Consistent Heuristics]].
 
 ### Disadvantages
 - 
@@ -22,16 +20,9 @@ It uses a [[Heuristic Function]], often denoted as h(n), to estimate the cost of
 
 ## A* Search Heuristic Function
 ![[A Star heuristic funciton.svg]]
+
 ## A* Search Simulation
-
-### [[A star tree search]] Simulation:
-
-![[A star graph 01.svg]]
-Here, 
-	**Start State:** S
-	**Goal State:** G
-
-
+![[A star tree search]]
 
 ### [[A Star Graph Search]] Simulation:
 

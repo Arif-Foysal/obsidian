@@ -8,7 +8,7 @@ A heuristic function for **path finding** can be -
 - [[Manhattan Distance]]
 ## Properties of a Heuristic Function
 - [[Admissible Heuristic]]
-
+- [[]]
 
 
 

@@ -13,7 +13,10 @@
 > 	- [[A Star Search]]
 > 		- [[A star tree search]]
 > 		- [[A Star Graph Search]]
-> - 
+> 	- [[Local Search Algorithm]] 
+> 		- [[Hill Climbing Search]]
+> 			- [[8-Queens Problem]]
+> - [[n-Queens Problem]]
 
 **Additional Resources:**
 https://www.youtube.com/@CSFall-de7jy/videos
