@@ -8,7 +8,7 @@ A register is a special storage location built into the CPU. The data in the reg
     
 - The following is a list of the registers that can be accessed/used by a user program.
 
-## Types of Registers
+## Types of Registers in MIPS Architecture
 
 |**Register Name**|**Usage**|
 |:-:|:-|
@@ -21,3 +21,6 @@ A register is a special storage location built into the CPU. The data in the reg
 |`$sp`|stack pointer -- points to the top of the stack.|
 |`$fp`|frame pointer -- points to the top of the frame in function calls.|
 |`$ra`|stores the return address of a procedure call.|
+
+## Building a Register
+https://www.youtube.com/watch?v=fpnE6UAfbtU
