@@ -6,6 +6,12 @@
 
 ==Script==
 **Key words**
+Aims for efficient
+privilege
+unauthorized
+
+constant demand
+recent study, medical demand
 
 
 
