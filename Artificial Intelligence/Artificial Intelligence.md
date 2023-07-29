@@ -17,7 +17,13 @@
 > 	- [[Local Search Algorithm]] 
 > 		- [[Hill Climbing Search]]
 > 			- [[8-Queens Problem]]
-> - [[n-Queens Problem]]
+> 			- [[8 Puzzle Problem]]
+> 	- [[n-Queens Problem]]
+> - [[Constraint Satisfaction Problem(CSP)]]
+> 	- [[Map Coloring using CSP]]
+> 	- [[n-Queens Problem Using CSP]]
+> 
+
 
 **Additional Resources:**
 https://www.youtube.com/@CSFall-de7jy/videos
