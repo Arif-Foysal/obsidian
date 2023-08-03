@@ -24,6 +24,19 @@
 > 	- [[n-Queens Problem Using CSP]]
 > 
 
+# Final Syllabus
+
+Probability basics: Basics, Full joint distribution construction, inference by enumeration, bayes rule, independence   
+
+Bayes net: syntax and semantics, inference by enumeration, variable elimination
+
+Naive bayes classifier: concept and simulation
+
+Markov model: First order markov model, calculating probability, stationary distribution
+
+Decision Tree: ID3 simulation
+
+
 
 **Additional Resources:**
 https://www.youtube.com/@CSFall-de7jy/videos

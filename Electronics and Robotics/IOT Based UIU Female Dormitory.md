@@ -2,7 +2,7 @@
 - Enter RFID > if rfid matched
 - Select Items
 - Rotate Corresponding servo motors
-[[Tasks]]
+[[Vending Machine Tasks]]
 
 ### UID of Cards
 card1: 3175175170169

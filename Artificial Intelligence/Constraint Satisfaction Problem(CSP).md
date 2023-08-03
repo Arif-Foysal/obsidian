@@ -12,9 +12,6 @@ A CSP is defined by 3 components-
 ### Solution of a CSP
 Solution of a CSP is an assignments satisfying all constrains.
 
-
-
-
 **Example:**
 [[Map Coloring using CSP]]
 [[n-Queens Problem Using CSP]]
