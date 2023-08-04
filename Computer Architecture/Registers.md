@@ -10,17 +10,22 @@ A register is a special storage location built into the CPU. The data in the reg
 
 ## Types of Registers in MIPS Architecture
 
-|**Register Name**|**Usage**|
-|:-:|:-|
-|`$zero`|constant 0|
-|`$t0 - $t9`|temporary storage (not saved across procedure calls)|
-|`$s0 - $s7`|saved temporary storage (saved across procedure calls)|
-|`$a0 - $a3`|used to pass first 4 arguments to routines.|
-|`$v0 - $v1`|used to return values from functions.|
-|`$gp`|global pointer -- points to the static data.|
-|`$sp`|stack pointer -- points to the top of the stack.|
-|`$fp`|frame pointer -- points to the top of the frame in function calls.|
-|`$ra`|stores the return address of a procedure call.|
+### Register Numbering
+
+| **Register Name** | **Register Number**                                               | **Usage** |
+|:-----------------:|:-------------------:|:--------------------------------------------:| 
+|       $zero       |          0          |                constant zero                 |           |
+|     \$v0-$v1      |         2-3         | values for results and expression evaluation |           |
+|     \$a0-$a3      |         4-7         |                  arguments                   |           |
+|     \$t0-$t7      |        8-15         |                 temporaries                  |           |
+|     \$s0-$s7      |        16-23        |                    saved                     |           |
+|     \$t8-$t9      |        24-25        |                    more temporaries                          |           |
+|       \$gp        |         28          |                global pointer                              |           |
+|       \$sp        |         29          |              stack pointer                                |           |
+|       \$fp        |         30          |             frame pointer                                 |           |
+|       \$ra        |         31          |          return address                                    |           |
+
+
 
 ## Building a Register
 https://www.youtube.com/watch?v=fpnE6UAfbtU
