@@ -11,8 +11,8 @@
 >	- [[SQL Statements and Syntax]] 
 >	- [[Listing Databases]]
 >	-
->	- [[Comments in SQL]] 
->	- 
+>	- [[Comments in SQL]]
+>- [[Database Normalization]]
 >- [[DBMS Lab-04 Assignment]]
 
 

@@ -16,8 +16,11 @@ recent study, medical demand
 
 
 Good Morning everyone. Today we are here to present our ideas on the project Health Stream, which is a medical inventory management system that aims to manage medical assets efficiently.
-## Users and Authentication
-System will Allow patients to register with the system by providing a combination of required and optional information's. The system will provide authentication mechanisms to ensure that only authorized individuals can access the blood bank management system.
+## Types of Users
+
+System will Allow patients to register with the system by providing a combination of required and optional information's.
+## User Authentication
+The system will provide password authentication mechanisms to ensure that only authorized individuals can access the blood bank management system. Users can also enable 2 factor authentication for an extra layer of security. This will ensure any unauthorized person cannot access any sensitive data.
 ## Blood Demand
 There is a constant demand for blood in medical facilities. A recent study shows that the medical demand for blood in Bangladesh is nine lakh bags annually and about 32% of nations blood supply come from voluntary donation, and the remaining comes from relatives and friends of the patients. However, many hospitals and healthcare facilities preserve blood to ensure patient safety and the effective use of blood products in medical treatments.
 

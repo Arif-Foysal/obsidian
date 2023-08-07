@@ -1,4 +1,5 @@
 #Computer-Science #Computer-Architecture 
+[[Registers#Register Numbering]]
 
 ![[mips-machine-lan-formats.png]]
 # Types of Instruction in MIPS
