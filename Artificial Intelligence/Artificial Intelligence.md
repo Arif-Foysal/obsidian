@@ -22,6 +22,7 @@
 > - [[Constraint Satisfaction Problem(CSP)]]
 > 	- [[Map Coloring using CSP]]
 > 	- [[n-Queens Problem Using CSP]]
+> [[Decision Tree]]
 > 
 
 # Final Syllabus
