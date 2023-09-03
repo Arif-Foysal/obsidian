@@ -4,6 +4,8 @@
 >[[single cycle architecture#Single Cycle Datapath|Single Cycle Datapath]]
 >
 
+[[High Level Program to MIPS Conversion]]
+[[MIPS to Machine Language]]
 
 
 

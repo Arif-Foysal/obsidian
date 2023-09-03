@@ -1,7 +1,8 @@
 #dbms #project #uiu #Computer-Science 
 [[Features to implement]]
 [[topic presentation]]
-[[Design Assignment]]
+[[Design & Query]]
+
 # Pharmacy Management
 [[Paper_No_2.pdf]]
 
