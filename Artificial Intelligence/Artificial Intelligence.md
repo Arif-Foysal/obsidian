@@ -22,7 +22,10 @@
 > - [[Constraint Satisfaction Problem(CSP)]]
 > 	- [[Map Coloring using CSP]]
 > 	- [[n-Queens Problem Using CSP]]
+> [[AI Final Syllabus]]
 > [[Decision Tree]]
+> [[Bayes Net]]
+> 
 > 
 
 # Final Syllabus

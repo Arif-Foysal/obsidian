@@ -58,9 +58,7 @@ INSERT INTO patient (fname, lname, dob, bloodtype, gender, `password`,email)
 First we check if the account exists by checking the email the user providing is available or not in the db by executing  the previous query.
 If exists, we check the password of the corresponding email by the following query-
 ```sql
-INSERT INTO patient (fname, lname, dob, bloodtype, gender, `password`,email)
-
-        VALUES ('$fname', '$lname', '$dob', '$bloodtype', '$gender', '$password','$email')
+select * from patient where email='$email' and password='$password'
 ```
 We use the similar steps for employee and admin login.
 #### Updating profile information

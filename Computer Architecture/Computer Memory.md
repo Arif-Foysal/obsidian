@@ -4,6 +4,9 @@ There are basically two types of memory in computers.
 - [[Secondary Memory]]
 
 **CPU <--> Primary Memory <--> Secondary Memory**
+Data in CPU is stored in [[Registers]].
+
+
 
 Here are the key differences of primary and secondary memory-
 
