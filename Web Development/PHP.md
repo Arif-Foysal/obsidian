@@ -6,6 +6,14 @@
 >- [[PHP Comments]]
 >- [[PHP Variables]]
 >- [[PHP Data Types]]
+>- [[PHP echo and print Statements]]
+>- [[PHP Strings]]
+>- [[PHP Numbers]]
+>- [[PHP Math]]
+>- [[PHP Constants]]
+>- [[PHP Operators]]
+>- [[PHP Conditional Statements]]
+>- 
 
 **Ref:** https://www.w3schools.com/php/
 
