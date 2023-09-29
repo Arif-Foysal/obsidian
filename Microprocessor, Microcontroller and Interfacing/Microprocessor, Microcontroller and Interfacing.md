@@ -2,9 +2,12 @@
 
 >[!Contents]
 >Theory
->[[PHP Constants]]
+>
 >Boards
 >- [[nodemcu esp8266]]
 >- [[esp32 cam]]
 >
 
+![[microcomputer#What is a microcomputer?]]
+
+[[microprocessor]]
