@@ -8,8 +8,10 @@ https://github.com/esp8266/Arduino
 
 **Open Arduino IDE**
 Files > Preferences > Additional boards manager URLs > `paste following link`
+```
+https://arduino.esp8266.com/stable/package_esp8266com_index.json
+```
 
-`https://arduino.esp8266.com/stable/package_esp8266com_index.json`
 You can add multiple URLs, separating them with commas.
 
 **Go to**
