@@ -10,10 +10,14 @@
 >- [[esp32 cam]]
 >## Displays
 >- [[I2C LCD]]
->-
+>- [[ssd1306 (oled display)]]
 >## Actuators
+>#### Servo Motors
+>#### Stepper Motors
+>#### DC Motors
 >## Sensors
->
+>- [[mq-2 (gas sensor)]]
+>- 
 
 ![[microcomputer#What is a microcomputer?]]
 

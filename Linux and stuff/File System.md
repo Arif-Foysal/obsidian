@@ -146,12 +146,37 @@ Mount a filesystem-
 
 Unmount a filesystem-
 `sudo umount <device>`
+##### Automatically Mounting a Filesystem on Startup
 
 File systems can be mounted on startup using [[fstab]]
 To do this, we need to modify a file located in `/etc/fstab`
 
 Each devices has a **UUID** (Universally Unique ID).  To view **UUIDs** of connected block devices-
 `sudo blkid`
+**Determine a mount point:**
+You'll need a directory where you can mount the disk. You can create a new directory for this purpose using the `mkdir` command. For example:
+```bash
+sudo mkdir /mnt/mydisk
+```
+**Edit the `/etc/fstab` file:**
+```bash
+sudo nano /etc/fstab
+```
+Add a line to the file in the following format:
+```bash
+UUID=your-uuid /mnt/mydisk ext4 defaults 0 0
+```
+Replace `your-uuid` with the UUID of your disk (you can find it using `blkid`), `/mnt/mydisk` with the path to the mount point you created, and `ext4` with the filesystem type of your disk. You can also use the device name instead of UUID, but using UUID is recommended as it's more stable.
+**Test the Configuration:**
+To test if your configuration is correct without rebooting, you can use the-
+```bash
+sudo mount -a
+```
+**Reboot**: After confirming that your configuration is correct, you can either reboot your system or manually mount the disk using the `mount` command:
+```bash
+sudo mount /mnt/mydisk
+```
+
 [[swap memory]]
 #### Swap Memory
 swap memory is _the dedicated amount of hard drive that is used whenever RAM runs out of memory_.
