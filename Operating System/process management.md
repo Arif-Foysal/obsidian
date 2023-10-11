@@ -1,10 +1,10 @@
 #OperatingSystem #process #processManagement
 
 >[!Contents]
->- [[Process Management#What is a process|What is a process]]
->- [[Process Management#Processes in windows|Processes in windows]]
->	- [[Process Management#Killing a process in windows|Killing a process in windows]]
->- [[Process Management#Processes in Linux|Processes in Linux]]
+>- [[process management#What is a process|What is a process]]
+>- [[process management#Processes in windows|Processes in windows]]
+>	- [[process management#Killing a process in windows|Killing a process in windows]]
+>- [[process management#Processes in Linux|Processes in Linux]]
 ## What is a process
 A process is a program or a task that is running. A process runs on its own memory space, system resources, and with a unique identifier. 
 
@@ -26,3 +26,10 @@ like variables and settings, which we can collectively refer to as an environmen
 #linux 
 
 In Linux, processes have a parent child relationship. This means that every process that you launch comes from another  process. If all processes come from another process, there must be an initial process that started this all, right? Yes, there is. When you start up your computer, the kernel creates a process called init, which has a PID of one. init starts up other processes that we need to get our computer up and running.
+## Reading Process Information in Windows
+
+#windows 
+![[get-process]]
+
+
+## Reading Process Information in Linux

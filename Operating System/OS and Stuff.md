@@ -23,7 +23,7 @@
 >	- [[File System#Disk Partitioning and Formatting Filesystem| Formatting Filesystem]]
 >	- [[File System#Mounting and Unmounting a Filesystem|Mounting and Unmountig a Filesystem]]
 >	- [[File System#]]
->- [[Process Management]]
+>- [[process management]]
 >- 
 >- 
 

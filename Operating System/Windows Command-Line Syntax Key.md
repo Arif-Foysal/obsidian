@@ -1,4 +1,4 @@
-#windows #powershell #linux 
+#windows #powershell #linux #syntax
 
 The following table describes the notation used to indicate command-line syntax.
 
