@@ -1,4 +1,9 @@
-#Microprocessor #Microcontroller 
+#nodemcu #Microprocessor #Microcontroller 
+
+>[!Index]
+>
+
+[[esp wifi modes]]
 ## Setup and program esp8266
 ### Install Driver
 The necessary drivers for esp8266 are pre-installed in Linux.
@@ -27,11 +32,31 @@ To list out the USB-Serial ports that are active:
 ```bash
 ls /dev/ttyUSB*
 ```
+
+## Required libraries
+#libraries
+
+1. **ESP8266WiFi**
+	Documentation: https://arduino-esp8266.readthedocs.io/en/latest/esp8266wifi/readme.html
+
+2. **WiFi**
+	Download: https://www.arduino.cc/reference/en/libraries/wifi/
+	Documentation: 
 ## Pinout
 
 ![[Pasted image 20231011172059.png]]
 
 ![[Pasted image 20231011171831.png]]
+
+## esp8266 Transmitter and Receiver
+![[nodemcu esp8266 transmitter and receiver]]
+## Getting the [[mac address]]
+
+![[nodemcu esp8266- getting the mac address]]
+
+## Getting the IP address
+
+![[nodemcu esp8266- getting the ip address]]
 
 **Related Links**
 [[device files in linux]]

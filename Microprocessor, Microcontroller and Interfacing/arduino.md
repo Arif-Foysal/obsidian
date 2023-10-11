@@ -16,7 +16,7 @@ Just install Arduino IDE from 3rd party package managers e.g. flatpak, snap etc.
 **My preferances:**
 1. Download appimage from the website and run it.
 2. If you want the appimage integrated to the application list, follow these steps-
-	![[integrating appimage to application list]]
+	[[integrating appimage to application list]]
 	just replace the appimage file path accordingly.
 #### Trubleshooting
 

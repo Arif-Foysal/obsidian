@@ -56,3 +56,5 @@ https://store.roboticsbd.com/sensors/396-ultrasonic-transducer-waterproof-distan
 
 ![[Pasted image 20231008133508.png]]
 
+**Related Links**
+[[underwater rov]]
