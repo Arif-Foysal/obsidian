@@ -11,24 +11,26 @@
 #else
 #include <ESP8266WiFi.h> //else, include this library 
 #endif
-
 void setup(){
 Serial.begin(9600);
 Serial.println();
 Serial.print("ESP Board MAC Address: ");
 Serial.println(WiFi.macAddress());
 }
-
-void loop(){
-
-
-}
+void loop(){}
 ```
 
 ### mac address of my nodemcu 8266
 ```
 C8:2B:96:1C:FE:67
 ```
+Fardins nodemcu mac-
+```
+{0x48, 0x3F, 0xDA, 0x5F, 0xDF, 0xEA};
+```
+
+
+
 
 **Related Links**
 [[mac address]]

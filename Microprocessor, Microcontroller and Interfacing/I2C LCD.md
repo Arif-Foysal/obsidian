@@ -3,7 +3,7 @@
 ref: https://lastminuteengineers.com/i2c-lcd-arduino-tutorial/
 
 # Programming I2C LCD Display
-### Pinout
+### Interfacing with [[arduino]]
 
 |                | SCL | SDA |
 | -------------- | --- | --- |
@@ -12,6 +12,13 @@ ref: https://lastminuteengineers.com/i2c-lcd-arduino-tutorial/
 | Arduino Mega   | 21  | 20  |
 | Leonardo/Micro | 3   | 2   |
 |                |     |     |
+
+### Interfacing with [[nodemcu esp8266]]
+
+|                 | SCL | SDA |
+| --------------- | --- | --- |
+| Nodemcu Esp8266 | D1  | D2  |
+
 
 ### Installing required library
 
@@ -123,3 +130,6 @@ void loop() {
 >[!note]
 >Replace the i2c address with your specific one.
 
+# Menu Using i2c LCD
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DuAG98P9Seo?si=Adb8YlOb2wn1Zs-c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
