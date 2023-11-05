@@ -1,5 +1,5 @@
 #Computer-Science #electronics 
-[[Robotics Competitions]]
+[[robotics competitions]]
 
 ## Embedded Software Engineering Roadmap
 1.  **Understand Embedded Systems:** Familiarize yourself with the basics of embedded systems, which are computer systems designed to perform specific tasks within larger devices or machinery.
