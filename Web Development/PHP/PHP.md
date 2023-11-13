@@ -13,6 +13,7 @@
 >- [[PHP Constants]]
 >- [[PHP Operators]]
 >- [[PHP Conditional Statements]]
+>- [[PHP Error Handling]]
 >- 
 
 **Ref:** https://www.w3schools.com/php/
