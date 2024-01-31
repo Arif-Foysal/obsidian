@@ -10,6 +10,7 @@ Just download the .exe file from the website.
 ### Linux
 #linux 
 
+[[programming arduino using terminal only]]
 **Naive approach:**
 Just install Arduino IDE from 3rd party package managers e.g. flatpak, snap etc.
 

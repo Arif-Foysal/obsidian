@@ -19,6 +19,11 @@
 ## Bracu Duburi AUV
 ref: https://bracu-duburi.com
 
+### Design and Development of an X4-ROV
+- They calculated thrust requirement for their ROV to operate on water. We can use their method to measure ours.
+- 
+
+
 ### Duburi 3.0
 
 **Key takeaways**
@@ -58,7 +63,7 @@ We need a communication protocol that will allow us to control the rover remotel
 
 ![[nodemcu esp8266]]
 
-Now that we have established two way communication between our two nodemcu's, now we have to establish serial communication between the receiver nodemcu board and [[arduino]] mega since we want to control all the actuator. 
+Now that we have established two way communication between our two nodemcu's, now we have to establish serial communication between the receiver nodemcu board and [[arduino]] mega since we want to control all the brushless motors and actuators. 
 The receiver would receive commands from the physical controller and forward it to the [[arduino]] mega. At the same time the mega would forward it's sensor readings to the receiver through serial, and the receiver would send all the sensor data to the controller. Here is how serial communication between [[nodemcu esp8266]] and [[arduino]] is done-
 ![[serial communication between arduino and nodemcu]]
 
