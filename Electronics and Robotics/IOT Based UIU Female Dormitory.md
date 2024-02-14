@@ -11,16 +11,16 @@ tag: 11552120165154
 ### Pinout
 PINOUT:
 
-|RC522 MODULE| Uno/Nano| MEGA|
-|------|------|---------|-----|
-|SDA| D10| D53|
-|SCK| D13 |D52|
-|MOSI| D11| D51|
-|MISO |D12| D50|
-|IRQ| N/A| N/A|
-|GND |GND |GND|
-|RST| D9 |D5|
-|3.3V |3.3V |3.3V|
+| RC522 MODULE | Uno/Nano | MEGA |  |
+| ---- | ---- | ---- | ---- |
+| SDA | D10 | D53 |  |
+| SCK | D13 | D52 |  |
+| MOSI | D11 | D51 |  |
+| MISO | D12 | D50 |  |
+| IRQ | N/A | N/A |  |
+| GND | GND | GND |  |
+| RST | D9 | D5 |  |
+| 3.3V | 3.3V | 3.3V |  |
 
 ### Code with credit to corresponding ID:
 ```

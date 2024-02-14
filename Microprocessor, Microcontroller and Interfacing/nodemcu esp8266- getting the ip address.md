@@ -24,5 +24,5 @@ void loop() {}
 
 **Related Links**
 [[mac address]]
-[[ip address]]
+[[ip addressing]]
 [[nodemcu esp8266]]

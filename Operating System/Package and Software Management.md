@@ -34,7 +34,9 @@ Learn more about ppa and launchpad https://help.launchpad.net/Packaging/PPA
 
 **Nala**
 #debian
-https://gitlab.com/volian/nala
+Nala is an apt front-end for debian based operating systems.
+
+**Ref-** https://gitlab.com/volian/nala
 
 #### Underneath the hood 
 ###### Windows
