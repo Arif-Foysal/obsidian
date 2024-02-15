@@ -13,3 +13,9 @@ roles.
 - [[marketing]]
 
 ## requirement specifications
+### Types of requirement specification
+- **Business requirement specification(BRS)**
+- **Functional Requirement Specification (FRS)**
+- **Software/System Requirement Specification(SRS)**
+
+**Business requirement specification(BRS)**

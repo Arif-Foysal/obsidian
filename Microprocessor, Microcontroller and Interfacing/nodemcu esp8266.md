@@ -46,7 +46,7 @@ ls /dev/ttyUSB*
 
 ![[Pasted image 20231011172059.png]]
 
-![[Pasted image 20231011171831.png]]
+![[esp8266-pinout.png]]
 
 ## esp8266 Transmitter and Receiver
 ![[nodemcu esp8266 transmitter and receiver]]

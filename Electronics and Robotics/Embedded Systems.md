@@ -1,7 +1,7 @@
 #Computer-Science #electronics 
 [[robotics competitions]]
 
-## Embedded Software Engineering Roadmap
+## Embedded [[Software Engineering]] Roadmap
 1.  **Understand Embedded Systems:** Familiarize yourself with the basics of embedded systems, which are computer systems designed to perform specific tasks within larger devices or machinery.
     
 2.  **Learn C/C++ Programming:** Gain proficiency in programming languages commonly used in embedded systems development, such as C and C++. Focus on learning the syntax, data types, control structures, and memory management.
