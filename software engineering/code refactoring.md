@@ -3,8 +3,8 @@
 [[Refactoring.pdf]]
 
 ## What is refactoring
-A refactoring is a software transformation that preserves the external behaviour of the software; improves the internal structure of the software.
-It is a disciplined way to clean up code that minimises the
+A refactoring is a software transformation that preserves the external behavior of the software; improves the internal structure of the software.
+It is a disciplined way to clean up code that minimizes the
 chances of introducing bugs.
 
 ## When should you refactor

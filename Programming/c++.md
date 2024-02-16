@@ -9,6 +9,7 @@
 >- [[vector in c++]]
 >- [[io buffer]]
 >- [[c++ goto]]
+>- [[recursion]]
 >
 
 >**Ref:** https://www.geeksforgeeks.org/cout-in-c/?ref=lbp
