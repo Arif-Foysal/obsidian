@@ -27,7 +27,7 @@ Visual representation of the project:
 - Chart
 **Prototype**: A prototype is an early sample, model, or release of a product.
 
-## Maintainance
+## Maintenance
 - post-release bug fixing
 - check for improvement scope
 - release newer versions
