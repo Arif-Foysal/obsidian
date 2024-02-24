@@ -1,0 +1,1 @@
+A prefix is _a letter or group of letters_, for example 'un-' or 'multi-', which is added to the beginning of a word in order to form a different word.

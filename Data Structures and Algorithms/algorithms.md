@@ -2,5 +2,9 @@
 
 >[!Contents]
 >- [[minimax problem]]
->- [[Binary Search]]
+>- [[binary search]]
+>- [[recursion]]
+>- [[divide and conquer]]
+>- [[longest common prefix]]
+>- 
 
