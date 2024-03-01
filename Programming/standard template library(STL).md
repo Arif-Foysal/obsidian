@@ -10,3 +10,5 @@ standard template library is a set of c++ template classes to provide common pro
 - [[lists in c++]]
 - [[map and set in c++]]
 - algorithms (sort, find, count if)
+- [[sort stl]]
+- 
