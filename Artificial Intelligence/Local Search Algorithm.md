@@ -3,7 +3,7 @@
 Local Search can be used when
 - The [[State space]] is too large
 - When we don't need to store the path to goal (I.g. [[8 Puzzle Problem]])
-- [[Optimization Problems]]
+- [[optimization problem]]
 ## Examples of Local Search Algorithms
 - [[Hill Climbing Search]]
 - [[Simulated annealing (SA)]]

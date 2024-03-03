@@ -8,7 +8,7 @@
 >- [[longest common prefix]]
 >- [[greedy algorithms]]
 >- [[standard template library(STL)]]
->- 
+>- [[]]
 
 ### To-Do #todo 
 

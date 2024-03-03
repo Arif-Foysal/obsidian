@@ -10,6 +10,9 @@
 >- [[io buffer]]
 >- [[c++ goto]]
 >- [[recursion]]
+>- [[constructor]]
+>- [[c++ type casting]]
+>- 
 >
 
 >**Ref:** https://www.geeksforgeeks.org/cout-in-c/?ref=lbp

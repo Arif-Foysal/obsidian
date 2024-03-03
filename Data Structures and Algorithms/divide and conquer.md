@@ -2,7 +2,8 @@
 
 [[longest common prefix]]
 [[count inversions]]
-
+[[merge sort]]
+[[d and c lab]]
 
 This technique can be divided into the following three parts:
 
