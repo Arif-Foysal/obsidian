@@ -1,6 +1,6 @@
 #software-engineering 
 
-Phases of software development life cycle- 
+Phases of software development life cycle(traditional)- 
 - **Planning**
 - **Define Requirements**
 - **Design and prototyping**

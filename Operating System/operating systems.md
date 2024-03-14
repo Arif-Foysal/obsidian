@@ -24,7 +24,7 @@
 >	- [[File System#Mounting and Unmounting a Filesystem|Mounting and Unmountig a Filesystem]]
 >	- [[File System#]]
 >- [[process management]]
->- 
+>- [[bash scripting]] 
 >- 
 
 
