@@ -2,11 +2,12 @@
 
 >[!Links]
 >[[optimization problem]]
->[[fractional knapsack problem]]
+>[[greedy fractional knapsack problem]]
+>[[greedy 0-1 knapsack problem]]
 >[[activity selection problem]]
 >[[greedy coin change problem]]
 >[[minimum swaps for bracket balancing problem]]
->[[greedy algorithms lab]]
+>[[greedy algorithms ds2 lab]]
 >
 >
 

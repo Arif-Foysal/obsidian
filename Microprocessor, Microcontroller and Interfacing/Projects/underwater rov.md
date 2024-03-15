@@ -30,7 +30,7 @@ ref: https://bracu-duburi.com
 - ==Design of the arm== 
 - They copied the design from blue robotics's rov.
 	Blue robotics rov: https://www.youtube.com/watch?v=Mgwn1sR-6g8
-![[Pasted image 20231012145648.png|400]]
+![[duburi.png|400]]
 ### Duburi 1.0
 ## Design and construction of an ROV for underwater exploration
 

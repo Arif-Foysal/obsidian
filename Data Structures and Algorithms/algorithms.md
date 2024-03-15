@@ -8,10 +8,18 @@
 >- [[longest common prefix]]
 >- [[greedy algorithms]]
 >- [[standard template library(STL)]]
->- [[]]
+>- [[dynamic programming]]
+>- 
 
 ### To-Do #todo 
 
 - [ ]  [[sort stl]]
-- [ ] Assignment
-- [ ] Mid term syllabus review
+- [x] Assignment
+- [x] Mid term syllabus review
+- [ ] Fibonacci series using dp
+- [ ] coin change dp
+- [ ] [[dynamic 0-1 knapsack problem]]
+- [ ] Learn Disjoint set union
+- [ ] Minimum spanning tree
+- [ ] kruskals algorithm
+

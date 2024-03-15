@@ -1,7 +1,7 @@
 #GreedyAlgorithm #Algorithm #programming #optimization-problem
 
 >[!Links]
->[[fractional knapsack problem]]
+>[[greedy 0-1 knapsack problem]]
 >[[c++ type casting]]
 
 

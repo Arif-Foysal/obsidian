@@ -7,5 +7,5 @@
 	
 	Bangladeshi teams that got selected for the challenge:
 	**Team Atlas, Dhaka College**
-	![[Pasted image 20231031131051.png]]
+	![[sauvc dhaka college.png]]
 	

@@ -44,7 +44,7 @@ ls /dev/ttyUSB*
 	Documentation: 
 ## Pinout
 
-![[Pasted image 20231011172059.png]]
+![[esp8266 datasheet.png]]
 
 ![[esp8266-pinout.png]]
 

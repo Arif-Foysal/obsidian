@@ -2,4 +2,4 @@
 
 An optimization problem is the problem of finding the best solution from all feasible solutions.
 
-[[fractional knapsack problem]]
+[[greedy fractional knapsack problem]]

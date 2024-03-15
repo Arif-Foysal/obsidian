@@ -11,7 +11,7 @@ To apply Binary Search algorithm:
 - The data structure must be sorted.
 - Access to any element of the data structure takes constant time.
 
-![[Pasted image 20240218140057.png]]
+![[bin search.png]]
 
 The ****Binary Search Algorithm**** can be implemented in the following two ways
 

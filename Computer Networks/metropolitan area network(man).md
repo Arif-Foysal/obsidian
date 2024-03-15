@@ -1,7 +1,7 @@
 #networking 
 
 MAN or Metropolitan area Network covers a larger area than that covered by a LAN and a smaller area as compared to WAN. MAN has a range of 5-50km. It connects two or more computers that are apart but reside in the same or different cities. It covers a large geographical area and may serve as an ISP (Internet Service Provider).
-![[Pasted image 20240314125943.png]]
+![[metropolitan area net.png]]
 e.g. Cable TV network, a company’s connected LANs
 
 #### **Advantages:**

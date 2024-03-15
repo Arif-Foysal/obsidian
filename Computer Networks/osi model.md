@@ -2,7 +2,7 @@
 
 The **Open System Interconnection(OSI)** model, created in 1984 by ISO, is a reference framework that explains the process of transmitting data between computers. It is divided into 7 layers that work together to carry out specialised network functions, allowing for a more systematic approach to networking.
 
-![[Pasted image 20240314134034.png]]
+![[osi layers.png]]
 
 ## 7 Layers of OSI Model
 
