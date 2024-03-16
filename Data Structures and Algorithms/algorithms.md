@@ -16,7 +16,7 @@
 - [ ]  [[sort stl]]
 - [x] Assignment
 - [x] Mid term syllabus review
-- [ ] Fibonacci series using dp
+- [x] Fibonacci series using dp
 - [ ] coin change dp
 - [ ] [[dynamic 0-1 knapsack problem]]
 - [ ] Learn Disjoint set union

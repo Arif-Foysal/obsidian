@@ -14,7 +14,7 @@ Given the weights and profits of **N** items, in the form of **{profit, weight}*
 ### Approach
 - Calculate the ratio (**profit/weight**) for each item.
 - Sort all the items in decreasing order of the ratio.
-- pick the costliest(value/weight) then the next costliest and so on until we cant add an item as a whole.
+- pick the costliest(profit/weight) then the next costliest and so on until we cant add an item as a whole.
 - At the end add the next item as much(fraction) as you can.
 
 
@@ -98,4 +98,3 @@ cout<< res<<endl;
 return 0;
 }
 ```
-

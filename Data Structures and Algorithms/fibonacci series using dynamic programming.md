@@ -42,7 +42,8 @@ return 0;
 }
 ```
 
-- [ ] Find why below code doesn't work- #todo
+- [x] Find why below code doesn't work- #todo
+**Bugs**
 ```cpp
 //memoization tecnique , [not memorization]
 //dynamic approach
@@ -82,3 +83,6 @@ cout << res;
 return 0;
 }
 ```
+
+
+

@@ -10,4 +10,6 @@ Given **N** items where each item has some weight and profit associated with it 
 ****Note:**** The constraint here is we can either put an item completely into the bag or cannot put it at all (It is not possible to put a part of an item into the bag).
 
 **Input:**
-``
+```
+N=3, W=4, profit
+```
