@@ -6,7 +6,7 @@
 >	- [[process management#Killing a process in windows|Killing a process in windows]]
 >- [[process management#Processes in Linux|Processes in Linux]]
 ## What is a process
-A process is a program or a task that is running. A process runs on its own memory space, system resources, and with a unique identifier. 
+A process is a program or a task that is running within the end-systems or hosts. A process runs on its own memory space, system resources, and with a unique identifier. 
 
 The way processes are created and stopped differs based on the operating system that you're running.
 ## Processes in windows

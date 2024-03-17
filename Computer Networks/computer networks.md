@@ -16,6 +16,8 @@
 >- [[circuit switching and packet switching]]
 >## OSI model
 >- [[osi model]]
+>	- [[application layer]]
+>	- [[]]
 >## Network Protocols 
 >- [[network protocol]]
 >- [[ip addressing]]

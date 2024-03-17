@@ -81,17 +81,17 @@ SELECT * FROM `employees` WHERE `jobTitle`="Sales Rep";
 
 The `WHERE` clause supports the following operators:
 
-| Operator  | Description  |   
-|-----------|--------------|
-|= |Equal|
-|>|Greater than|
-|<|Less than|
-|>=|Greater than or equal|
-|<=|Less than or equal|
-|<> or !=|Not equal|
-|BETWEEN|Between a certain range|
-|LIKE|Search for a pattern|
-|IN|To specify multiple possible values for a column|
+| Operator | Description                                      |     |
+| -------- | ------------------------------------------------ | --- |
+| =        | Equal                                            |     |
+| >        | Greater than                                     |     |
+| <        | Less than                                        |     |
+| >=       | Greater than or equal                            |     |
+| <=       | Less than or equal                               |     |
+| <> or != | Not equal                                        |     |
+| BETWEEN  | Between a certain range                          |     |
+| LIKE     | Search for a pattern                             |     |
+| IN       | To specify multiple possible values for a column |     |
 
 Expressions within a `WHERE` clause can be combined using `AND` and `OR`.
 

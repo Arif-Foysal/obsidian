@@ -17,6 +17,8 @@
 >#### DC Motors
 >## Sensors
 >- [[mq-2 (gas sensor)]]
+>## Communication protocols
+>- [[communication protocols]]
 >- 
 
 ![[microcomputer#What is a microcomputer?]]
