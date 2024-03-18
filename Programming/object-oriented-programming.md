@@ -21,19 +21,3 @@ Inheritance allows you to create new classes based on existing classes. The new 
 ### Polymorphism
 Polymorphism refers to the ability of objects of different classes to be treated as objects of a common base class. It allows you to use a single interface to represent different types of objects. Polymorphism is typically achieved through virtual functions and function overriding.
 
-
-
-Let us know f you need any more assistance
-Good day
-
-We are very happy to have you as our customer
-We would like to know about your account more
-Please let us know if you need anymore assistance
-Apologies for your inconvenience
-Let us know if you need anymore assistane
-Good day
-We have to see through your accoount
-Please let me check it 
-Please give me some more 
-Time to check th
-Let us know if you ushte i am a 
