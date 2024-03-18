@@ -57,7 +57,7 @@ There are two main concepts in this method namely-
 
 ## Examples
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Us5YtgvfomQ?si=V7PDQfC0KuUTLkMW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width=100% height="315" src="https://www.youtube.com/embed/Us5YtgvfomQ?si=V7PDQfC0KuUTLkMW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ## Example 1
 The table given below contains the activity label, its respective duration (in weeks), and its precedents. We will use the critical path method to find the critical path and activities of this project.
 
