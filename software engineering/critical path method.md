@@ -110,6 +110,16 @@ The critical path is the path that gives us or helps us estimate the earliest ti
 
 ## Example 2
 
+| Activiry | Precedents | Duration(in weeks) |
+| -------- | ---------- | ------------------ |
+| A        | _          | 5                  |
+| B        | A          | 4                  |
+| C        | A          | 5                  |
+| D        | B          | 6                  |
+| E        | C          | 3                  |
+| F        | D,E        | 4                  |
+|          |            |                    |
+
 
 
 **ref:** https://www.geeksforgeeks.org/software-engineering-critical-path-method/

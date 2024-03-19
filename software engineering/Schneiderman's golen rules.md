@@ -1,0 +1,34 @@
+#software-engineering #ui 
+
+- [ ] Finish later #todo 
+#### Rule 01: strive for consistency
+1. Consistent sequence of actions that we perform must be in a similar situation.
+2. Usage of Identical terminology in prompts, menus, screens, capitalization, fonts, and layouts must be consistent throughout. 
+3. Users should be able to do the same thing in the same way that they have been doing every time.
+4. Elements such as fonts, color, shape, and position should be consistently the same in all menus & screens, across, categories for a particular software.
+#### Rule 02: enable frequent users to use shortcut
+
+As the frequency of use increases, so do the user's desires to **reduce the number of interactions** and to **increase the pace of interaction**. Abbreviations, function keys, hidden commands, and macro facilities are very helpful to an expert user.
+#### Rule 03: offer informative feedback
+
+- Proper feedback should be provided for every user action. For frequent actions, the response can be modest whereas for infrequent actions the response can be substantial.
+- Interfaces not just being communicative but also need to help users in terms of learning and feedback which tells them that they are moving in the right direction.
+- Unless a user gets feedback. The user is unsure of the correctness of the action.
+
+#### Rule 04: design dialogue to yield closure
+
+- The sequence of actions must be organized clearly into beginning, middle, and end phases.
+- Providing feedback to the user after the completion of a group of actions gives the user satisfaction of accomplishment, and a sense of relief, and prepare for the next group of actions.
+- The sequence of actions needs to proceed in a dialogue by engaging the user in a step-by-step manner.
+- If we consider an example of an e-commerce website that provides users with clear information from selecting a product to the checkout ending with clear information.
+
+#### Rule 05: offer simple error handling
+
+- Make sure the user interface is as user-friendly as possible. such that user doesn’t make any serious errors.
+- If the user commits an error the interface should offer simple, comprehensive, and specific instructions for handling the error.
+#### Rule 06: permit reversal of actions
+- helps the user to explore unfamiliare options.
+
+
+
+**ref:** https://www.geeksforgeeks.org/ben-shneiderman-eight-golden-rules-of-interface-design-human-computer-interaction/

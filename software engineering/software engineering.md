@@ -9,6 +9,8 @@
 >	- [[uml diagram]]
 >- [[ui design]]
 >- [[critical path method]]
+>- [[docker]]
+>- [[kubernetes]]
 >- 
 
 
@@ -17,5 +19,6 @@
 - [ ] learn version control for your own sake
 - [ ] design pattern practice problems
 - [ ] [[uml diagram]]
+- [x] critical path method theory
 - [ ] critical path method practice problems
-- [ ] 
+- [ ] Finish ui design
