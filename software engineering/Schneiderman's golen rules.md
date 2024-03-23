@@ -1,6 +1,6 @@
 #software-engineering #ui 
 
-- [ ] Finish later #todo 
+- [x] Finish later #todo 
 #### Rule 01: strive for consistency
 1. Consistent sequence of actions that we perform must be in a similar situation.
 2. Usage of Identical terminology in prompts, menus, screens, capitalization, fonts, and layouts must be consistent throughout. 
@@ -27,8 +27,14 @@ As the frequency of use increases, so do the user's desires to **reduce the numb
 - Make sure the user interface is as user-friendly as possible. such that user doesn’t make any serious errors.
 - If the user commits an error the interface should offer simple, comprehensive, and specific instructions for handling the error.
 #### Rule 06: permit reversal of actions
-- helps the user to explore unfamiliare options.
-
-
+- Helps the user to explore unfamiliar options.
+- This feature relives anxiety, since the user knows that errors can be undone.
+#### Rule 07: Let the user be in control
+- Experienced operators strongly desire the sense that they are in charge of the system.
+- So, users should believe that they are controlling the system and not the way around.
+- Design the system to make users the initiators of actions rather than the responder.
+#### Rule 08: Reduce the short time memory load on the user
+- Humans have limited capacity for processing information in short-term memory.
+- The interface design must be in such a way that it should not force users to remember huge amounts of information which make them overwhelmed like remembering information from one display and then using it on another display.
 
 **ref:** https://www.geeksforgeeks.org/ben-shneiderman-eight-golden-rules-of-interface-design-human-computer-interaction/

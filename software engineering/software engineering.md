@@ -20,5 +20,5 @@
 - [ ] design pattern practice problems
 - [ ] [[uml diagram]]
 - [x] critical path method theory
-- [ ] critical path method practice problems
-- [ ] Finish ui design
+- [ ] critical path method practice problems for the sake of CT. You gotta get the full marks or die.
+- [x] Finish ui design
