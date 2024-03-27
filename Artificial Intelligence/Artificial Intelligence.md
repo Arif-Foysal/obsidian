@@ -28,6 +28,12 @@
 > 
 > 
 
+## AI LAB
+
+- [ ] Python 
+- [ ] A* search
+- [ ] Hill climbing
+
 # Final Syllabus
 
 Probability basics: Basics, Full joint distribution construction, inference by enumeration, bayes rule, independence   

@@ -62,3 +62,18 @@ return 0;
 ```
 
 
+
+## The issue:
+Greedy method dooes not always give correct answer all the time. For example:
+```
+coins = [9, 6, 5, 1]
+amount = 11
+
+Using greedy coin change, answer is =[9,1,1] //3 coins
+But it is not the minimum # of coins.
+Minimum # of coins to change 11$ would be =[6,5]
+```
+
+To solve the issue, [[dynamic coin change problem]] comes in.
+
+
