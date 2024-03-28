@@ -1,8 +1,8 @@
 #Computer-Science #networking #computernetworks #root 
 
 **TODO** #todo 
-- [x] finish http including maths
-- [ ] start transport layer
+- [x] finish http, including maths
+- [x] start transport layer
 
 >[!Contents]
 >- [[transmission mode]]
@@ -19,6 +19,8 @@
 >- [[osi model]]
 >	- [[application layer]]
 >	- [[transport layer]]
+>		- [[checksum]]
+>		- [[Cyclic Redundancy Check(CRC)]]
 >### TCP/IP Model
 >- [[tcp-ip model]] 
 >- [[TCP]]
