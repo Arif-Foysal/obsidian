@@ -20,6 +20,6 @@ There are many different search algorithms that can be used to solve search prob
 - [[Breadth-first search]]
 	- [[Greedy Breadth-First Search(GBFS)]]
 - [[Depth-first search]]
-- [[A Star Search]]
+- [[Artificial Intelligence/A Star Search]]
 	- [[A star tree search]]
 	- [[A Star Graph Search]]

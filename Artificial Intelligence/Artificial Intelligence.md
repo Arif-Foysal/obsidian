@@ -11,7 +11,7 @@
 > 	- [[Breadth-first search]]
 > 		- [[Greedy Breadth-First Search(GBFS)]]
 > 	- [[Depth-first search]]
-> 	- [[A Star Search]]
+> 	- [[Artificial Intelligence/A Star Search]]
 > 		- [[A star tree search]]
 > 		- [[A Star Graph Search]]
 > 	- [[Local Search Algorithm]] 

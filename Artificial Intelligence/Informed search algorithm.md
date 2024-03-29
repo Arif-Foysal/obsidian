@@ -6,7 +6,7 @@ Informed search algorithms can be more efficient than uninformed search algorith
 
 Some examples of informed search algorithms include:
 
-- [[A Star Search]]: A search is a heuristic search algorithm that uses a [[heuristic function]] to estimate the cost of the cheapest path from the current state to the goal state.
+- [[Artificial Intelligence/A Star Search]]: A search is a heuristic search algorithm that uses a [[heuristic function]] to estimate the cost of the cheapest path from the current state to the goal state.
 Here are some of the advantages of informed search algorithms:
 
 - They can be more efficient than uninformed search algorithms, as they can focus their search on the most promising states.
