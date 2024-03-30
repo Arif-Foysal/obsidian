@@ -2,6 +2,7 @@
 
 >[!Links]
 >[[dynamic 0-1 knapsack problem print the items taken]]
+
 ### To-DO
 - [ ] Modify code to print the items that are taken.
 
@@ -80,6 +81,14 @@ return 0;
 **You can definitely use 2d array instead of 2d vector** in case you forget how to declare 2d vector.
 
 ![[dynamic 0-1 knapsack problem print the items taken]]
+
+### Maximum total profit given instead of maximum total weight
+
+```cpp
+
+```
+
+
 
 **ref:**
 1. [[Grokking Algorithms]]
