@@ -1,21 +1,21 @@
 #Algorithm #dynamicProgramming #Computer-Science 
 
 >[!Links]
+>- [[fibonacci series using dynamic programming]] 
 >- [[dynamic coin change problem]]
->- [[rod-cutting problem]] //practice
 >- [[dynamic 0-1 knapsack problem]]
 >	- [[dynamic 0-1 knapsack problem print the items taken]]
 >- [[longest common subsequence]]
+>- [[rod-cutting problem]] //practice
 >- [[memoization in dynamic programming]]
 >- [[tabuation in dynamic programming]]
->- [[fibonacci series using dynamic programming]]
 
 ### Tasks #todo 
 - [x] Give an example with Fibonacci number with dynamic programming
 - [x] 0/1 knapsack with dp
-- [ ] learn how to declare 2d vectors
-- [ ] learn how to pass vector reference
-- [ ] learn how to pass array reference
+- [ ] learn how to declare [[vector in c++#How to declare a 2d vector]]
+- [ ] learn how to pass [[passing vector reference in function]]
+- [ ] learn how to pass [[passing array reference in function]]
 - [ ] dynamic coin change problem
 - [ ] more knapsack problems
 - [ ] longest common subsequence problem
