@@ -17,9 +17,10 @@
 >- [[graph representation]]
 >	- [[adjacency matrix]]
 >	- [[adjacency list]]
+>- [[graph lab class]]
 >
 
-A graph [[data structures|data structure]] is a collection of [[vertices]]/nodes connected by [[edges]]/arcs. Graph is used to represent relationship between different [[entity|entities]]. 
+A graph is a non-linear [[data structures|data structure]] which consists of [[vertices]]/nodes connected by [[edges]]/arcs. Graph is used to represent relationship between different [[entity|entities]]. 
 Graph algorithms are methods used to manipulate and analyze graphs, solving various problems like finding shortest path or detecting cycles.
 
 ![[tree vs graph]]

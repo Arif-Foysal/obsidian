@@ -11,8 +11,8 @@ There are two ways to represent a [[graph]] data structure:
 
 ### Adjacency Matrix vs Adjacency List
 
-|Action|Adjacency Matrix|Adjacency List|
-|---|---|---|
-|Adding Edge|O(1)|O(1)|
-|Removing an edge|O(1)|O(N)|
-|Initializing|O(N*N)|O(N)|
+| Action           | Adjacency Matrix | Adjacency List |
+| ---------------- | ---------------- | -------------- |
+| Adding Edge      | O(1)             | O(1)           |
+| Removing an edge | O(1)             | O(N)           |
+| Initializing     | O(N*N)           | O(N)           |
