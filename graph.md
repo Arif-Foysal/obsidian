@@ -3,6 +3,7 @@
 >[!Links]
 >### Components of a graph
 >- [[vertices]]
+>	- [[adjacent nodes]]
 >- [[edges]]
 > ### Types of graph
 >- [[null graph]]
