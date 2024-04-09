@@ -1,7 +1,7 @@
 #networking #protocol 
 
 >[!Links]
->[[difference between tcp and udp]]
+>[[Tcp vs udp]]
 
 
 ### What is TCP?

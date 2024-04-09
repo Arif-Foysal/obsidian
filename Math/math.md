@@ -1,7 +1,12 @@
 #math #todo 
 
 >[!Contents]
->
+>### Division
+>[[division]]
+>[[dividend]]
+>[[divisor]]
+>[[quotient]]
+>[[remainder]]
 
 **Learning resources:** https://www.mathsisfun.com/calculus/index.html
 

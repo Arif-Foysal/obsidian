@@ -1,4 +1,4 @@
-#Algorithm #data-structure #Graph #home 
+#Algorithm #data-structure #Graph #root 
 
 >[!Links]
 >### Components of a graph

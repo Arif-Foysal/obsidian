@@ -1,7 +1,11 @@
 #networking #Computer-Science 
 >[!Links]
+>## Multiplexing/Demultiplexing
 >[[multiplexing in transport layer]]
 >[[demultiplexing in transport layer]]
+>## Transport layer protocols
+>[[TCP]]
+>[[UDP]]
 >## Error Detection
 >[[Checksum]]
 >[[Cyclic Redundancy Check(CRC)]]
@@ -17,7 +21,7 @@ Transport layer,
 The transport layer receives data(message) from application layer and then performs segmentation, **divides the actual message** into segments, adds the **source** and **destination’s port numbers** into the **header** of the segment, and transfers the message to the [[network layer]].
 
 ### At the receivers side
-The transport layer receives data from the Network layer, reassembles the segmented data, reads its header, identifies the port number, and forwards the message to the appropriate port in the Application layer.
+The transport layer receives data from the Network layer, reassembles the segmented data, reads its header, identifies the port number, and delivers the message to the appropriate port in the Application layer.
 ![[process communication#How to uniquely identify a process on a network]]
 
 ## Responsibilities of transport layer
@@ -29,8 +33,10 @@ The transport layer receives data from the Network layer, reassembles the segmen
 - Flow control
 
 ### Multiplexing
-The job of gathering data chunks at the source host from
-different sockets, encapsulating each data chunk with header information to create segments and passing the segments to the network layer.
+![[multiplexing in transport layer]]
+
+### Demultiplexing
+
 
 
 

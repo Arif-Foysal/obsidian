@@ -1,4 +1,4 @@
-#robotics #Microprocessor #Computer-Science #home 
+#robotics #Microprocessor #Computer-Science #root 
 
 >![Links]
 >[[linear algebra]]

@@ -2,10 +2,13 @@
 
 >[!Links]
 >- [[connectionless protocol]]
+>## Error Checking
+>[[checksum]]
+>[[Cyclic Redundancy Check(CRC)]]
 >- [[reliable and unreliable protocol]]
 >- 
 
-User Datagram Protocol(UDP) is a transport layer protocol. UDP is an unreliable and [[connectionless protocol]]. 
+User Datagram Protocol(UDP) is a [[transport layer]] protocol. UDP is an unreliable and [[connectionless protocol]]. 
 #### What is connectionless protocol anyway?
 ![[connectionless protocol]]
 
@@ -21,7 +24,7 @@ User Datagram Protocol(UDP) is a transport layer protocol. UDP is an unreliable 
 For the above reasons, UDP is a better option for real-time services like gaming, voice and video calls, live conferences.
 ### Differences between TCP and UDP
 
-![[difference between tcp and udp]]
+![[Tcp vs udp]]
 
 
 
@@ -41,7 +44,7 @@ For the above reasons, UDP is a better option for real-time services like gaming
 - ****No congestion control:**** UDP does not have congestion control, which means that it can send packets at a rate that can cause network congestion.
 - ****No flow control:**** UDP does not have flow control, which means that it can overwhelm the receiver with packets that it cannot handle.
 - ****Vulnerable to attacks:**** UDP is vulnerable to denial-of-service attacks, where an attacker can flood a network with UDP packets, overwhelming the network and causing it to crash.
-- ****Limited use cases:**** UDP is not suitable for applications that require reliable data delivery, such as email or file transfers, and is better suited for applications that can tolerate some data loss, such as video streaming or online gaming.
+- ****Limited use cases:**** UDP is not suitable for applications that require reliable data delivery, such as email or file transfers, and is better suited for applications that can tolerate some data loss, such as video streaming(loss tolerant but rate sensitive), online gaming, [[DNS]].
 ### What if reliable transfer is needed over UDP?
 - Add necessary reliability at [[application layer]]
 - Add congestion control at [[application layer]]
@@ -63,15 +66,7 @@ For the above reasons, UDP is a better option for real-time services like gaming
 #### What is checksum?
 ![[checksum]]
 
-#### Sender
-- Treat contents of UDP segment(including UDP header fields and IP addresses) as sequence of 16-bit integers.
-- **checksum:** Addition([[1's complement]] sum) of segment content.
-- Checksum value put into UDP checksum field on UDP segment header.
-#### Receiver
-- compute checksum of received segment
-- check if computed checksum equals checksum field value
-	- Not equal: Error detected.
-	- Equal: No error detected.
+
 
 #### Practice Problems
 

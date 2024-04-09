@@ -1,4 +1,4 @@
-#Algorithm #programming #home
+#Algorithm #programming #root
 
 >[!Contents]
 >- [[minimax problem]]

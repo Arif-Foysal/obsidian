@@ -19,7 +19,7 @@
 >- 
 
 ## What is the Application Layer?
-The Application Layer is topmost layer in the Open System Interconnection (OSI) model. The application layer contains the communications protocols and interface methods used in process-to-process communications across an [Internet Protocol](https://en.wikipedia.org/wiki/Internet_Protocol "Internet Protocol") (IP) computer network. The application layer only standardizes communication and depends upon the underlying [transport layer](https://en.wikipedia.org/wiki/Transport_layer "Transport layer") protocols to establish host-to-host data transfer channels and manage the data exchange in a [[client-server architecture]] or [[peer to peer(p2p) architecture]] networking model.
+The Application Layer is **topmost** layer in the Open System Interconnection (OSI) model. The application layer contains the communications protocols and interface methods used in process-to-process communications across an [Internet Protocol](https://en.wikipedia.org/wiki/Internet_Protocol "Internet Protocol") (IP) computer network. The application layer only standardizes communication and depends upon the underlying [transport layer](https://en.wikipedia.org/wiki/Transport_layer "Transport layer") protocols to establish host-to-host data transfer channels and manage the data exchange in a [[client-server architecture]] or [[peer to peer(p2p) architecture]] networking model.
 
 ## What is client-server and Peer to peer architecture
 

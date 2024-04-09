@@ -60,7 +60,18 @@ If the data unit to be transmitted is `10101001 00111001`, the following procedu
 ### Advantage of Checksum
 The checksum detects all the errors involving an odd number of bits as well as the error involving an even number of bits.
 ### Disadvantages
-The main problem is that the error goes undetected if one or more bits of a subunit is damaged and the corresponding bit or bits of a subunit are damaged and the corresponding bit or bits of opposite value in second subunit are also damaged. This is because the sum of those columns remains unchanged.
+The main problem is that the error goes undetected if one or more bits of a subunit is damaged and the corresponding bit or bits of opposite value in second subunit are also damaged. This is because the sum of those columns remains unchanged.
+**For Example:**  
+- [ ] Give an example #todo 
+#### Sender
+- Treat contents of UDP segment(including UDP header fields and IP addresses) as sequence of 16-bit integers.
+- **checksum:** Addition([[1's complement]] sum) of segment content.
+- Checksum value put into UDP checksum field on UDP segment header.
+#### Receiver
+- compute checksum of received segment
+- check if computed checksum equals checksum field value
+	- Not equal: Error detected.
+	- Equal: No error detected.
 ### Internet Checksum: An Example
 Example: add two 16-bit integers
 ```

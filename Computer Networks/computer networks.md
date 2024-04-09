@@ -25,7 +25,7 @@
 >- [[tcp-ip model]] 
 >- [[TCP]]
 >- [[UDP]]
->- [[difference between tcp and udp]]
+>- [[Tcp vs udp]]
 >### Network Protocols 
 >- [[network protocol]]
 >- [[ip addressing]]
