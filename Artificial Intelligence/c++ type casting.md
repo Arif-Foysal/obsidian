@@ -1,7 +1,7 @@
-#cpp #programming 
+#cpp #programming #syntax 
 
 
-**case int into double**
+**cast int into double**
 
 ```cpp
 int a=30;

@@ -1,6 +1,8 @@
-#nodemcu #Microprocessor #Microcontroller 
+#nodemcu #Microprocessor #Microcontroller #esp8266 #root 
 
 >[!Index]
+>## Setup and program
+>[[setup and program esp8266]]
 >
 
 [[esp wifi modes]]
@@ -60,7 +62,3 @@ ls /dev/ttyUSB*
 
 **Related Links**
 [[device files in linux]]
-
-
-
-

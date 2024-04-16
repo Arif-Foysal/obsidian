@@ -21,6 +21,7 @@
 >	- [[transport layer]]
 >		- [[checksum]]
 >		- [[Cyclic Redundancy Check(CRC)]]
+>		- [[reliable data transfer]]
 >### TCP/IP Model
 >- [[tcp-ip model]] 
 >- [[TCP]]
@@ -40,4 +41,3 @@
 All the end device of a network are network edge. e.g. Computers, smartphones
 ## Network Core
 All the intermediate devices of a network are network core. e.g. routers
-

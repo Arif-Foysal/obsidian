@@ -5,9 +5,7 @@ Greedy Breadth-First Search (Greedy BFS) is an [[Informed search algorithm]] tha
 In a traditional Greedy Best-First Search, the algorithm always selects the node that is estimated to be closest to the goal state based on the heuristic value. It focuses solely on the heuristic information and does not consider the actual cost of reaching that node. However, Greedy Best-First Search can get stuck in loops and may not necessarily find an optimal solution.
 
 ### Differences Between BFS and GBFS
-Breadth-First Search (BFS) explores the search space level by level, considering all nodes at a given depth before moving to nodes at the next depth level. BFS guarantees that it will find the shortest path in terms of the number of edges, but it does not use any heuristic information.
-
-Greedy Breadth-First Search combines these two approaches by using the heuristic function to prioritize node exploration but ensuring that the search is performed in a breadth-first manner. At each step, the algorithm selects the node that has the lowest heuristic value and explores all its neighbors (children) before moving to the next level of the search space.
+![[BFS vs GBFS]]
 
 ### Features of Greedy Breadth First Search
 - **Heuristic Priority**: Greedy BFS prioritizes nodes with lower heuristic values, favoring nodes that are estimated to be closer to the goal state.

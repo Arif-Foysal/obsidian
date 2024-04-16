@@ -1,4 +1,4 @@
-#linux #interfacing #Microprocessor 
+#linux #interfacing #Microprocessor #OperatingSystem 
 
 In Linux, the `/dev` directory is a special directory that contains device files, also known as device nodes. These device files are used to interface with and communicate with hardware devices, including disk drives, input/output devices, network interfaces, and other hardware components.
 

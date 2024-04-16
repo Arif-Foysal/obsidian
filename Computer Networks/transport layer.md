@@ -1,4 +1,5 @@
 #networking #Computer-Science 
+
 >[!Links]
 >## Multiplexing/Demultiplexing
 >[[multiplexing in transport layer]]
@@ -9,8 +10,8 @@
 >## Error Detection
 >[[Checksum]]
 >[[Cyclic Redundancy Check(CRC)]]
-
-
+>## Reliable Data Transfer
+>[[reliable data transfer]]
 
 Transport layer provides logical communication between application processes running on different hosts. Transport layer is the second layer in [[tcp-ip model]] and fourth layer in the [[osi model]]. 
 ## The job of transport layer
@@ -36,19 +37,5 @@ The transport layer receives data from the Network layer, reassembles the segmen
 ![[multiplexing in transport layer]]
 
 ### Demultiplexing
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![[demultiplexing in transport layer]]
 

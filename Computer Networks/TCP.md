@@ -1,11 +1,11 @@
-#networking #protocol 
+#networking #protocol #tcp 
 
 >[!Links]
 >[[Tcp vs udp]]
 
 
 ### What is TCP?
-TCP stands for Transmission Control Protocol, which is a [[transport layer]] protocol. Transmission Control Protocol is a [[connection-oriented protocol]] for communications that helps in the exchange of messages between different devices over a network. The Internet Protocol (IP), which establishes the technique for sending data packets between computers, works with TCP.
+TCP stands for Transmission Control Protocol, which is a [[transport layer]] protocol. Transmission Control Protocol is a [[connection oriented protocol]] for communications that helps in the exchange of messages between different devices over a network. The Internet Protocol (IP), which establishes the technique for sending data packets between computers, works with TCP.
 
 ### IP
 ![[IP-address]]
@@ -32,7 +32,7 @@ Some of the most prominent features of Transmission control protocol are mention
 - ****Connection Oriented:**** It means sender and receiver are connected to each other till the completion of the process. The order of the data is maintained i.e. order remains same before and after transmission.
 - ****Full Duplex:**** In TCP data can be transmitted from receiver to the sender or vice – versa at the same time. It increases efficiency of data flow between sender and receiver. 
 - ****Flow Control:**** Flow control limits the rate at which a sender transfers data. This is done to ensure reliable delivery. The receiver continually hints to the sender on how much data can be received (using a sliding window).
-- ****Error Control:**** TCP implements an error control mechanism for reliable data transfer. Error control is byte-oriented. Segments are checked for error detection. Error Control includes – Corrupted Segment & Lost Segment Management, Out-of-order segments, Duplicate segments, etc.
+- ****Error Control:**** TCP implements an error control mechanism for [[reliable data transfer]]. Error control is byte-oriented. Segments are checked for error detection. Error Control includes – Corrupted Segment & Lost Segment Management, Out-of-order segments, Duplicate segments, etc.
 - ****Congestion Control:**** TCP takes into account the level of congestion in the network. Congestion level is determined by the amount of data sent by a sender.
 
 ## ****Advantages of TCP****

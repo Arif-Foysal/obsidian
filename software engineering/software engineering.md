@@ -9,8 +9,15 @@
 >	- [[uml diagram]]
 >- [[ui design]]
 >- [[critical path method]]
->- [[docker]]
->- [[kubernetes]]
+>- [[software engineering ethics]]
+>- [[software testing]]
+>- [[software architecture]]
+>- [[software engineering trends]]
+>- [[containerization]]
+>	- [[docker]]
+>	- [[kubernetes]]
+>	- [[virtual machines]]
+>- [[devops]]
 >- 
 
 
