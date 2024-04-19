@@ -5,7 +5,8 @@
 >## Error Checking
 >[[checksum]]
 >[[Cyclic Redundancy Check(CRC)]]
->- [[reliable and unreliable protocol]]
+>- [[reliable data transfer]]
+>	- [[reliable and unreliable protocol]]
 >- 
 
 User Datagram Protocol(UDP) is a [[transport layer]] protocol. UDP is an unreliable and [[connectionless protocol]]. 

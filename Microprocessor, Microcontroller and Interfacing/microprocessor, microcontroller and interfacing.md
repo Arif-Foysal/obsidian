@@ -11,6 +11,7 @@
 >## Displays
 >- [[I2C LCD]]
 >- [[ssd1306 (oled display)]]
+>- [[esp32 touchscreen display]]
 >## Actuators
 >#### Servo Motors
 >#### Stepper Motors
@@ -19,7 +20,6 @@
 >- [[mq-2 (gas sensor)]]
 >## Communication protocols
 >- [[communication protocols]]
->- 
 
 ![[microcomputer#What is a microcomputer?]]
 

@@ -1,4 +1,4 @@
-#scholarship #studyAbroad 
+#scholarship #studyAbroad #root 
 
 >[!Links]
 >- [[turkish government scholarship]]

@@ -31,11 +31,13 @@
 >- [[network protocol]]
 >- [[ip addressing]]
 >- [[dhcp]]
+>### Ports
+>- [[port]]
+>- [[common tcp and udp ports]]
 >### Domain Naming System
 >- [[DNS]]
 >### Packet Delay and Loss
->- [[]]
->
+
 
 ## Network Edge
 All the end device of a network are network edge. e.g. Computers, smartphones
