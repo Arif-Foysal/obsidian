@@ -1,4 +1,4 @@
-#Computer-Science #Computer-Architecture #Microprocessor #Microcontroller
+#Computer-Science #Microprocessor #Microcontroller #root 
 
 >[!Contents]
 >## Theory
@@ -20,6 +20,11 @@
 >- [[mq-2 (gas sensor)]]
 >## Communication protocols
 >- [[communication protocols]]
+>## IOT Business
+>- [[Amar Fuel]]
+
+
+
 
 ![[microcomputer#What is a microcomputer?]]
 

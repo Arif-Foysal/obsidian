@@ -118,8 +118,16 @@ The critical path is the path that gives us or helps us estimate the earliest ti
 | D        | B          | 6                  |
 | E        | C          | 3                  |
 | F        | D,E        | 4                  |
-|          |            |                    |
 
+#todo 
+- [ ] Do on your own
+
+## Example 3
+
+![[Pasted image 20240427135733.png]]
+
+#todo #A !!!
+- [ ] Learn how to solve this.
 
 
 **ref:** https://www.geeksforgeeks.org/software-engineering-critical-path-method/

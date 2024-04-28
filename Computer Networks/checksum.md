@@ -4,6 +4,8 @@
 >- [[Cyclic Redundancy Check(CRC)]]
 >- 
 
+#skills 
+- [ ] 
 Checksum error detection is a method used to identify errors in transmitted data. The process involves dividing the data into various segments with equal length and using a 1’s complement to calculate the sum of these segments. The calculated sum is then sent along with the data to the receiver. At the receiver’s end, the same process is repeated and if all zeroes are obtained in the sum, it means that the data is correct.
 
 ![](https://media.geeksforgeeks.org/wp-content/uploads/20200909115220/Checksum.png)

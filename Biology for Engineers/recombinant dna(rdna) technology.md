@@ -1,5 +1,8 @@
 #biology #engineering #dna #rdna
 
+>[!Links]
+>- [[biotechnology]]
+
 ![[Pasted image 20240316163205.png]]
 
 Recombinant [[dna]] technology involves using enzymes and various laboratory techniques to manipulate and isolate DNA segments of interest. This method can be used to combine (or splice) DNA from different species or to create genes with new functions. The resulting copies are often referred to as recombinant DNA. Such work typically involves propagating the recombinant DNA in a bacterial or yeast cell, whose cellular machinery copies the engineered DNA along with its own.[1]

@@ -6,5 +6,7 @@
 >- [[nutty pudding]] 
 >- [[caramel pudding]]
 >- [[chocolate pudding]]
+>## Smoothies
+>- [[smoothies]]
 >## Meals
 

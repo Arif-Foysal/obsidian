@@ -6,3 +6,8 @@ Biotechnology is a multidisciplinary field that involves the integration of [nat
 
 The core principle of biotechnology involves harnessing biological systems and organisms, such as bacteria, yeast, and plants, **to perform specific tasks** or **produce valuable substances**.
 
+>### Question bank solution:
+> [[Biotechnology.pdf]]
+
+
+
