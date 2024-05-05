@@ -1,5 +1,7 @@
 #amarFuel #startup #root #microComputer #iot
 
+[[electronics project development]]
+
 ## key areas to focus on:
 
 1. Business Vision and [[Business Strategy]]: Understand the founder's vision for the company and their long-term goals. Discuss the existing business strategy and gain clarity on how automation solutions, specifically fuel pump automation, fit into the overall plan.

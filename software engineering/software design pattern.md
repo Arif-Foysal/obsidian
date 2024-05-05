@@ -1,3 +1,4 @@
+
 #software-engineering #design-pattern
 
 >[!Links]
@@ -9,12 +10,16 @@
 
 Software Design patterns are basically defined as **reusable solutions** to the common problems that arise during software design and development. They are general **templates** or **best practices** that guide developers in creating well-structured, maintainable, and efficient code.
 
+- Ensures [[loose coupling]] in your code.
+- Increase understandability of your program.
 ### Types of design pattern
 
 ![[Pasted image 20240318142252.png]]
 
 #### Creational Design Pattern
-![[creational design pattern]]
+
+
+
 
 #### Structural Design Pattern
 

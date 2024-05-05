@@ -22,7 +22,9 @@
 >### Graph Algorithms
 >#### Shortest Path Algorithms
 >- [[Dijkstra's Algorithm]]
->- 
+>- [[graph algorithms-dijkstra-bellman-rabin lab class]]
+>- [[lab kruskal and prim]]
+>- [[]]
 >
 
 A graph is a non-linear [[data structures|data structure]] which consists of [[vertices]]/nodes connected by [[edges]]/arcs. Graph is used to represent relationship between different [[entity|entities]]. 

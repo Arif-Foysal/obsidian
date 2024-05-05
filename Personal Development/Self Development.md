@@ -1,4 +1,4 @@
-#self-Development 
+#self-Development #root 
 
 > [!contents]
 > [[Communication Skills]]
@@ -12,7 +12,13 @@
 	**Goals**
 	 - [[Eat Healthy]] 
 	 - [[Exercise]] Regularly
-	 - Sleep well
+	 - [[Sleep well]]
+	 - [[project unbreakable physique]]
+- Longevity
+	- [[Tai Chi]]
+	- 
 
 
+### Projects
 
+![[project unbreakable physique]]
