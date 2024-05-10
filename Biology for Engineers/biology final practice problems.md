@@ -10,6 +10,7 @@
 
 
 ## Final Question Bank:
+#uiu 
 
 **BIO 3105**
 
@@ -17,7 +18,7 @@
 
 **Summer 2022**
 
-**Biotechnology**
+## **Biotechnology**
 
 1. Show pictorial view of the pH balance in a bioreactor. Also show how you will maintain necessary air supply. Slide 20
     
@@ -68,7 +69,7 @@
 22. study how genes affect the normal functions of the body and its development
     
 
-**Ecosystem Dynamics**
+## **Ecosystem Dynamics**
 
 1. Give the equations for chemosynthesis and photosynthesis. Which one of these two do you think vital for ecosystems on earth? Give reasons in brief. Slide (see video linked with Slide 15+all Slides)
     
@@ -110,7 +111,7 @@
 - How can we apply the knowledge of biological systems to address the issue of pesticide resistance in agricultural pests and ensure sustainable pest management practices?
     
 
-**Food and** **Nutrition**
+## **Food and Nutrition**
 
 1. Show in pictorial view that how food can help us to fight with noncommunicable diseases (block diagram of key points would be sufficient).
     
@@ -127,7 +128,7 @@
 7. Clarify your height and weight complies with BMI. If not then analyse the procedure to maintain.
     
 
-**Immunity**
+## **Immunity**
 
 1. Write down two of the US based vaccines for COVID-19 with doses.   
 **Ans:** Two US based COVID-19 vaccines are Pfizer-BioNTech and Moderna.
@@ -145,6 +146,8 @@ shots, you are considered fully vaccinated two weeks after your second shot. Pfi
 **Ans:** ![[autoimmune diseases#What are autoimmune diseases?]]
 
 4. Give a pictorial view of similarities and differences of [[spleen]] and [[thymus]].
+**Ans:**
+
 ![[Pasted image 20240510133809.png]]
 
 | Spleen      | Thymus      |
@@ -154,10 +157,19 @@ shots, you are considered fully vaccinated two weeks after your second shot. Pfi
 
     
 5. With the help of a diagram show the role of [[insulin]] to restore [[homeostatic control]] in the [[blood sugar]].
-    ![[Pasted image 20240510134522.png]]
+**Ans:**
+![[Pasted image 20240510134522.png]]
 
 
 6. Discuss the significances of having both positive and negative feedback in our homeostasis control. Give proper reasons behind your answers.
+**Ans:** [[homeostatic control]] 
+
+![[positive feedback]]
+![[negative feedback]]
+
+
+
+Positive and negative feedback mechanisms play crucial roles in maintaining homeostasis, the stable internal environment necessary for the proper functioning of organisms.
 
 
 7. Explain each category of Immunity with example. Is Covid 19 vaccine adaptive or innate clarify

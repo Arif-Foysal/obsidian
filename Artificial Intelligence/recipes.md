@@ -1,6 +1,7 @@
 #Recipe #root #health 
 
 >[!Table of Contents]
+>## High protein meals
 >- [[Chickpea Recipe]]
 >## Puddings
 >- [[nutty pudding]] 
@@ -8,5 +9,10 @@
 >- [[chocolate pudding]]
 >## Smoothies
 >- [[smoothies]]
->## Meals
+>## Longevity Meals
+>## Immune Boosters
+
+
+
+
 
