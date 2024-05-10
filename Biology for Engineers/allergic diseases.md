@@ -1,0 +1,1 @@
+where the [[immunity system]] makes an overly strong response to [[allergens]]. Allergic diseases are very common. They include allergies to foods, medications or stinging insects, anaphylaxis (life- threatening allergy), hay fever (allergic rhinitis), sinus disease, asthma, hives (urticaria), dermatitis and eczema.

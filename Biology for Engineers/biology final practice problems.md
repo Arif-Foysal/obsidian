@@ -130,19 +130,53 @@
 **Immunity**
 
 1. Write down two of the US based vaccines for COVID-19 with doses.   
-    
-2. Name the types of the vaccines used against COVID-19.        
+**Ans:** Two US based COVID-19 vaccines are Pfizer-BioNTech and Moderna.
+**Dosage:**
+
+==Two shots==: If you get a COVID-19 vaccine that requires two
+shots, you are considered fully vaccinated two weeks after your second shot. Pfizer-BioNTech and Moderna are two shot vaccines.
+==One shot==:  If you get a COVID-19 vaccine that requires one shot, you are considered fully vaccinated two weeks after your shot. Johnson & Johnson’s Janssen COVID-19 vaccine only requires one shot.
+
+
+2. Name the types of the vaccines used against COVID-19. 
+**Ans:** Pfizer-BioNTech, Moderna, Johnson & Johnson’s Janssen.
     
 3. Name some of the autoimmune diseases. Mention their impact on health.
+**Ans:** ![[autoimmune diseases#What are autoimmune diseases?]]
+
+4. Give a pictorial view of similarities and differences of [[spleen]] and [[thymus]].
+![[Pasted image 20240510133809.png]]
+
+| Spleen      | Thymus      |
+| ----------- | ----------- |
+| ![[spleen]] | ![[thymus]] |
+|             |             |
+
     
-4. Give a pictorial view of similarities and differences of spleen and thymus.
-    
-5. With the help of a diagram show the role of insulin to restore homeostatic control in the blood sugar.
-    
+5. With the help of a diagram show the role of [[insulin]] to restore [[homeostatic control]] in the [[blood sugar]].
+    ![[Pasted image 20240510134522.png]]
+
+
 6. Discuss the significances of having both positive and negative feedback in our homeostasis control. Give proper reasons behind your answers.
-    
+
+
 7. Explain each category of Immunity with example. Is Covid 19 vaccine adaptive or innate clarify
-    
-8. For example any pathogen is invaded in our body. Justify how your defence mechanisms work in this case.
-    
-9. Explain the relationship of vaccination with primary an d secondary response.
+**Ans:** 
+![[immunity system#Types of immunity]]
+
+
+8. For example any [[pathogen]] is invaded in our body. Justify how your defence mechanisms work in this case.
+
+**Ans:** The body has many ways of defending itself against pathogens (disease- causing organisms). Skin, mucus, and cilia (microscopic hairs that move debris away from the lungs) all work as physical barriers to prevent pathogens
+from entering the body in the first place. [[Innate Immunity]].
+
+If the [[pathogen]] breaches the initial barriers, the body initiates an **inflammatory** response. This involves the release of inflammatory mediators like **histamine**, which increase blood flow to the affected area, causing redness and swelling. This influx of immune cells helps to contain and eliminate the [[pathogen]].
+
+Another crucial function that active immunity undertakes is protection for a long time in the form of [[immunological memory]]. This memory contains cells B & T that work to recognize the pathogens. Although these cells circulate in our body at a very low level, once they sense an outside invader, they start to multiply in number and send signals to all other organs of the immune system to activate  
+themselves.
+
+
+9. Explain the relationship of vaccination with [[primary response]] and [[secondary response]].
+**Ans:** 
+Once the body produces [[antibody|antibodies]] in its [[primary response]] to an antigen, it also creates antibody- producing memory cells, which remain alive even after the pathogen is defeated by the antibodies. If the body is exposed to the same pathogen more than once, the antibody response is much faster and more effective than the first time around because the memory cells are at the ready to pump out
+antibodies against that antigen. This means that if the person is exposed to the dangerous pathogen in the future, their immune system will be able to respond immediately, protecting against disease.

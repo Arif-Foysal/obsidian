@@ -11,7 +11,13 @@
 >- [[dynamic programming]]
 > **Graph**
 >- [[graph]]
->- 
+> ## String Matching
+>- [[Rabin-Karp Algorithm]]
+>- [[searching multiple strings using Rabin-Karp algorithm]]
+
+
+
+
 
 ### To-Do #todo 
 
@@ -21,8 +27,9 @@
 - [x] Fibonacci series using dp
 - [x] coin change dp
 - [x] [[dynamic 0-1 knapsack problem]]
-- [ ] Graph representation in c++
+- [x] Graph representation in c++
 - [ ] Rod cutting problem using [[dynamic programming]]
 - [ ] Learn Disjoint set union
 - [ ] Minimum spanning tree
 - [ ] kruskals algorithm
+- [ ] rabin-karp algorithm
