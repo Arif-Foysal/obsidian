@@ -113,21 +113,55 @@
 
 ## **Food and Nutrition**
 
-1. Show in pictorial view that how food can help us to fight with noncommunicable diseases (block diagram of key points would be sufficient).
+[[food and nutrition]]
+
+
+1. **Show in pictorial view that how food can help us to fight with noncommunicable diseases (block diagram of key points would be sufficient).**
+
+**Ans:** 
+![[noncommunicable diseases (NCD)#Show pictorial view of how food can help us to fight with noncommunicable diseases (block diagram of key points would be sufficient).]]
+
     
-2. Do you think we need a change in diet for a 95 kg 130 cm pregnant woman? Give reasons and possible changes you want to recommend in diet. This person has gestational diabetes (diabetes in pregnancy period).
+2. **Do you think we need a change in diet for a 95 kg 130 cm pregnant woman? Give reasons and possible changes you want to recommend in diet. This person has gestational diabetes (diabetes in pregnancy period).**
+**Ans:** 
+![[noncommunicable diseases (NCD)#Do you think we need a change in diet for a 95 kg 130 cm pregnant woman? Give reasons and possible changes you want to recommend in diet. This person has gestational diabetes (diabetes in pregnancy period).]]
+
+3. **Name the specific ways to control your sugar, salt and fat intake.**
+**Ans:**
+![[noncommunicable diseases (NCD)#Name the specific ways to control your sugar, salt and fat intake.]]
+
+4. **Suppose you have a child in the family. If from three months the child needs food from outside, how would you plan the diet from three months to one year (only name the foods for specific months).**
+**Ans:**
+
+Infants should be breastfed exclusively for the first 6 months of life. However, If we are unable to breastfeed for any reason, baby formula milk can be used.
+- From 6 months of age, breast milk should be complemented with a variety of adequate, safe and nutrient-dense foods. Salt and sugars should not be added to complementary foods.
+- 6-8 months: Cereals, mashed fruits such as banana, apple can be introduced. Vegetables such as carrots, pumpkin etc can be introduced. They should be well cooked and mashed.
+- 8-12 months: Well cooked egg, meat, fish. Remove all fat, skin, and bones.
+	Cooked vegetables, rice, grains.
     
-3. Name the specific ways to control your sugar, salt and fat intake.
+5. **Explain why the increased rate of NCD in our country with examples. Name some of the noncommunicable diseases. Design a lifestyle to prevent those diseases focusing on the ingredients of food that should be taken into account for.**
+    ![[noncommunicable diseases (NCD)#Explain why the rate of noncommunicable diseases are increasing? How can these diseases be prevented?]]
     
-4. Suppose you have a child in the family. If from three months the child needs food from outside, how would you plan the diet from three months to one year (only name the foods for specific months).
-    
-5. Explain why the increased rate of NCD in our country with examples. Name some of the noncommunicable diseases. Design a lifestyle to prevent those diseases focusing on the ingredients of food that should be taken into account for.
-    
-6. Explain the relationship between food and mental stress. Please comment on the steps we should take regarding this matter.
-    
-7. Clarify your height and weight complies with BMI. If not then analyse the procedure to maintain.
-    
-[[immunity solve]]
+6. **Explain the relationship between food and mental stress. Please comment on the steps we should take regarding this matter.**
+**Ans:**
+The Mental Health Foundation notes that a good diet is important for mental health.
+
+Stress hormones cause the body to reduce blood flow to the digestive system. When we encounter something stressful, our nervous system and adrenal glands send signals to the rest of the body to help us think more clearly and be ready for a physical response. After a stressful period the human body can go into a ‘recovery mode’ where increased appetite and
+food cravings become more prevalent. At the same time metabolic rates drop to conserve energy.
+
+The good news is that there are various things that we can do to help.
+For example:
+- On stressful days we have to eat smaller meals and, if necessary, have to eat more often to make up for it. This will be easier for our body to manage.
+
+- Have to eat foods containing more B vitamins as this can help our digestion .
+- Tea, coffee should be taken at minimal quantities. Excessive caffeine can hamper the sleep cycle.
+- We should reduce the intake of alcohol, sugar, salt, and nicotine.
+- Proper exercise can relieve us from mental as well as physical stress.
+- Proper relaxation and sleep is needed for reducing mental stress.
+
+7. **Clarify your height and weight complies with BMI. If not then analyse the procedure to maintain.**
+![[Body Mass Index (BMI)]]
+
 ## **Immunity**
 
 1. Write down two of the US based vaccines for COVID-19 with doses.   

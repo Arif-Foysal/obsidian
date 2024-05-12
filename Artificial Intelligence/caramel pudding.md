@@ -49,14 +49,11 @@ Based on the nutrition values, the food is not a balanced diet. That is because-
 - **Low in fiber:** with such a high carb and sugar load, it's unlikely this food provides a meaningful amount of fiber, which is an important nutrient for digestive and overall health.
 - **Micro nutrient deficiency:** With such a high carb and sugar load, it's unlikely this food provides a meaningful amount of fiber, which is an important nutrient for digestive and overall health.
 ### Body Mass Index(BMI)
-Body mass index (BMI) is a measure of body fat based on height and weight that applies to adult men and women.
+[[Body mass index (BMI)]] is a measure of body fat based on height and weight that applies to adult men and women.
 
-**BMI Categories:**  
-Underweight = <18.5  
-Normal weight = 18.5–24.9  
-Overweight = 25–29.9  
-Obesity = BMI of 30 or greater
+![[Body Mass Index (BMI)#**BMI Categories**]]
 
 **Calculating my BMI**
 ![[Pasted image 20240417093231.png]]
+
 

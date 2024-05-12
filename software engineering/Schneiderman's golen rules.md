@@ -38,3 +38,6 @@ As the frequency of use increases, so do the user's desires to **reduce the numb
 - The interface design must be in such a way that it should not force users to remember huge amounts of information which make them overwhelmed like remembering information from one display and then using it on another display.
 
 **ref:** https://www.geeksforgeeks.org/ben-shneiderman-eight-golden-rules-of-interface-design-human-computer-interaction/
+
+**Notable:** https://userpeek.com/blog/shneidermans-eight-golden-rules-of-interface-design/#:~:text=Design%20dialog%20to%20yield%20closure,-This%20rule%20emphasizes&text=Dialog%20boxes%20should%20also%20provide,indicate%20the%20task%20is%20complete
+
