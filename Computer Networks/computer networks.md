@@ -4,6 +4,8 @@
 - [x] finish http, including maths
 - [x] start transport layer
 
+[[cn final practice problem]]
+
 >[!Contents]
 >- [[transmission mode]]
 >- [[unicast, broadcast and multicast]]
@@ -22,6 +24,8 @@
 >		- [[checksum]]
 >		- [[Cyclic Redundancy Check(CRC)]]
 >		- [[reliable data transfer]]
+>	- [[network layer]]
+>	- [[data link layer]]
 >### TCP/IP Model
 >- [[tcp-ip model]] 
 >- [[TCP]]

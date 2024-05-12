@@ -32,5 +32,5 @@ OSI Model defines the communication of a computing system into 7 different layer
 |5|Session Layer|Establishes Connection, Maintenance, Ensures Authentication and Ensures security.|Message|Gateway|
 |4|Transport Layer|Take Service from Network Layer and provide it to the Application Layer.|Segment|Firewall|
 |3|Network Layer|Transmission of data from one host to another, located in different networks.|Packet|Router|
-|2|Data Link Layer|Node to Node Delivery of Message.|Frame|Switch, Bridge|
+|2|[[Data Link Layer]]|Node to Node Delivery of Message.|Frame|Switch, Bridge|
 |1|Physical Layer|Establishing Physical Connections between Devices.|Bits|Hub, Repeater, Modem, Cables|

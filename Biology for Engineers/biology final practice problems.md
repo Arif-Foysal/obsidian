@@ -127,7 +127,7 @@
     
 7. Clarify your height and weight complies with BMI. If not then analyse the procedure to maintain.
     
-
+[[immunity solve]]
 ## **Immunity**
 
 1. Write down two of the US based vaccines for COVID-19 with doses.   

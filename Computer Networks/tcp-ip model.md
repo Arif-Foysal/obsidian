@@ -3,7 +3,7 @@
 ### History
 ****TCP/IP**** was designed and developed by the Department of Defense (DoD) in the 1960s and is based on standard protocols. It stands for Transmission Control Protocol/Internet Protocol. The [TCP/IP model](https://www.geeksforgeeks.org/tcp-ip-model/) is a concise version of the OSI model. It contains four layers, unlike the seven layers in the OSI model.
 
-The number of layers is sometimes referred to as five or four. Here In this article, we’ll study five layers. The [Physical Layer](https://www.geeksforgeeks.org/physical-layer-in-osi-model/) and [Data Link Layer](https://www.geeksforgeeks.org/data-link-layer/) are referred to as one single layer as the ‘Physical Layer’ or ‘Network Interface Layer’ in the 4-layer reference.
+The number of layers is sometimes referred to as five or four. Here In this article, we’ll study five layers. The [Physical Layer](https://www.geeksforgeeks.org/physical-layer-in-osi-model/) and [[[Data Link Layer]]](https://www.geeksforgeeks.org/data-link-layer/) are referred to as one single layer as the ‘Physical Layer’ or ‘Network Interface Layer’ in the 4-layer reference.
 
 ## What Does TCP/IP Do?
 
