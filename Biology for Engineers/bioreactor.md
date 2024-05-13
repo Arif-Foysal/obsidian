@@ -1,0 +1,1 @@
+Bioreactors are large containers with a continuous culture system, where the fresh medium is added from one side and used medium is taken out from another side. Bioreactors can process about 100-1000 litres of cell cultures. A bioreactor provides optimum conditions (temperature, oxygen, pH, vitamins etc.) to biologically convert raw materials into specific protein.
