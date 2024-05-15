@@ -1,6 +1,6 @@
 #digital-logic #logicGate
 
-Xor is an abbreviation of “exclusive or”. Xor outputs “TRUE” if two input values are different.
+**Exclusive OR(XOR)** is an abbreviation of “exclusive or”. Xor outputs “TRUE” if two input values are different.
 
 ### Truth table
 

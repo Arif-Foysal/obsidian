@@ -1,15 +1,6 @@
 #biology #engineering 
-## rdna
-[[recombinant dna(rdna) technology]]
 
-1. **Describe/state the steps of rdna technology?**
-
-- [ ] Match with the slide #todo 
-
-![[recombinant dna(rdna) technology#Steps of cloning of any DNA fragment]]
-
-
-## Final Question Bank:
+## Final Question Bank Solution:
 #uiu 
 
 **BIO 3105**
@@ -158,6 +149,16 @@ Normally, we can detect a pathogen (bacteria, virus etc.) only when the disease 
 
 22. study how genes affect the normal functions of the body and its development
 **Ans:** Genes play a pivotal role in shaping the normal functions and development of the human body. They serve as the blueprint, encoding instructions for the synthesis of proteins that regulate various biological processes. Through intricate mechanisms, genes control everything from basic cellular functions to complex physiological systems. Genetic variations can influence susceptibility to diseases, metabolism, growth, and even behavior.
+
+## rdna
+[[recombinant dna(rdna) technology]]
+
+1. **Describe/state the steps of rdna technology?**
+
+- [ ] Match with the slide #todo 
+
+![[recombinant dna(rdna) technology#Steps of cloning of any DNA fragment]]
+
 
 ## **Ecosystem Dynamics**
 

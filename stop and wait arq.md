@@ -26,6 +26,8 @@ protocols in [[reliable data transfer over a channel with bit errors(rdt 2)]] ar
 
 ### Performance impact on stop and wait
 [[packet delay and loss]]
+![[Pasted image 20240515114013.png]]
+
 ### Characteristics
 
 - Used in Connection-oriented communication.
@@ -59,8 +61,7 @@ In a Go-Back-N (GBN) protocol, the sender is allowed to transmit multiple packet
 ![[Pasted image 20240419232600.png]]
 
 ### Flaws of go-back-n in action
-When the window size and bandwidth-delay product are both large, many packets can be in the pipeline. A single packet error can thus cause GBN to retransmit a large number of
-packets, many unnecessarily.
+When the window size and bandwidth-delay product are both large, many packets can be in the pipeline. **A single packet error can thus cause GBN to retransmit a large number of packets, many unnecessarily**.
 
 To overcome this, selective repeat in action comes in.
 

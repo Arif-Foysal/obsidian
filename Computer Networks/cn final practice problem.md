@@ -3,29 +3,41 @@
 ## [[transport layer]]
 
 **Topics to be convered:**
-- [ ] Checksum
-- [ ] CRC
-- [ ] Stop-and-wait protocol
-- [ ] Pipelined Protocols 
-- [ ] Go-Back-N and Selective Repeat
+- [x] Checksum
+- [x] CRC
+- [x] Stop-and-wait protocol
+- [x] Pipelined Protocols 
+- [x] Go-Back-N and Selective Repeat
 - [ ] TCP segment Structure
 - [ ] Seq and ACK
 - [ ] TCP Retransmission
-- [ ] flow control
-- [ ] TCP connection opening and closing
+- [x] flow control
+- [x] TCP connection opening and closing
 - [ ] congestion control
 
+### TCP segment structure
+### [[tcp]] 3 way handshake
+![[Pasted image 20240515122510.png]]
+
+### Closing [[TCP]] Connection
+![[Pasted image 20240515121648.png]]
+
+### Congestion Control
+#### What is congestion
+ informally: “too many sources sending too much data too fast
+for network to handle”
 ## [[network layer]]
 **Topics to be convered:**
-- [ ] Routing
-- [ ] Forwarding 
-- [ ] NAT
-- [ ] DHCP
-- [ ] IP Fragmentation 
-- [ ] IPv6 addressing
-- [ ] IPv4-v6 coexistence 
-- [ ] Tunneling
-- [ ] Dijkstra's link-state routing algorithm
+- [x] Routing
+- [x] Forwarding 
+- [x] NAT
+- [x] DHCP
+- [x] IP Fragmentation 
+- [x] IPv6 addressing
+- [x] IPv4-v6 coexistence 
+- [x] Tunneling
+- [x] Dijkstra's link-state routing algorithm
+
 ## [[data link layer]]
 **Topics to be convered:**
 - [ ] MAC protocols

@@ -26,11 +26,12 @@ CRC uses **Generator Polynomial** which is available in both sender side and rec
 - A string of k 0’s are appended in [[least significant bit(LSB)|LSB]] to the original message.
  > k = (number of bits in P(x) - 1)
 - The new message is divided by the fixed divisor(generator polynomial) using [[binary division]]. The remainder found from the division is the [[Cyclic Redundancy Check(CRC)|CRC]]
-- The calculated [[Cyclic Redundancy Check(CRC)CRC]] is appended in [[least significant bit(LSB)|LSB]] to the original message and send it to the receiver.
+- The calculated [[Cyclic Redundancy Check(CRC)|CRC]] is appended in [[least significant bit(LSB)|LSB]] to the original message and send it to the receiver.
 #### Example
 Let’s say,
 	Message M(x) = $x^5+x^4+x+1$ = 1 1 0 0 1 1
 	Predetermined P(x) = $x^4+x^3+1$ = 1 1 0 0 1
+>P(x) is **generator polynomial**
 
 ```
                         ———————> (n-1) 0’s appended
@@ -56,7 +57,7 @@ Let’s say,
 
 ```
 Therefore, the encoded message to be sent,
-`1 1 0 0 1 1 0 0 1`
+`1 1 0 0 1 1 1 0 0 1`
 
 **Receiver side operation:**
 ```
