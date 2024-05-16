@@ -126,6 +126,9 @@ The critical path is the path that gives us or helps us estimate the earliest ti
 
 ![[Pasted image 20240427135733.png]]
 
+**Ans:** It is not possible to add more entries, as it will form a loop.
+
+
 #todo #A !!!
 - [ ] Learn how to solve this.
 

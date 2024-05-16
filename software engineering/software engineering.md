@@ -19,7 +19,6 @@
 >	- [[virtual machines]]
 >- [[devops]]
 >- [[software engineering final practice problems]]
->- 
 
 
 ### ToDo #todo 
