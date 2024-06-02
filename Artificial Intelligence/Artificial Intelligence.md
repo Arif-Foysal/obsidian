@@ -30,9 +30,11 @@
 
 ## AI LAB
 
-- [ ] Python 
+- [ ] [[Python]]
 - [ ] A* search
 - [ ] Hill climbing
+
+[[AI Lab Sample Mid Question]]
 
 # Final Syllabus
 

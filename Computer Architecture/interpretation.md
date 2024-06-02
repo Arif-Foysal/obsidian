@@ -1,4 +1,4 @@
-- Interpreted Languages: In interpreted languages like Python, JavaScript, or Ruby, an interpreter reads and executes the program line by line. Here's the general process:
+- Interpreted Languages: In interpreted languages like [[Python]], JavaScript, or Ruby, an interpreter reads and executes the program line by line. Here's the general process:
     
     - The source code written in the programming language is passed to the interpreter.
     - The interpreter reads the code line by line, translates each line into machine-readable instructions, and executes them immediately.

@@ -1,17 +1,13 @@
-#Computer-Science #webDevelopment 
+#Computer-Science #webDevelopment #root 
 
 >[!Contents]
 >- [[HTML]]
 >- [[CSS]]
->-	[[Bootstrap]]
+>- [[Bootstrap]]
 >- [[JavaScript]]
 >- [[Relational Databases and SQL]]
 >- [[PHP]]
 >- [[tailwind css]]
 >- [[web development projects]]
 >- [[MongoDB]]
-
-
-
-
 

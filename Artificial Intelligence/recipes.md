@@ -1,6 +1,8 @@
 #Recipe #root #health 
 
 >[!Table of Contents]
+>## Bengali Dishes
+>- [[Chicken curry]]
 >## High protein meals
 >- [[Chickpea Recipe]]
 >## Puddings

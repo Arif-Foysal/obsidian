@@ -35,7 +35,7 @@
 | `aptitude` | Alternative to `apt`. | 
 | `snap` | Install, remove and configure snap packages. |
 | `gem` | Standard package manager for Ruby. | 
-| `pip` | Standard package manager for Python. | 
+| `pip` | Standard package manager for [[Python]]. | 
 | `git` | Revision control system command-line utility. | 
 | `systemctl` | Command-line based service and systemd control manager. |
 | `ps` | Prints a snapshot of the current processes. | 

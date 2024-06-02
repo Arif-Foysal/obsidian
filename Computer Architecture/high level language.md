@@ -14,6 +14,6 @@ Some characteristics of high-level programming languages include:
 
 5. Memory Management: High-level languages often handle memory management automatically or provide garbage collection mechanisms, relieving the programmer from manual memory allocation and deallocation tasks.
 
-Examples of high-level programming languages include Python, Java, C++, C#, JavaScript, Ruby, and many others. These languages are widely used for a variety of applications, ranging from web development to scientific computing, artificial intelligence, and mobile app development.
+Examples of high-level programming languages include [[Python]], Java, C++, C#, JavaScript, Ruby, and many others. These languages are widely used for a variety of applications, ranging from web development to scientific computing, artificial intelligence, and mobile app development.
 
 High-level programming languages have played a significant role in making programming more accessible to a wider audience, enabling individuals with various backgrounds to learn and write software more easily, and accelerating the development process by providing higher levels of productivity and abstraction.
