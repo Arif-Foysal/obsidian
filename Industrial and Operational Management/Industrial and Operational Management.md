@@ -1,7 +1,9 @@
 #ipe #root 
 
 >[!Links]
->- [[Engineering Economy]]
+>### **Engineering Economy**
+>- [[The time value of money]]
+>- [[Discounted payback period]]
 >- 
 
 

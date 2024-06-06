@@ -1,4 +1,4 @@
-#programming #webDevelopment #Computer-Science 
+#programming #webDevelopment #Computer-Science #PHP #root  
 >[!Contents]
 >- [[PHP Introduction]]
 >- [[PHP Installation]]

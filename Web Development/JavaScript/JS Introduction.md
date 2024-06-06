@@ -27,7 +27,7 @@ document.getElementById("demo").innerHTML = "Hello JavaScript";
 ## JavaScript Can Change HTML Attribute Values
 In this example JavaScript changes the value of the `src` (source) attribute of an `<img>` tag:
 ### Example
-```
+```js
 <!DOCTYPE html>
 <html>
 <body>
