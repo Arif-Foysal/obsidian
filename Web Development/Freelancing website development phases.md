@@ -22,4 +22,3 @@
     
     - Monitor the platform for bugs and issues.
     - Regularly update the platform with new features and improvements based on user feedback.
-

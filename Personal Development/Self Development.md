@@ -14,9 +14,9 @@
 	 - [[Exercise]] Regularly
 	 - [[Sleep well]]
 	 - [[project unbreakable physique]]
-- Longevity
+- Longevity and Vitality
 	- [[Tai Chi]]
-	- 
+	- [[flow workout]]
 
 
 ### Projects

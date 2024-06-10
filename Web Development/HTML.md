@@ -17,7 +17,11 @@
 >- [[html favicon]]
 >- [[html page title]]
 >- [[html table]]
->	- 
+>- [[html lists]]
+>- [[html block and inline elements]]
+>- [[code snippets in html]]
+>#### **Collecting user input**
+>- [[html forms]]
 >#### **StYling**
 >- [[CSS]]
 >#### **Deployment**

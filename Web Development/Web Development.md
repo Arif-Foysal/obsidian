@@ -1,20 +1,26 @@
 #Computer-Science #webDevelopment #root 
 
->[!Contents]
+>[!References]
 >- [[HTML]]
 >- [[CSS]]
->- [[Bootstrap]]
+>	- [[tailwind css]]
+>	- [[Bootstrap]]
+>	- [[sass]]
 >- [[JavaScript]]
 >- [[Relational Databases and SQL]]
 >- [[PHP]]
->- [[tailwind css]]
->- [[web development projects]]
 >- [[MongoDB]]
 
->[!Also Read]
+>[!Deployment]
+>- [[Deploying a website]]
+>- [[install LAMP stack on ubuntu]]
+
+>[!Security]
+>- [[Firewalls]]
+
+>[!Ways to earn]
 >- [[Freelancing]]
->- [[clippingbd]]
 
 >[!Projects]
 >- [[Freelancing website]]
->- 
+>- [[clippingbd]]
