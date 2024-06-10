@@ -11,6 +11,10 @@
 >- [[PHP]]
 >- [[MongoDB]]
 
+>[!Development Environment Setup]
+>### **Linux**
+>- [[install LAMP stack on ubuntu]]
+
 >[!Deployment]
 >- [[Deploying a website]]
 >- [[install LAMP stack on ubuntu]]
