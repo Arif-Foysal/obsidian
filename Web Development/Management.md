@@ -86,3 +86,9 @@ The horizontal axis represents market share (low or high) and the vertical axis 
 
 ![[Pasted image 20240611100659.png]]
 
+### **Challenges of Management**
+**The need for Vision**
+– Ex. New Technologies may arrive. Should we accept it or not? (NOKIA – Android case) 
+**The need for Ethics**
+– Ex. Industrial pollution (Volkswagen car scandal) The need for **Responsiveness to cultural Diversity**
+– Ex. Have to handle people from different cultures (WALMART faced failure in German market)
