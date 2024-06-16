@@ -1,4 +1,6 @@
 #webDevelopment 
 
-Metadata is important for [[SEO(Search Engine Optimization)]].
+Metadata, also known as meta description is important for [[SEO(Search Engine Optimization)]].
+
+
 
