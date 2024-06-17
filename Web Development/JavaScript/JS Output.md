@@ -7,7 +7,7 @@ JavaScript can "display" data in different ways:
 - Writing into an HTML element, using `innerHTML`.
 - Writing into the HTML output using `document.write()`.
 - Writing into an alert box, using `window.alert()`.
-- Writing into the browser console, using `console.log()`.
+- Writing inato the browser console, using `console.log()`.
 ## Using innerHTML
 ```js
 <!DOCTYPE html>  
@@ -92,7 +92,26 @@ alert with click of a button-
 </body>
 </html> 
 ```
+
+You can always skip the `window` keyword:
+```js
+alert("This is a alert");
+```
 ## Using Console.log
+Console.log is mostly used for debugging purposes.
+```js
+<!DOCTYPE html>  
+<html>  
+<body>  
+  
+<script>  
+console.log(5 + 6);  
+</script>  
+  
+</body>  
+</html>
+```
+
 
 ## JavaScript Print
 JavaScript does not have any print object or print methods.
