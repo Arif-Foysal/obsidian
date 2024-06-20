@@ -6,6 +6,9 @@
 >- [[JS Output]]
 >- [[JS Comments]]
 >- [[JS Variables]]
+>- [[JS Operators]]
+>- 
+>- [[async vs defer attributes]]
 >#### **JavaScript Frameworks**
 >- [[React]]
 >- [[NodeJS]]

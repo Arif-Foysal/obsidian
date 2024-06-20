@@ -27,6 +27,8 @@
 >- [[Freelancing]]
 
 >[!Projects]
+>- [[Chat application]]
+>- [[Tourism Application]]
 >- [[Freelancing website]]
 >- [[clippingbd]]
 
