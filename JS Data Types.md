@@ -127,3 +127,17 @@ let car;    // Value is undefined, type is undefined
 ```
 >**Any variable can be emptied, by setting the value to `undefined`. The type will also be `undefined`.**
 
+## **Undefined Variable in JS**
+In JavaScript, a variable without a value, has the value `undefined`. The type is also `undefined`.
+
+```js
+let car;    // Value is undefined, type is undefined
+
+[Try it Yourself »](https://www.w3schools.com/js/tryit.asp?filename=tryjs_datatypes_undefined)
+```
+
+Any variable can be emptied, by setting the value to `undefined`. The type will also be `undefined`.
+```js
+let car = "Bugatti";
+car = undefined;    // Value is undefined, type is undefined
+```

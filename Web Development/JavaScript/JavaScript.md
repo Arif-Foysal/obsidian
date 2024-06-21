@@ -8,7 +8,8 @@
 >- [[JS Variables]]
 >- [[JS Operators]]
 >- [[JS Data Types]]
->- 
+>- [[JS Functions]]
+>- [[JS Objects]]
 >- [[async vs defer attributes]]
 >#### **JavaScript Frameworks**
 >- [[React]]

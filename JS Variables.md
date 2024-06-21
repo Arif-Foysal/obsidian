@@ -1,5 +1,9 @@
 #javascript 
 
+>[!Links]
+>- [[JS Primitives]]
+
+
 **JavaScript Variables can be declared in 4 ways:**
 - Automatically
 - Using `var`
@@ -105,3 +109,5 @@ const car = {type:"Fiat", model:"500", color:"white"};
   
 car = {type:"Volvo", model:"EX60", color:"red"};    // ERROR
 ```
+
+![[JS Primitives]]
