@@ -7,6 +7,7 @@
 >- [[JS Comments]]
 >- [[JS Variables]]
 >- [[JS Operators]]
+>- [[JS Data Types]]
 >- 
 >- [[async vs defer attributes]]
 >#### **JavaScript Frameworks**
