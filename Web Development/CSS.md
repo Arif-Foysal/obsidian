@@ -1,6 +1,12 @@
 #css  #root 
 
 >[!Contents]
+>- [[How CSS Works]]
+>- [[CSS syntax]]
+>- [[CSS Selectors]]
+>- [[CSS Comments]]
+>- [[CSS Specificity]]
+>- 
 >### **CSS Frameworks**
 >- [[tailwind css]]
 

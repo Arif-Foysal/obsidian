@@ -1,10 +1,16 @@
-#webDevelopment #project #SAD 
+#project #webDevelopment #SAD #dbms 
 
+>[!Links]
+>[[exchange rate api]]
+>[[AI prompts for adventure amigos]]
+>[[adventure amigos 1st presentation]]
 # **Benchmark Analysis**
 
 Existing websites to compare with:
 https://beautifulbangladesh.gov.bd/
 
+### **Prototype**
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fdesign%2FKGzx83c3lLMr3NKVizOC0v%2FAdventure-Amigos%3Ft%3DO2VvXIqrm4XPcViD-1" allowfullscreen></iframe>
 
 # **Sprint Planning**
 **Project Name:** Adventure Avenue
