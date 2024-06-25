@@ -1,10 +1,10 @@
 #project 
 
 **Intro**
-Imagine this: You and your friends have finally planned that dream trip you've been talking about for a very long time. You spend hours trying to find suitable accommodation that fits your budget and meets your expectations. You waste another few hours comparing hotels and hunting for the best deals. And then, just when you think you've got it figured out, you realize you've missed a local festival that everyone is talking about. 
-Or perhaps, in preparation for your trip, you find yourself watching countless travel vlogs, trying to piece together the must-see attractions and hidden gems.
+Imagine you and your friends are finally going to that trip you've been talking about for a long time. You spend hours trying to find suitable accommodation that fits your budget and meets your expectations. Or perhaps, in preparation for your trip, you find yourself watching countless travel vlogs, trying to piece together the must-see attractions and hidden gems. And then, just when you think you've got it figured out, you realize you've missed a local festival that everyone is talking about. 
 
-What if you could plan your trip, find accommodation, book tours, and even discover local events all in one platform?
+What if you could plan your trip, find accommodation, book tours, 
+and even discover local events all in one platform?
 
 We are introducing **Adventure Amigos**,
 your ultimate travel companion that takes the pain out of traveling and turns your trip into a seamless adventure.
