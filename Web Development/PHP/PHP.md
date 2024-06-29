@@ -1,4 +1,5 @@
 #programming #webDevelopment #Computer-Science #PHP #root  
+
 >[!Contents]
 >- [[PHP Introduction]]
 >- [[PHP Installation]]
@@ -21,9 +22,33 @@
 >- ### **Object Oriented PHP**
 >- [[object-oriented-programming]]
 >- [[php Object Oriented Programming]]
+>	- [[PHP Class and Object]]
+>	- [[PHP Inheritance]]
+>	- [[PHP Constructors and Destructors]]
+>	- [[PHP Access Modifiers]]
+>- ### **PHP Superglobals**
+>- [[PHP Superglobals]]
+>	- [[PHP $GLOBALS]]
+>	- [[PHP $_SERVER]]
+>	- [[PHP $_REQUEST]]
+>	- [[PHP $_POST]]
+>	- [[PHP $_GET]]
+>	- [[PHP $_FILES]]
+>	- [[PHP $_ENV]]
+>	- [[PHP $_COOKIE]]
+>	- [[PHP $_SESSION]]
+>- ### **PHP MYSQL**
+>- [[PHP Connecting To MYSQL Database]]
+>- 
 >- ### **Error Handling**
 >- [[PHP Error Handling]]
->- 
+>- ## **PHP Frameworks**
+>- [[Laravel]]
+
+
+### **ToDo**
+- [ ] Finish php oop
+- [x] understand PHP superglobals
 
 **Ref:** https://www.w3schools.com/php/
 

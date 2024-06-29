@@ -6,7 +6,7 @@ Forms are crucial for tasks such as user authentication, data submission, feedba
 
 ### **Sample html form**
 ```html
- <form action="/submit" method="post">
+ <form action="process_form.php" method="post">
     <!-- Text input for username -->
     <label for="username">Username:</label>
     <input type="text" id="username" name="username" required>
@@ -28,6 +28,9 @@ Forms are crucial for tasks such as user authentication, data submission, feedba
     <input type="submit" value="Submit">
   </form>
 ```
+- The `method="post"` attribute specifies that the form data should be sent using the POST method.
+- The `action="process_form.php"` attribute specifies the file (`process_form.php`) that will handle the form submission.
+
 ### **Form Control**
 The `<input>` tag is commonly used to create form controls. The attributes of this tag define the control's behavior.
 - The **"type"** attribute specifies the type of input control (e.g., text, password, checkbox).

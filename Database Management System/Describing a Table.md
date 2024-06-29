@@ -1,3 +1,5 @@
+#MySQL 
+
 We can view a table information (Fields and their data types) by-
 ```
 DESCRIBE `<tableName>`;
