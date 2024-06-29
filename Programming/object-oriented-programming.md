@@ -1,8 +1,27 @@
+### **Intro**
 Object-oriented programming is a programming paradigm that organizes data and behaviors into reusable structures called objects.
+
+### Advantages of OOPS
+
+1. Programs are faster to execute.
+2. Better code re-usability. 
+3. Easy to understand code structure. 
+4. Very easy to partition the work in a project based on objects.
+5. Easy to make fully reusable programs with less code and less development time. 
+
+### Disadvantages of OOPS
+
+1. OOPS cannot be applied everywhere as it is not a universal language.
+2. Need to have a good understanding of classes and objects to apply OOPS. 
+3. It takes a lot of effort to create. 
+4. It is slower than other programs.
+5. OOPS programs are large in size when compared to normal programs.
+
 
 > **Contents**
 > [[OOP with C++]]
 > [[OOP with Java]]
+> [[php Object Oriented Programming]]
 
 ## Concepts of Object Oriented Programming
 

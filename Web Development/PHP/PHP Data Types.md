@@ -6,7 +6,7 @@ PHP supports the following data types:
 - Integer
 - Float (floating point numbers - also called double)
 - Boolean
-- Array
+- [[PHP Array]]
 - Object
 - NULL
 - Resource
