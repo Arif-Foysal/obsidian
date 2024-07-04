@@ -34,19 +34,11 @@
 - [ ] A* search
 - [ ] Hill climbing
 
+[[Machine Learning]]
+
 [[AI Lab Sample Mid Question]]
 
-# Final Syllabus
 
-Probability basics: Basics, Full joint distribution construction, inference by enumeration, bayes rule, independence   
-
-Bayes net: syntax and semantics, inference by enumeration, variable elimination
-
-Naive bayes classifier: concept and simulation
-
-Markov model: First order markov model, calculating probability, stationary distribution
-
-Decision Tree: ID3 simulation
 
 ### **CS50 Introduction to Artificial Intelligence**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5NgNicANyqM?si=4MRxOR11H8Nu5s5m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

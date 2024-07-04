@@ -1,6 +1,5 @@
 #Laravel #root
 
-[[MVC Architecture]]
 
 ## **Required Knowledge**
 In order to use Laravel, you need to have a good understanding of the following technologies:

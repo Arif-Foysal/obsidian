@@ -12,7 +12,7 @@
 >- [[JS Objects]]
 >- [[async vs defer attributes]]
 >#### **JavaScript Frameworks**
->- [[React]]
+>- [[React JS]]
 >- [[NodeJS]]
 
 

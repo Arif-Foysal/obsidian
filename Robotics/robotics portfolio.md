@@ -1,4 +1,4 @@
-#robotics #portfolio
+#robotics #portfolio #project 
 
 A portfolio focused on [[software engineering]] and [[robotics]] to be developed for showcasing my skills and projects.
 - 30/1/2024
