@@ -2,8 +2,8 @@
 
 [[Brainstorming Video Ideas]]
 [[The First Video]]
-[[notable thumnails]]
-
+[[notable thumnail designs]]
+[[naming my Youtube channels]]
 
 > You don't even have to know anything about a topic to teach someone about the topic. All you have to have is an interest and a desire to learn.
 

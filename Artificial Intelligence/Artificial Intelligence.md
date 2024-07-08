@@ -37,15 +37,8 @@
 [[Machine Learning]]
 
 [[AI Lab Sample Mid Question]]
-
-
-
 ### **CS50 Introduction to Artificial Intelligence**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5NgNicANyqM?si=4MRxOR11H8Nu5s5m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
 **Additional Resources:**
 https://www.youtube.com/@CSFall-de7jy/videos
-
-
-
