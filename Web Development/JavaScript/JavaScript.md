@@ -10,6 +10,7 @@
 >- [[JS Data Types]]
 >- [[JS Functions]]
 >- [[JS Objects]]
+>- [[JS]]
 >- [[async vs defer attributes]]
 >#### **JavaScript Frameworks**
 >- [[React JS]]
@@ -19,3 +20,9 @@
 
 References- https://www.w3schools.com/js/
 
+## ToDo
+
+- [ ] Symbol data type in js.
+	- [ ] Using symbol in js object property. Ref:js objects chai aur code
+- [ ] Master JS objects
+- [ ] Master DOM Manipulation.

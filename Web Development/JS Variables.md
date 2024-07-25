@@ -5,7 +5,7 @@
 
 
 **JavaScript Variables can be declared in 4 ways:**
-- Automatically
+- Automatically (kinda like python)
 - Using `var`
 - Using `let`
 - Using `const`
