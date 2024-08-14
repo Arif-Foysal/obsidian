@@ -9,6 +9,7 @@ JavaScript can "display" data in different ways:
 - Writing into an alert box, using `window.alert()`.
 - Writing inato the browser console, using `console.log()`.
 ## Using innerHTML
+
 ```js
 <!DOCTYPE html>  
 <html>  

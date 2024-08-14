@@ -44,6 +44,8 @@
 >- [[PHP Inserting Data on a MYSQL DB]]
 >- [[PHP Selecting Data from a MYSQL DB]]
 >- [[PHP Updating MYSQL Data]]
+>- ### **Ajax**
+>- [[PHP Ajax]]
 >- ### **Error Handling**
 >- [[PHP Error Handling]]
 >- ## **PHP Frameworks**

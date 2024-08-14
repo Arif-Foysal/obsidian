@@ -4,6 +4,38 @@
 >[[exchange rate api]]
 >[[AI prompts for adventure amigos]]
 >[[adventure amigos 1st presentation]]
+
+# Tasks #todo 
+
+Goal is to finish the Front-End by [[2024-08-15]] 
+- [x] View all review page
+- [ ] Reservation calendar
+      https://preline.co/docs/datepicker.html
+      or, flowbite
+- [ ] Design the secondary nav.
+- [ ] Fix tablet width of the language modal.
+- [ ] Edit profile.
+- [x] Account settings - 
+      personal info, login and security, notifications, privacy and sharing, global preferences, 
+- [ ] Account settings sub-pages.
+- [ ] view-hotel > all photos.
+- [ ] square images for hotels.php.
+- [ ] Finish create listings.
+
+## Additional Tasks
+- [ ] Security improvements for login: **Back-End**
+      https://chatgpt.com/c/c098ee2e-efeb-4938-9a7e-22fc2bee6716
+- **Secure Session Handling**:
+    - Ensure that the session cookie is transmitted securely by setting the `session.cookie_secure` flag if you're using HTTPS.
+    - Set the `session.cookie_httponly` flag to prevent JavaScript from accessing the session cookie.
+    - Use `session_regenerate_id(true)` after a successful login to prevent session fixation attacks.
+- **Sanitize and Validate Session Variables**:
+    
+    - Even though you're setting session variables on successful login, it's still good practice to sanitize and validate them before use.
+- **Implement Content Security Policy (CSP)**:
+    
+    - Consider adding a Content Security Policy header to protect against XSS attacks:
+
 # **Benchmark Analysis**
 
 Existing websites to compare with:
@@ -15,10 +47,10 @@ https://beautifulbangladesh.gov.bd/
 # **Sprint Planning**
 **Project Name:** Adventure Avenue
 **Sprint 1 Tasks:**
-- [ ] Make pptx and prepare for the first presentation.
-- [ ] Design and develop front-end of signup and login page with [[html]], [[css]] and [[JavaScript]]
-- [ ] Develop the back-end and database integration with proper session management for signup and login process using [[PHP]] and [[SQL]].
-- [ ] Design the prototype of landing page and other pages with [[Figma]]. (required for presentation)
+- [x] Make pptx and prepare for the first presentation.
+- [x] Design and develop front-end of signup and login page with [[html]], [[css]] and [[JavaScript]]
+- [x] Develop the back-end and database integration with proper session management for signup and login process using [[PHP]] and [[SQL]].
+- [x] Design the prototype of landing page and other pages with [[Figma]]. (required for presentation)
 
 ## **Every team member should have:**
 
