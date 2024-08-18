@@ -28,7 +28,7 @@
 
 >[!Projects]
 >- [[Chat application]]
->- [[Tourism Application]]
+>- [[Adventure Amigos]]
 >- [[Freelancing website]]
 >- [[clippingbd]]
 >- [[UIU Helpline]]
@@ -38,4 +38,5 @@
 
 >[!Misc]
 >- [[Google Authentication]]
+>- [[Royal Kludge]]
 

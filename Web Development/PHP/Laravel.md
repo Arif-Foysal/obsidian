@@ -1,6 +1,5 @@
 #Laravel #root
 
-
 ## **Required Knowledge**
 In order to use Laravel, you need to have a good understanding of the following technologies:
 
@@ -12,4 +11,8 @@ In order to use Laravel, you need to have a good understanding of the following 
 6. [[git]]
 7. [[operating systems]], specially Linux.
 
+
+# Learning Resources
+https://www.youtube.com/watch?v=M9DoUszVCFc&list=PL0b6OzIxLPbz7JK_YYrRJ1KxlGG4diZHJ&index=1
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M9DoUszVCFc?si=r6BLMnQaPeQrGzAC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

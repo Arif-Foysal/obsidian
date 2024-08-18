@@ -1,4 +1,4 @@
-#project #webDevelopment #SAD #dbms 
+#project #webDevelopment #SAD #dbms #root 
 
 >[!Links]
 >[[exchange rate api]]
@@ -8,19 +8,24 @@
 # Tasks #todo 
 
 Goal is to finish the Front-End by [[2024-08-15]] 
-- [x] View all review page
 - [ ] Reservation calendar
       https://preline.co/docs/datepicker.html
       or, flowbite
 - [ ] Design the secondary nav.
-- [ ] Fix tablet width of the language modal.
-- [ ] Edit profile.
-- [x] Account settings - 
-      personal info, login and security, notifications, privacy and sharing, global preferences, 
-- [ ] Account settings sub-pages.
-- [ ] view-hotel > all photos.
-- [ ] square images for hotels.php.
 - [ ] Finish create listings.
+      -[x] make create_listing.php responsive
+- [ ] Design activities page
+[[2024-08-18]] finished the bottom tasks.3 left. adding more.....
+- [x] View all review page
+
+- [x] Fix tablet width of the language modal.
+- [x] Edit profile.
+- [x] Account settings -  
+- [x] Account settings sub-pages.
+      personal info, login and security, notifications, privacy and sharing, global preferences
+- [x] view-hotel > all photos.
+- [x] square images for hotels.php.
+
 
 ## Additional Tasks
 - [ ] Security improvements for login: **Back-End**
