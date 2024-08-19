@@ -78,12 +78,20 @@ These are the logical operators that combine conditional statements.
 
 PHP has these two operators designed for strings.
 
-|   |   |   |
-|---|---|---|
-|**Name**|**Operator**|**Example**|
-|Concatenation|.|$text1 . $text2|
-|Concatenation Assignment|.=|$text1 .= $text2|
+|                          |              |                  |
+| ------------------------ | ------------ | ---------------- |
+| **Name**                 | **Operator** | **Example**      |
+| Concatenation            | .            | $text1 . $text2  |
+| Concatenation Assignment | .=           | $text1 .= $text2 |
+##### Example:
+**Concatenation**
+```php
+$a = "hello "
+$a .= "world";
+// $a = "hello world"
+$b = $a ."";
 
+```
 ### 7. PHP Array Operators
 
 These Operators are used to compare arrays.
@@ -106,6 +114,20 @@ These operators assign values to operands based on the outcome of a certain cond
 | --------------- | ------------ | ----------------------- |
 | Ternary         | ?:           | $x = exp1 ? exp2 : exp3 |
 | Null Coalescing | ??           | $x = exp1 ?? exp2       |
+**PHP Ternary Operator**
+
+`(condition) ? True Statement : False Statement`
+Example:
+```php
+($x == $y) ? $z = 4 : $z = 0;
+//if-else version
+if($x == $y){
+	$z = 0;
+}
+else{
+$z = 0;
+}
+```
 
 **ref:** https://www.codewithharry.com/tutorial/php-operators/
 

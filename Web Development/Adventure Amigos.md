@@ -14,7 +14,7 @@ Goal is to finish the Front-End by [[2024-08-15]]
 - [ ] Design the secondary nav.
 - [ ] Finish create listings.
       -[x] make create_listing.php responsive
-- [ ] Design activities page
+- [x] Design activities page
 [[2024-08-18]] finished the bottom tasks.3 left. adding more.....
 - [x] View all review page
 

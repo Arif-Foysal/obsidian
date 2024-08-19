@@ -17,8 +17,12 @@
 >- [[PHP Operators]]
 >- [[PHP Conditional Statements]]
 >- [[PHP Loops]]
+>	- [[PHP break and continue]]
+>	- [[PHP goto]]
 >- [[PHP Functions]]
 >	- [[PHP Function Arguments]]
+>- [[PHP File Handling]]
+>- 
 >- ### **Object Oriented PHP**
 >- [[object-oriented-programming]]
 >- [[php Object Oriented Programming]]
