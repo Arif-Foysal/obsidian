@@ -21,6 +21,7 @@
 >	- [[PHP goto]]
 >- [[PHP Functions]]
 >	- [[PHP Function Arguments]]
+>	- [[PHP Callback Functions]]
 >- [[PHP File Handling]]
 >- [[PHP Cookie]]
 >- ### **Validation and Sanitization**
