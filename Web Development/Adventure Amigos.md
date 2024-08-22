@@ -7,6 +7,8 @@
 
 # Tasks #todo 
 
+## Front End
+
 Goal is to finish the Front-End by [[2024-08-15]] 
 - [ ] Reservation calendar
       https://preline.co/docs/datepicker.html
@@ -27,19 +29,14 @@ Goal is to finish the Front-End by [[2024-08-15]]
 - [x] square images for hotels.php.
 
 
-## Additional Tasks
-- [ ] Security improvements for login: **Back-End**
-      https://chatgpt.com/c/c098ee2e-efeb-4938-9a7e-22fc2bee6716
-- **Secure Session Handling**:
-    - Ensure that the session cookie is transmitted securely by setting the `session.cookie_secure` flag if you're using HTTPS.
-    - Set the `session.cookie_httponly` flag to prevent JavaScript from accessing the session cookie.
-    - Use `session_regenerate_id(true)` after a successful login to prevent session fixation attacks.
-- **Sanitize and Validate Session Variables**:
-    
-    - Even though you're setting session variables on successful login, it's still good practice to sanitize and validate them before use.
-- **Implement Content Security Policy (CSP)**:
-    
-    - Consider adding a Content Security Policy header to protect against XSS attacks:
+## Back End
+- [ ] Use cookie for storing info (favorites, check-in details)
+#### Security
+- [ ] sanitize and validate all external input
+      [[PHP Filters]]
+- [ ] 
+
+
 
 # **Benchmark Analysis**
 

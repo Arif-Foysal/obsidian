@@ -22,7 +22,9 @@
 >- [[PHP Functions]]
 >	- [[PHP Function Arguments]]
 >- [[PHP File Handling]]
->- 
+>- [[PHP Cookie]]
+>- ### **Validation and Sanitization**
+>- [[PHP Filters]]
 >- ### **Object Oriented PHP**
 >- [[object-oriented-programming]]
 >- [[php Object Oriented Programming]]

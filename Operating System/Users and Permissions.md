@@ -139,8 +139,39 @@ Powershell-
 |0|none(---)|
 We can modify permissions using `chmod`
 
+**Checking permissions of a directory:**
+```bash
+ls -ld /var/www/html/test
+```
+Output should look like this:
+```
+drwxr-xr-x 2 www-data www-data 4096 Aug 19 12:34 /var/www/html/test
+```
+- **`drwxr-xr-x`**: This string represents the permissions of the directory.
+    - **`d`**: Indicates that it's a directory.
+    - **`rwx`**: The owner (`www-data`) has read (`r`), write (`w`), and execute (`x`) permissions.
+    - **`r-x`**: The group (`www-data`) has read (`r`) and execute (`x`) permissions, but not write.
+    - **`r-x`**: Others (everyone else) have read (`r`) and execute (`x`) permissions, but not write.
+- **`2`**: Number of hard links to the directory.
+- **`www-data www-data`**: The first `www-data` is the owner of the directory, and the second `www-data` is the group associated with it.
+- **`4096`**: The size of the directory in bytes.
+- **`Aug 19 12:34`**: The last modification date and time.
+- **`/var/www/html/test`**: The directory path.
 
-**Changing owner of a file**
+### Breakdown of Permissions:
+
+- **Read (`r`)**: Allows viewing the contents of the directory.
+- **Write (`w`)**: Allows creating, deleting, or modifying files within the directory.
+- **Execute (`x`)**: Allows entering the directory (cd into it) and accessing its contents.
+
+### Understanding Permission Codes:
+
+- **`rwxr-xr-x`** is broken down as follows:
+    - **Owner (first three characters)**: `rwx` - the owner can read, write, and execute.
+    - **Group (next three characters)**: `r-x` - the group can read and execute, but not write.
+    - **Others (last three characters)**: `r-x` - others can read and execute, but not write.
+
+## Changing owner of a file
 synopsis-
 `chown <user> <file>`
 

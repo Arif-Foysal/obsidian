@@ -37,3 +37,17 @@ The `<input>` tag is commonly used to create form controls. The attributes of 
 - The **"name"** attribute is used for identifying the control, especially when the data is sent to the server.
 - The **"value"** attribute sets a default value for the control, which the user can overwrite.
 
+### `ecntype` attribute in form
+[[PHP File Handling#PHP file upload]]
+The `enctype` attribute specifies how the form-data should be encoded when submitting it to the server.
+**Attribute Values:**
+
+| Value                             | Description                                                                                                                                     |
+| --------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| application/x-www-form-urlencoded | Default. All characters are encoded before sent (spaces are converted to "+" symbols, and special characters are converted to ASCII HEX values) |
+| multipart/form-data               | This value is necessary if the user will upload a file through the form                                                                         |
+| text/plain                        | Sends data without any encoding at all. Not recommended                                                                                         |
+
+
+
+
