@@ -57,6 +57,7 @@
 >- [[PHP Ajax]]
 >- ### **Error Handling**
 >- [[PHP Error Handling]]
+>- [[PHP Exceptions]]
 >- ## **PHP Frameworks**
 >- [[Laravel]]
 
