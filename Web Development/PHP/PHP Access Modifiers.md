@@ -89,4 +89,3 @@ $emp1->set_salary('300'); //It will throw error as It can not Access the Private
 ?>
 ```
 
-

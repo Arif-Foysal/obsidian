@@ -4,7 +4,6 @@
 ### **Class**
 
 **Syntax:**
-
 ```php
 <?php
 class class_name {
@@ -80,3 +79,15 @@ echo $emp2->get_name();
 Harry
 Shayan
 ```
+
+## Checking if an object belongs to a specific class
+You can use the `instanceof` keyword to check if an object belongs to a specific class:
+```php
+<?php  
+$apple = new Fruit();  
+var_dump($apple instanceof Fruit); //will return bool(true) 
+?>
+```
+
+
+

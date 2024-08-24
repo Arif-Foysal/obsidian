@@ -58,6 +58,8 @@
 >- ### **Error Handling**
 >- [[PHP Error Handling]]
 >- [[PHP Exceptions]]
+>- ## **PHP Dependency Manager**
+>- [[Composer]]
 >- ## **PHP Frameworks**
 >- [[Laravel]]
 

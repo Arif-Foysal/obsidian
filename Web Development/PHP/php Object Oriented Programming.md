@@ -3,4 +3,3 @@
 
 ![[PHP Class and Object]]
 
-![[PHP Object]]
