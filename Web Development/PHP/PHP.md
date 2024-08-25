@@ -35,6 +35,9 @@
 >	- [[PHP Inheritance]]
 >	- [[PHP Constructors and Destructors]]
 >	- [[PHP Access Modifiers]]
+>	- [[PHP Class Constants]]
+>	- [[PHP Abstract Class]]
+>	- [[PHP Interfaces]]
 >- ### **PHP Superglobals**
 >- [[PHP Superglobals]]
 >	- [[PHP $GLOBALS]]
