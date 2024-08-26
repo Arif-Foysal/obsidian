@@ -162,6 +162,7 @@ John 30 New York
 ```
 >You must use `person[x]` in the loop. `person.x` will not work, because x is the loop variable.
 
+**Built in object methods:**
 ##### Using Object.values()
 `Object.values()` creates an [[JS Data Types#**JS Arrays**|JS Array]] from the property values:
 ```js
@@ -178,6 +179,9 @@ const myArray = Object.values(person);
 // Display the Array  
 document.getElementById("demo").innerHTML = myArray;
 ```
+##### Using object.keys()
+`object.keys()` returns all the keys of the object on an array
+
 
 ##### Using Object.entries()
 `Object.entries()` makes it simple to sue objects in loops:
@@ -234,7 +238,7 @@ In JS, all values are an object. Except [[JS Primitives]].
 JS object constructors are similar as `classes` in [[object-oriented-programming]] languages.
 Object constructors in JS is basically used when we need to create many objects of the same type.
 
->Note: It is a good practice to name constructor functions with an upper-case first letter.
+>Note: It is a good ==practice== to name constructor functions with an upper-case first letter.
 
 **First, we need to define the constructor:**
 ```js
