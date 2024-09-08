@@ -57,7 +57,7 @@
 >- [[PHP Selecting Data from a MYSQL DB]]
 >- [[PHP Updating MYSQL Data]]
 >- ### **Ajax**
->- [[PHP Ajax]]
+>- [[Ajax]]
 >- ### **Error Handling**
 >- [[PHP Error Handling]]
 >- [[PHP Exceptions]]
