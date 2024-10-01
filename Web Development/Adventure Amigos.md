@@ -34,7 +34,7 @@ Goal is to finish the Front-End by [[2024-08-15]]
 
 ## Back End
 - [ ] Use cookie for storing info (favorites, check-in details)
-- [ ] Resize uploaded images before storing using intervension image library
+- [ ] Resize uploaded images before storing using [[intervension image]] library
 - [ ] Handle currency and translate/ libretranslate api responses with guzzle http 
 - [ ] Set chat application default conversation.
 - [ ] Add profile visit and send message option.
