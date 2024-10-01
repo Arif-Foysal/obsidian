@@ -28,6 +28,18 @@ where:
 | Organic          | 2.4   | 1.05  | 2.5   | 0.38  |
 | Semi-detached    | 3.0   | 1.12  | 2.5   | 0.35  |
 | Embedded         | 3.6   | 1.20  | 2.5   | 0.32  |
+## Function point
+
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+    <iframe 
+        src="https://www.youtube.com/embed/TfgNgD9K-bA?si=cvbsneUdvOpvIqZ-" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        allowfullscreen
+        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;">
+    </iframe>
+</div>
 
 ## Practice problems:
 
@@ -67,3 +79,33 @@ Thus, the **Count Total (CT)** is:
 >[!Note]
 >The table is called **Function point table**. The values for simple, average and complex are called **weighing factor**, and they are fixed.
 
+### Step 2: Assign Complexity and Calculate Function Points (FP)
+
+Using the formula for Function Points:
+
+![[Pasted image 20241002011637.png]]
+**F** is based on 14 questionaries. These questionaries can be ansewer in range 0 to 5. here, 
+![[Pasted image 20241002011820.png]]
+
+For example, here the summation of F is 29
+
+### Step 3: Convert Function Points to Lines of Code (LOC)
+Given that we are developing in **C language** with an average of **128 LOC per function point**, calculate the total **Kilo Lines of Code (KLOC)**:
+
+LOC = 29*128 = 3712
+KLOC = 3712/1000 = 3.712
+
+### Step 4: Apply the COCOMO Model
+
+Since this is a **Semi-Detached** project (moderate complexity, mixed experience team), use the Semi-Detached model constants:
+
+- a=3.0,  b=1.12
+- c=2.5, d=0.35
+
+**Effort Calculation:**
+
+E = 3 x (3.712)^1.12 = 13.034 person-months
+
+**Development Time Calculation:**
+
+D = 2.5 x (13.034)^0.35 = 6.140 months
