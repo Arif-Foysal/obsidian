@@ -12,11 +12,12 @@
 Goal is to finish the Front-End by [[2024-08-15]] 
 - [ ] Reservation calendar
       https://preline.co/docs/datepicker.html
-      or, flowbite
+      or, flowbite.
+      Way easier option: fullCalendar library
 - [ ] Design the secondary nav.
-- [ ] Finish create listings.
+- [x] Finish create listings.
       -[x] make create_listing.php responsive
-- [ ] Fix the nav bar responsive issue.
+- [x] --(stashed) Fix the nav bar responsive issue. 
 - [ ] Fix the profile menu and hamburger menu not working sometimes. #bug
 - [ ] Use compilation of css instead of tailwind cdn.
 - [x] Design activities page
@@ -34,13 +35,19 @@ Goal is to finish the Front-End by [[2024-08-15]]
 
 ## Back End
 - [ ] Use cookie for storing info (favorites, check-in details)
-- [ ] Resize uploaded images before storing using [[intervension image]] library
-- [ ] Handle currency and translate/ libretranslate api responses with guzzle http 
-- [ ] Set chat application default conversation.
-- [ ] Add profile visit and send message option.
+- [x] Resize uploaded images before storing using intervension image library
+- [x] Handle currency and translate/ libretranslate api responses with guzzle http 
+- [x] Set chat application default conversation.
+- [x] Add profile visit and send message option.
 #### Security
 - [ ] sanitize and validate all external input
       [[PHP Filters]]
+- [ ] 
+
+
+## ToDo list for the last week
+- [ ] View hotel page.
+- [ ] Virtual tour back-end
 - [ ] 
 
 
@@ -75,3 +82,7 @@ https://beautifulbangladesh.gov.bd/
 	- ### **Fetching API data**
 		- **POST Requests in Fetch API**: Learn how to send data from the frontend (JavaScript) to the backend (PHP) using POST requests.
 		- Use [[Ajax]] to handle API data without refreshing the whole page.
+
+
+## Project show
+

@@ -150,3 +150,11 @@ print_r($myArray);
 **Updating nth element**
 
 You already know this you dumb !!
+
+
+
+
+**prompt**
+The locaiton_id for the hotels table does not change if you run the api second time, but a new entry on the location table is created. I want you to do the following:
+- If a location_id exists for a particular hotel, do not create a new entry on the locaiton table, instead update the existing entry of that location_id.
+- Otherwise create a new entry and assign the location_id to the respective hotel
