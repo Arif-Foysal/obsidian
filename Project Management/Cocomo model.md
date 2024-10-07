@@ -1,5 +1,7 @@
 #projectManagement #software-engineering 
 
+[[CMMI]]
+
 COCOMO is a model used for estimating the cost, effort, and development time for software projects. It categorizes projects into three types based on their complexity:
 - **Organic:** Small, simple projects with small teams and well-understood requirements. Good experienced team.
 - **Semi-Detached:** Medium-sized projects with more complex requirements and larger teams.
