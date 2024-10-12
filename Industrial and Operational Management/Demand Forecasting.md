@@ -117,3 +117,11 @@ $$
 - **α close to 0**: More weight to past data, meaning the forecast is smoother and less reactive to short-term fluctuations.
 
 
+#### Exponential Smoothing Equations
+$$F_t = F_{t-1}+\alpha{(A_{t-1}-F_{t-1})}$$
+Here, 
+Ft = forecast value
+At = Actual value, 
+a = Smoothing constant
+A(t-1) - F(t-1) = Forecast error
+

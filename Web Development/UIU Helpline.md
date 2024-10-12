@@ -3,8 +3,7 @@
 ### **User Authentication and Profile**
 - A student can only register using his university email address. As a student completes registration, a confirmation email with an OTP will be sent to the student’s email. Then he can finish registration and activate his account with that OTP.
 - Profile pages with major, interests and profile picture.
-### **AI Chatbot**
-- Automated assistance for common queries such as: exam schedule, notices, campus information and so on.
+
 ### **Study Forum**
 - Discussion threads for various subjects and topics.
 - Upvoting and Downvoting for posts and replies.
@@ -13,6 +12,7 @@
 - Notification for replies and updates.
 ### **Resource sharing**
 - Upload and download materials such as Lecture notes, Previous Trimester questions
+
 ### **Event Calendar**
 - University event calendar with important dates.
 - Personal events and reminders can also be added on the calendar.
