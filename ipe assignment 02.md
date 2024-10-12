@@ -1,15 +1,17 @@
 <div class="container">
+<div class="cover">
 <h1>
 Industrial and Operational Management
 </h1>
 <h2>
-Assignment 01
+Assignment 02
 </h2>
 <p>
 Name: MD. Arif Faysal Nayem
 <p>ID: 011201194</p>
 <p>Course: IPE401</p>
 Section: A
+</div>
 </div>
 
 ### 1.
