@@ -125,3 +125,81 @@ At = Actual value,
 a = Smoothing constant
 A(t-1) - F(t-1) = Forecast error
 
+#### Example:
+![[Pasted image 20241012145426.png]]
+
+**Solution:**
+
+Sure, let's apply the exponential smoothing formula step-by-step from \( F_2 \) all the way to \( F_9 \):
+
+The exponential smoothing formula is:
+$$ F_t = F_{t-1} + \alpha (A_{t-1} - F_{t-1}) $$
+
+Given:
+- Initial forecast \( F_1 = 175 \)
+- Smoothing constant \( \alpha = 0.10 \)
+
+
+| Quarter | Actual | Forecast                                                        |
+| ------- | ------ | --------------------------------------------------------------- |
+| 1       | 180    | 175                                                             |
+| 2       | 168    | $$ F_2 = 175 + 0.10 (180 - 175) = 175.5$$                       |
+| 3       | 159    | $$ F_3 = 175.5 + 0.10 (168 - 175.5) = 174.75$$                  |
+| 4       | 175    | $$ F_4 = 174.75 + 0.10 (159 - 174.75) =173.175$$                |
+| 5       | 190    | $$ F_5 = 173.175 + 0.10 (175 - 173.175) = 173.3575$$            |
+| 6       | 205    | $$ F_6 = 173.3575 + 0.10 (190 - 173.3575) $$                    |
+| 7       | 180    | $$ F_7 = 175.02175 + 0.10 (205 - 175.02175) = 178.0195$$        |
+| 8       | 182    | $$ F_8 = 178.019575 + 0.10 (180 - 178.019575) = 178.2176175 $$  |
+| 9       |        | $$ F_9 = 178.2176175 + 0.10 (182 - 178.2176175)=178.59585575 $$ |
+
+
+So the forecast for the $$9^{\text{th}}$$ quarter is approximately $$\boxed{178.60}$$
+### Linear Regression
+#### Least squares equation
+
+**Equation:**
+$$\hat{Y}_i = a + bx_i$$
+**Slope:**
+$$b = \frac{\sum_{i=1}^{n} x_i y_i - n \bar{x} \bar{y}}{\sum_{i=1}^{n} x_i^2 - n (\bar{x})^2}$$
+**Y-intercept:**
+$$a = \bar{y} - b \bar{x}$$
+#### Forecast error equations
+**Mean Square Error(MSE)**
+$$MSE=\frac{\sum{(A-F)^2}}{M}$$
+
+
+
+
+**Practice problems:**
+![[Pasted image 20241012233748.png]]
+
+
+| Year       | Demand(y) | x      | x^2     | xy       |
+| ---------- | --------- | ------ | ------- | -------- |
+| 1997       | 74        | 1      | 1       | 74       |
+| 1998       | 49        | 2      | 4       | 98       |
+| 1999       | 80        | 3      | 9       | 240      |
+| 2000       | 90        | 4      | 16      | 360      |
+| 2001       | 105       | 5      | 25      | 525      |
+| 2002       | 142       | 6      | 36      | 852      |
+| 2003       | 122       | 7      | 49      | 854      |
+| **Total:** | **692**   | **28** | **140** | **3063** |
+
+So, $$\bar{x}=\frac{\sum{x}}{n} = \frac{28}{7} = 4$$
+$$\bar{y} = \frac{\sum{y}}{n} = \frac{692}{7}=98.86$$
+That is, 
+$$b=\frac{\sum{x}{y}-n\bar{x}\bar{y}}{\sum{x^2}-n\bar{x}^2} =\frac{3063-(7)(4)(98.86)}{140-(7)(16)}$$
+$$b=10.532$$
+Now we can find Y-intercept:
+$$a=\bar{y}-b\bar{x}$$
+$$a=98.86-(10.532)(4) = 56.74$$
+So, overall trend line:
+$$Y=a+bx$$
+$$y=56.74+10.532(x)..............(1)$$
+Demand in 2004, (plugging x = 8)
+$$y=56.74+10.532(8) = 140.98$$
+Demand in 2005, (x = 9)
+$$y=56.74+10.532(9) = 151.52$$
+
+
+
