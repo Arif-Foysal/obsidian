@@ -9,7 +9,9 @@
 >- [[Demand Forecasting]]
 >- [[scheduling]]
 >- [[Quality Management]]
->- 
+>- [[Linear Programming]]
+>- [[Lean manufacturing, six sigma and reliability]]
+>- [[Game Theory]]
 
 ## **Management**
 ![[Management]]
