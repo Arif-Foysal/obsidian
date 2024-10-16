@@ -1,4 +1,4 @@
-A calculator company produces a scientific calculator and a graphing calculator. Long-term projections indicate an expected demand of at least 100 scientific and 80 graphing calculators each day. Because of limitations on production capacity, no more than 200 scientific and 170 graphing calculators can be made daily. To satisfy a shipping contract, a total of at least 200 calculators much be shipped each day. If each scientific calculator sold results in a $2 loss, but each graphing calculator produces a $5 profit, how many of each type should be made daily to maximize net profits?
+1. A calculator company produces a scientific calculator and a graphing calculator. Long-term projections indicate an expected demand of at least 100 scientific and 80 graphing calculators each day. Because of limitations on production capacity, no more than 200 scientific and 170 graphing calculators can be made daily. To satisfy a shipping contract, a total of at least 200 calculators much be shipped each day. If each scientific calculator sold results in a $2 loss, but each graphing calculator produces a $5 profit, how many of each type should be made daily to maximize net profits?
 
 #### **Sol:**
 
@@ -71,5 +71,15 @@ C(120, 80)
 
 
 
-### Simplex method
+2. ![[Pasted image 20241017015730.png]]
 
+Let:
+
+- x be the number of units of Product A produced.
+- y be the number of units of Product B produced.
+
+### Objective Function:
+
+The total profit is:
+
+Maximize Z=30x+50y\text{Maximize } Z = 30x + 50yMaximize Z=30x+50y

@@ -74,6 +74,7 @@ Sequence the following jobs using Johnson’s rule and draw a [[Gantt chart]] an
 | D   | 1              | 2               |
 | E   | 5              | 8               |
 **Sequence:**
+//sorting in terms of wc1
 
 |  D  |  C  |  E  |  B  |  A  |
 | :-: | :-: | :-: | :-: | :-: |

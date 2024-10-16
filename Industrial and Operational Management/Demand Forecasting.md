@@ -2,11 +2,11 @@
 
 ## Forecasting Approaches
 
-| Qualitative Methods                                                       | Quantitative Methods                                                                   |
-| ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| Used when situation is vague and little data exists.                      | Used when situation is stable and historical data exist                                |
-| New products/new technology                                               | Existing products/current technol                                                      |
-| **Methods:** Sales force Composite, delphi method, customer market surv **Methods:** Naive approach, moving average, exponential smoothing, Linear regression ng,  |
+| Qualitative Methods                                                       | Quantitative Methods                                                                      |
+| ------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| Used when situation is vague and little data exists.                      | Used when situation is stable and historical data exist                                   |
+| New products/new technology                                               | Existing products/current technol                                                         |
+| **Methods:** Sales force Composite, delphi method, customer market survey | **Methods:** Naive approach, moving average, exponential smoothing, Linear regression ng, |
 
 
 ### Sales force composite
@@ -38,7 +38,8 @@ The **Delphi method** is a structured forecasting approach that gathers insights
 
 3.Summarize the results and redistribute them to the participants along with new set of question. 
 
-4.Summarize again. 5.Repeat step 3 & 4 until consensus is reached
+4.Summarize again. 5.Repeat step 3 & 4 until **consensus** is reached
+
 
 
 ### Naive approach
