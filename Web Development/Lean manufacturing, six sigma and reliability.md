@@ -118,7 +118,7 @@ probability, that it will survive for 6000 hours?
 Solution: MTBF= (1/ λ)\*(1+1/2+1/3+1/4)= 20,830 hours
 λ_Total = 1/MTBF = 1/20,830= 4.80076\*10^-5
 Probability of surviving for 6000 hours
-R(6000) = e^(-λ_total\*t) = e^(-4.80076\*10^-5*6000)
+R(6000) = e^(-λ_total\*t) = e^(-4.80076\*10^-5\*6000)
 =.749=74.9\%
 
 **Combined Systems**
@@ -151,7 +151,7 @@ $$MTBF(system) = \frac{1}{\lambda{total}}$$
 $$MTBF(system) = \frac{1}{1.869*10^{-3}\text{ / hour}} = 534.91hours$$
 **probability it will work for 300 hours:**
 $$R(t) = e^{-{\lambda(total)} * t}$$
-$$R(300) = e^{-{1.56*10^{-3}} * 300} = $$
+$$R(300) = e^{-{1.56*10^{-3}} * 300} =62.6\% $$
 
 ### Six Sigma
 Six Sigma is a set of techniques and tools for process improvement.

@@ -14,6 +14,8 @@
 >- [[transportation problem]]
 >- [[Game Theory]]
 
+**Final exam room:** 
+325 (011182110-011221429)  9AM
 ## Formulas for final exam
 
 ### **Demand forecasting**
