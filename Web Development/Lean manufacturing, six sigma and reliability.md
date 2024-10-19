@@ -153,27 +153,4 @@ $$MTBF(system) = \frac{1}{1.869*10^{-3}\text{ / hour}} = 534.91hours$$
 $$R(t) = e^{-{\lambda(total)} * t}$$
 $$R(300) = e^{-{1.56*10^{-3}} * 300} =62.6\% $$
 
-### Six Sigma
-Six Sigma is a set of techniques and tools for process improvement.
-
-**Objective**: The goal of Six Sigma is to improve the quality of processes by identifying and removing the causes of defects and **minimizing variability** in manufacturing and business processes.
-
-#### Six sigma defective rates
-
-The chart here explains the defect rates at different sigma levels:
-
-- **±3 sigma**: 0.27% defects or 2700 defects per million (ppm).
-- **±4 sigma**: 63 ppm.
-- **±6 sigma**: Only 0.002 ppm, which translates to 3.4 defects per million opportunities, representing the ultimate goal of Six Sigma—near-zero defects.
-![[Pasted image 20241016110812.png]]
-
-
-![[Pasted image 20241016110950.png]]
-
-#### Lean Six Sigma
-**Lean Six Sigma** combines the strategies of **Lean** (which focuses on **reducing waste** and **improving process speed**) and **Six Sigma** (which focuses on **reducing variability** and defects and improving process quality).
-
-
-
-
-
+![[Six sigma]]
