@@ -44,3 +44,7 @@ Inteligence : [https://drive.google.com/drive/folders/1u-DbvjELoX84I9l01mzZgTaru
 41. DSA-2: [https://drive.google.com/drive/folders/1wy4NLWH80E5bJizOfiVEfYPpBCoUKcTC?usp=share_link](https://drive.google.com/drive/folders/1wy4NLWH80E5bJizOfiVEfYPpBCoUKcTC?usp=share_link)
 42. Software Engineering
 	https://drive.google.com/drive/folders/1M8tuy8Q-COExSV8isDq2uH3AGEh4igew
+43. Green Computing
+	[[green computing practice problems]]
+44. Software Architecture
+	https://drive.google.com/drive/folders/1IJgL1ivbu6oCEQ_c3qI6Gqd9A_pQ5PbY

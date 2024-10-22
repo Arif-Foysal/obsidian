@@ -1,4 +1,6 @@
-#software-engineering 
+#software-engineering  #software-architecture
+
+[[Software Architecture Practice problems]]
 
 ## N-Tier(Layered) Architecture
 An approach where project/program is distributed among N separate computers in a distributed network.
@@ -49,8 +51,7 @@ micro kernel is aware of the plugin installation and is ready to work.
 
 ## Event-Driven Architecture
 
- It is made up of decoupled, single-purpose event processing
-components that asynchronously receive and process events.
+ It is made up of decoupled, single-purpose event processing components that asynchronously receive and process events.
  Agile and highly performant
  Easy debugging, fast development and low coupling
 

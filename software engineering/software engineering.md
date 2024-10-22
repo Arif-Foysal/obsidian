@@ -19,6 +19,10 @@
 >	- [[virtual machines]]
 >- [[devops]]
 >- [[software engineering final practice problems]]
+>- ## SE Lab
+>- https://drive.google.com/drive/folders/1PKtWxN4WdjPhgrsbS8nZuXqkK2GFlH5u
+
+
 
 
 ### ToDo #todo 

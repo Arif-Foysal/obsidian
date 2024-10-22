@@ -10,7 +10,7 @@ COCOMO is a model used for estimating the cost, effort, and development time for
 
 **Effort (in person-months)**:
 
-$$ Effort (PM)= a×(KLOC)^b$$
+$$\text{Effort (PM)}= a×(KLOC)^b$$
 where:
 - KLOC is the number of thousands of lines of code.
 - a and b are constants based on the project type.
@@ -21,7 +21,8 @@ $$Time (TDEV)=c×(Effort)^d$$
 where:
 
 - ccc and ddd are constants based on the project type.
-
+**Average staff size**
+$$floor(\frac{Effort}{Time})$$
 
 ### **COCOMO Constants Based on Project Type**
 
@@ -94,7 +95,7 @@ For example, here the summation of F is 29
 ### Step 3: Convert Function Points to Lines of Code (LOC)
 Given that we are developing in **C language** with an average of **128 LOC per function point**, calculate the total **Kilo Lines of Code (KLOC)**:
 
-LOC = 29*128 = 3712
+LOC = 29\*128 = 3712
 KLOC = 3712/1000 = 3.712
 
 ### Step 4: Apply the COCOMO Model
@@ -111,3 +112,5 @@ E = 3 x (3.712)^1.12 = 13.034 person-months
 **Development Time Calculation:**
 
 D = 2.5 x (13.034)^0.35 = 6.140 months
+
+

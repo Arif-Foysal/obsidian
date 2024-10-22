@@ -64,7 +64,7 @@ The goal of the inspection is for all of the inspectors to reach consensus on a 
 - When the author needs to **present and explain** a document to a broad audience, including both technical and non-technical stakeholders (e.g., use cases, design specifications).
 - To **get feedback** from people who may not have the technical knowledge to review the document in detail but whose input is still valuable.
 - When a project is in the **early stages**, and feedback is needed on high-level concepts and understanding.
-
+ The CCB approves the change.
 ### Code reviews
 - **Purpose**: A focused review of software code to detect coding errors, improve quality, and ensure adherence to coding standards.
 - **Process**: A team of developers examines the code, looks for bugs, and suggests improvements.

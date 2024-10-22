@@ -28,7 +28,8 @@ if ($conn->connect_error) {
   die("Connection failed: " . $conn->connect_error);
 }
 
-$sql = "UPDATE Employees SET lastname='Bhai' WHERE id=2";
+$lastname = "Bhai"; // Use the lastname variable here
+$sql = "UPDATE Employees SET lastname='$lastname' WHERE id=2";
 
 if ($conn->query($sql) === TRUE) {
   echo "Record updated successfully";
