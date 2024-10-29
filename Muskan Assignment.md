@@ -1,0 +1,6 @@
+# **Kindness**
+
+The poem "Kindness" by Edgar Albert Guest talks about the lasting impact of kind words and actions. It says that we often don't realize how far a simple word of kindness or a friendly smile can go. Even though these deeds may be forgotten over time, their effects continue to live on, sometimes surfacing years later. It highlights how kindness can stir the hearts of others, and even when we don’t know who remembers or prays for us, the kindness we give out lasts beyond our lifetime, becoming a lasting legacy.
+
+# **Health is Wealth**
+The poem "Health Is Wealth" by Marvin Brato Sr highlights that whether rich or poor, everyone gets a chance to live a meaningful life. It reflects on how wealth can make the rich richer, but money is not the true measure of a good life. The essence of life is in enjoyment and fulfillment, not in how much we spend. The poem emphasizes the importance of health, stating that a healthy body leads to a sharp mind, and once someone falls sick, they cannot easily regain lost time. It warns against excess and concludes by saying that good health is the greatest form of wealth.

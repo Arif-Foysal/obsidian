@@ -1,7 +1,7 @@
 #biology #nutrition
 
 >[!Links]
->- [[diseases]]
+>- [[Diseases]]
 >	- [[noncommunicable diseases (NCD)]]
 >	- [[autoimmune diseases]]
 >- [[Body Mass Index (BMI)]]

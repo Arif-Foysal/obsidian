@@ -1,5 +1,5 @@
 #version-control #git #github #root 
 
-[[github]]
+[[GitHub]]
 [[git notes]]
 [[git]]

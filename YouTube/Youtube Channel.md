@@ -36,11 +36,20 @@ Focused on the outcome of the program, and not on the actual code used.
 - [ ] Video Watermark
 - [ ] Outro
 ### Steps to make a video
+
+#### Step 01: Brainstorm Video Ideas
+
+==Write down every idea you can posibbly think of==
+
 1. [[Brainstorming Video Ideas]]
-		Write down every idea you can posibbly think of
-2. Narrow down those ideas to the best ideas.
-3. Research
-4. Write Script and Code.
+		
+
+
+1. Narrow down those ideas to the best ideas.
+2. Research
+3. Write Script and Code.
+
+
 ### Things to keep in mind
 1. Make your fonts easy to read.
 	Texts should be as big as possible.

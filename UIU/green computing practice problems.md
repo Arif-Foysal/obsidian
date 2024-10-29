@@ -7,3 +7,5 @@
 2. Discuss sustainability and how green computing can help in this regard.
 3. Draw a data center layout and label each of the major components.
 
+
+
