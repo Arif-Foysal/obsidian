@@ -1,7 +1,8 @@
 #software-engineering  #software-architecture
 
 >[!Contents]
->- [[]]
+>- [[Quality Attributes]]
+>- 
 
 [[Software Architecture Practice problems]]
 
