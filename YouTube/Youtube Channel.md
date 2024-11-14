@@ -1,7 +1,7 @@
 #youtube #goals #todo #root  
 
 [[Brainstorming Video Ideas]]
-[[The First Video]]
+[[The First Youtube Video]]
 [[notable thumnail designs]]
 [[notable youtube channels]]
 [[naming my Youtube channels]]
@@ -32,7 +32,7 @@ Focused on the outcome of the program, and not on the actual code used.
 - [x] Channel Name
 - [ ] Channel Icon
 - [ ] Channel Art (Like the cover photo of a facebook profile)
-- [ ] Intro (Keep it under 5 sec)
+- [ ] [[Youtube Intro]] (Keep it under 5 sec)
 - [ ] Video Watermark
 - [ ] Outro
 ### Steps to make a video

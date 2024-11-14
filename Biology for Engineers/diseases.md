@@ -6,5 +6,7 @@
 >[[allergic diseases]]
 >## Chest Pain
 >[[Chest Pain]]
+>## Kidney Diseases
+>
 
 

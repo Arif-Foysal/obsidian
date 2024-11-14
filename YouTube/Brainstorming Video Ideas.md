@@ -8,7 +8,7 @@
 
 
 ## For bangla channel
-1. Learn [[object-oriented-programming]] in x minutes.
+1. Learn [[object-oriented-programming]] in x minutes. [[The First Youtube Video]]
 2. 8 data structures every programmer should know
    https://www.youtube.com/watch?v=gxdQiBkidWk
 3. https://www.youtube.com/watch?v=b_WGoPaNPMY
