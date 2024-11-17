@@ -11,6 +11,9 @@
 >- [[chocolate pudding]]
 >## Smoothies
 >- [[smoothies]]
+>## Oat Meals
+>- [[oatMeal 01]]
+>- 
 >## Longevity Meals
 >## Immune Boosters
 

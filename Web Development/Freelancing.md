@@ -4,3 +4,6 @@
 
 >[!Contents]
 >- [[Freelancing ID]]
+>- [[Fiverr]]
+>- [[Upwork]]
+

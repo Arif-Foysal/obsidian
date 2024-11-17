@@ -23,8 +23,6 @@
 >[!Security]
 >- [[Firewalls]]
 
->[!Ways to earn]
->- [[Freelancing]]
 
 >[!Projects]
 >- [[Chat application]]
@@ -40,3 +38,8 @@
 >- [[Google Authentication]]
 >- [[Royal Kludge]]
 
+>[!Money]
+>## Freelance
+>- [[Freelancing]]
+>	- [[Fiverr]]
+>	- [[Upwork]]
