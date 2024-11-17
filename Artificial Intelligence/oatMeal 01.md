@@ -3,8 +3,10 @@
 **Ingredients:**
 1. Nuts. (Almonds, Cashew, Walnuts etc)
 2. Yogurt. 
-3. Banana.
-4. Oats.
-5. Dates. 
-6. Fruits (apples, papaya etc.)
-
+3. Milk.
+4. Banana.
+5. Oats.
+6. Dates. 
+7. Fruits (apples, papaya etc.)
+8. Seeds (chia, flex, pumpkin etc)
+9. 
