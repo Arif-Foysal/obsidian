@@ -1,8 +1,10 @@
 #software-engineering  #software-architecture
 
+**Resources:** https://drive.google.com/drive/folders/1O5hLSCu1InGJbcGU-3u86LfU1-SsS3Og
+
 >[!Contents]
 >- [[Quality Attributes]]
->- 
+>- [[Availability]]
 
 [[Software Architecture Practice problems]]
 

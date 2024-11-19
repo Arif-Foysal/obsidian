@@ -28,6 +28,7 @@
 
 >[!Contents]
 >- ## SE Lab
+>- [[SE lab project ideas]]
 >- [[process models]]
 >- [[version control]]
 >	- [[git]]
