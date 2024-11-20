@@ -1,5 +1,6 @@
 #GreenComputing #research #root 
 
+[[How to write a technical paper]]
 # Research Areas
 
 
