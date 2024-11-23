@@ -1,4 +1,4 @@
-![[What is Forecasting?]]
+![[What is Forecasting]]
 
 ## Forecasting Approaches
 
