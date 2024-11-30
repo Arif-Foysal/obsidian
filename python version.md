@@ -10,5 +10,3 @@ Via code:
 import sys
 print(sys.version)
 ```
-
-
