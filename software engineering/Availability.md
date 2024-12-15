@@ -22,7 +22,7 @@ Where:
 A failure occurs when the system no longer delivers a service that is consistent with its specification. A fault has the potential to cause a failure.     
 
 **Availability tactics**, in turn, are designed to enable a system to prevent or endure system faults so that the system remains **compliant** with its specifications.
-
+Also read: [[Quality Attributes]]
 ![[Availability tactics response 2024-11-23 20.24.07.excalidraw]]
 
 ![[Pasted image 20241123202747.png]]
