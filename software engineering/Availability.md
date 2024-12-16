@@ -244,3 +244,4 @@ Availability patterns are strategies for maintaining system functionality in the
 	    - Additional complexity in designing robust error-correction mechanisms.
 	    - May incur some degradation in system performance or functionality during recovery.
 	- **Example Use Case**: RAID systems that use parity to recover from disk errors without requiring a rollback.
+
