@@ -52,5 +52,3 @@ Functionality refers to a system's ability to perform the task it was designed f
 >[!Fact]
 >Of all the requirements, functionality has the strongest relationship to architecture.
 
-
-
