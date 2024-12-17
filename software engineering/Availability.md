@@ -245,3 +245,31 @@ Availability patterns are strategies for maintaining system functionality in the
 	    - May incur some degradation in system performance or functionality during recovery.
 	- **Example Use Case**: RAID systems that use parity to recover from disk errors without requiring a rollback.
 
+## Practice Problems
+### Spring 23
+**Question:**
+What is Graceful Degradation? How does it help to recover from faults in a Software?
+
+**Ans:**
+ **Graceful Degradation**
+	- **Description**: Maintains critical functions while allowing less critical ones to fail in the presence of faults.
+	- **Purpose**: Ensures essential services remain operational during partial system failures.
+	- **Example Use Case**: A video streaming service reducing video quality when server resources are constrained.
+
+### Spring 24
+**Question:**
+How can you apply escalating restart and sanity checking tactics to ensure the availability of the mobile app of the project? Explain appropriately.
+
+**Answer:**
+
+5. **Circuit Breaker**
+	- **Description**:  
+	    Stops retry attempts after repeated failures to prevent overloading the system. It "trips" and prevents further calls until the service is deemed operational again.
+	- **Benefit**:
+	    - Prevents endless retries, which could degrade overall system performance.
+	    - Centralizes retry logic and recovery policies.
+	- **Trade-offs**:
+	    - Choosing appropriate timeout and retry values is critical.
+	    - Overly sensitive circuit breakers may reduce availability due to false positives.
+	- **Example Use Case**: Microservice architectures where service calls may fail due to dependency issues or temporary network failures.
+

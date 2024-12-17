@@ -82,6 +82,7 @@ Root: Utility
 ## Fall 23
 ![[Pasted image 20241216151726.png]]
 Show a Tabular form of the Utility Tree for any system you have chosen. You need to show Quality Attribute, Attribute Refinement and ASR Scenario columns on the table.
+[[Architecturally Significant Requirements(ASR)]]
 
 | **Quality Attribute** | **Attribute Refinement**         | **ASR Scenario**                                                                                                                                              |
 | --------------------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -113,3 +114,10 @@ Show a Tabular form of the Utility Tree for the scenario given below. You need t
 | **Maintainability**   | Simplified Data Updates     | Admins can update student or class details through a user-friendly form, ensuring no data inconsistency, with changes reflected system-wide within 30 seconds.           |
 | **Security**          | Secure Access Control       | Only authorized admins can log in to the system using multi-factor authentication, and unauthorized login attempts lock the account and notify the security team.        |
 | **Availability**      | Surveillance Uptime         | The system automatically switches to a backup server if the main server fails, ensuring surveillance remains operational within 5 seconds of a failure event.            |
+
+
+**Question:**
+What is the responsibility of a Software Architect for a software project? Explain briefly.
+
+**Answer:**
+The responsibility of a **Software Architect** for a software project is to design and oversee the system's overall architecture to ensure it meets both technical and business requirements.

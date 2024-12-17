@@ -6,6 +6,8 @@
 >- [[Quality Attributes]]
 >- [[Availability]]
 >- [[Deployability]]
+>- [[Energy Efficiency in Software Architectures]]
+>- [[Architecturally Significant Requirements(ASR)]]
 
 [[Software Architecture Practice problems]]
 
@@ -28,25 +30,14 @@ An approach where project/program is distributed among N separate computers in a
  Reusability
 
 ## Types of Layered Architectural Patterns
- MVC
+ [[MVC Architecture]]
  HMVC
  MVVM
  MVP
 
-## Monolithic Architecture
- It is built as a single and indivisible unit and all the functions are managed and served in one place.
- Low cost architecture
- Simple for development and deployment.
- Difficult for maintenance, Scalability
- Tight coupling
+![[Monolithic Architecture]]
 
-## Micro Service Architecture
- Breaks it down into a collection of smaller independent units.
- Each service has its own logic and the database as well as perform the specific functions.
- Services intercommunicate with some lightweight mechanisms,
-often an HTTP resource API
- Easy maintainability, Scalability, and low coupling
- Extra complexity, cross-cutting concerns, and cost
+![[Micro service architecture]]
 
 ## Micro-Kernel Architecture
 Also called plug-in architecture which consists of two types of components – a core system and several plug-in modules.
