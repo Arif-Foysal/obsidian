@@ -5,7 +5,7 @@
 >[!Contents]
 >- [[Quality Attributes]]
 >- [[Availability]]
->- [[Deployalibity]]
+>- [[Deployability]]
 
 [[Software Architecture Practice problems]]
 
