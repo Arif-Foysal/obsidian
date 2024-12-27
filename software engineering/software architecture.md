@@ -8,6 +8,7 @@
 >- [[Deployability]]
 >- [[Energy Efficiency in Software Architectures]]
 >- [[Architecturally Significant Requirements(ASR)]]
+>- [[Software Architecture Patterns]]
 
 [[Software Architecture Practice problems]]
 
