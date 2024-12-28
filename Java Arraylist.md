@@ -11,7 +11,9 @@ import java.util.ArrayList; // import the ArrayList class
 ArrayList<String> cars = new ArrayList<String>(); // Create an ArrayList object
 ```
 
-# Adding Items
+# Adding Itemso
+
+## Appending last
 
 ```java
 import java.util.ArrayList;
@@ -27,6 +29,46 @@ public class Main {
   }
 }
 ```
+
+## Adding in n index
+```java
+import java.util.ArrayList;
+public class Main {
+  public static void main(String[] args) {
+    ArrayList<String> cars = new ArrayList<String>();  
+	cars.add("Volvo");  
+	cars.add("BMW");  
+	cars.add("Audi");  
+	cars.add("Ferrari");  
+	cars.add("Nissan");
+
+	cars.add(1,"Yamaha");//adding in index 1
+	System.out.println(cars);
+	
+  }
+}
+```
+
+### Shortcut: Adding in front of the Array List
+```java
+import java.util.ArrayList;
+public class Main {
+  public static void main(String[] args) {
+    ArrayList<String> cars = new ArrayList<String>();  
+	cars.add("Volvo");  
+	cars.add("BMW");  
+	cars.add("Audi");  
+	cars.add("Ferrari");  
+	cars.add("Nissan");
+
+	cars.addFirst("Yamaha");//adding in front
+	System.out.println(cars);
+  }
+}
+```
+
+
+
 
 # Access an Item
 
@@ -76,6 +118,7 @@ public class Main {
 ```
 
 You can also loop through an `ArrayList` with the **for-each** loop:
+- [ ] Link to java for each loop
 ```java
 public class Main {
   public static void main(String[] args) {
@@ -136,3 +179,4 @@ public class Main {
   }
 }
 ```
+
