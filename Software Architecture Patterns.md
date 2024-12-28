@@ -1,5 +1,9 @@
 #SystemDesign #SAD #software-architecture #software-engineering 
 
 >[!Contents]
->- fd
+>- [[Layered Architectures]]
+>- [[Event-Driven Architecture]]
+>- [[Microkernel Architecture]]
+>- [[Micro service architecture]]
+>- [[Space Based Architecture]]
 
