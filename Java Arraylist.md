@@ -11,7 +11,7 @@ import java.util.ArrayList; // import the ArrayList class
 ArrayList<String> cars = new ArrayList<String>(); // Create an ArrayList object
 ```
 
-# Adding Itemso
+# Adding Items
 
 ## Appending last
 
@@ -93,7 +93,7 @@ To remove all the items from an `Arraylist`, use the `clear()` method:
 cars.clear();
 ```
 
-## ArrayList Size
+# ArrayList Size
 
 To find out how many elements an ArrayList have, use the `size` method:
 ```java
@@ -136,7 +136,7 @@ public class Main {
 
 ## Sort an ArrayList
 
-Another useful class in the `java.util` package is the `Collections` class, which include the `sort()`method for sorting lists alphabetically or numerically:
+Another useful class in the `java.util` package is the `Collections` class, which include the `sort()`method for sorting lists alphabetically or numerically. This method sorts the `ArrayList` in ascending order by default:
 ```java
 import java.util.ArrayList;
 import java.util.Collections;  // Import the Collections class
@@ -148,7 +148,7 @@ public class Main {
     cars.add("BMW");
     cars.add("Ford");
     cars.add("Mazda");
-    Collections.sort(cars);  // Sort cars
+    Collections.sort(cars);  // By default it sorts in Ascending order
     for (String i : cars) {
       System.out.println(i);
     }
@@ -180,3 +180,5 @@ public class Main {
 }
 ```
 
+### Custom Sorting
+#### Sorting in descending order
