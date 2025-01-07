@@ -3,8 +3,12 @@
 >[!Contents]
 >- [[JavaFx]]
 > ## Java OOP
->-  [[Java Arraylist]]
->- [[Java Files]]
-> 
+> [[Java Arraylist]]
+> [[Java Files]]
+> ## Socket programming
+> - [[Java Threads]]
+
+
+
 
 

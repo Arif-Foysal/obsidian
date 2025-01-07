@@ -7,3 +7,9 @@
 >- [[Micro service architecture]]
 >- [[Space Based Architecture]]
 
+## Layered Architectures
+![[Layered Architectures]]
+
+![[Event-Driven Architecture]]
+
+
