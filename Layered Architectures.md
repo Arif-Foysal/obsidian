@@ -38,13 +38,14 @@ Most of the layered architectures contains four common layers:
 
 ### Characteristics
 
-| Category           | Low/High | Reason                                                                                                                                                             |
-| ------------------ | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Agility            | Low      | Overall agility is the ability to respond quickly to a constantly changing environment.Any significant changes often require modifications across multiple layers. |
-| Rate of deployment | Low      | Each layer depends on others, so deploying changes often requires testing and deploying multiple layers together.                                                  |
-| Testability        | High     | The separation of concerns in layered architecture makes it easier to test each layer independently.                                                               |
-| Performance        | Low      | The strict communication flow in closed layers adds overhead.                                                                                                      |
-| Scalibility        | Low      | Layered architecture doesn’t inherently support horizontal scalability. Each layer can become a bottleneck if not designed with scalability in mind.               |
+| Category            | Low/High | Reason                                                                                                                                                             |
+| ------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Agility             | Low      | Overall agility is the ability to respond quickly to a constantly changing environment.Any significant changes often require modifications across multiple layers. |
+| Rate of deployment  | Low      | Each layer depends on others, so deploying changes often requires testing and deploying multiple layers together.                                                  |
+| Testability         | High     | The separation of concerns in layered architecture makes it easier to test each layer independently.                                                               |
+| Performance         | Low      | The strict communication flow in closed layers adds overhead.                                                                                                      |
+| Scalibility         | Low      | Layered architecture doesn’t inherently support horizontal scalability. Each layer can become a bottleneck if not designed with scalability in mind.               |
+| Rate of development | High     | Clear separation of concerns allows developers to work on individual layers in parallel without affecting others.                                                  |
 
 
 ## Practice Problems
