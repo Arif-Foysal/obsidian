@@ -6,5 +6,5 @@
 >- [[python comments]]
 >- [[python variables]]
 >- [[python data types]]
->- 
+>- [[pip]]
  

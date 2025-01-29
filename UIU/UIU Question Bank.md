@@ -1,5 +1,8 @@
 #uiu #Computer-Science #questionBank
 
+[[course evaluation]]
+
+
 Mid/Final Question After your Exam..... 
 1. Artificial
 Inteligence : [https://drive.google.com/drive/folders/1u-DbvjELoX84I9l01mzZgTaruXORvQBr?usp=share_link](https://drive.google.com/drive/folders/1u-DbvjELoX84I9l01mzZgTaruXORvQBr?usp=share_link) 

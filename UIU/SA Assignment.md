@@ -139,3 +139,5 @@ The concept of events is central to this system. Events are the things that happ
 Portfolio Update Service: Updates user portfolios with regard to new stock prices.
 **Notification Service**: It sends notifications to the users in case a stock crosses a threshold set by them. Real-time UI Update Service: Updates the stock prices on the user interface for real-time updates.
 
+![[component_diagram.drawio.png]]
+
