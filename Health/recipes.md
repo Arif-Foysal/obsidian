@@ -13,7 +13,7 @@
 >- [[smoothies]]
 >## Oat Meals
 >- [[oatMeal 01]]
->- 
+>- [[oat pancakes]]
 >## Longevity Meals
 >## Immune Boosters
 

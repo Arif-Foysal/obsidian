@@ -1,6 +1,6 @@
 <div class="container">
 <h1>
-Computer Architecture
+Software Architecture
 </h1>
 <h2>
 Assignment 01
@@ -8,9 +8,10 @@ Assignment 01
 <p>
 Name: MD. Arif Faysal Nayem
 <p>ID: 011201194</p>
-<p>Course: Computer Architecture</p>
+<p>Course: Software Architecture</p>
 Section: B
 </div>
+
 1. In such a case, the microservices architecture would be preferable because that would render certain advantages. It can scale individual components independently: User Authentication, Booking, Payment, and Seat Availability handle sudden spikes in traffic through load balancing and auto-scaling. The event-driven design of the system introduces real-time data consistency-introduce message queues like Kafka/RabbitMQ for seat availability updates, distributed caching like Redis to optimize checks, and database sharding and replication for better performance. Finally, integration with payment gateways and loyalty programs can be enabled through APIs, while flexibility in microservices allows each of them to use the most appropriate database and technology to interact smoothly with third-party interaction.
 2. Some of the key benefits of microservices architecture include:
    
