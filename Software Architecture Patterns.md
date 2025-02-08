@@ -7,9 +7,8 @@
 >- [[Micro service architecture]]
 >- [[Space Based Architecture]]
 
-## Layered Architectures
-![[Layered Architectures]]
+## Pattern Analysis Summery
+![[Pasted image 20250208074146.png]]
 
-![[Event-Driven Architecture]]
 
 

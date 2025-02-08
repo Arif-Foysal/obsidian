@@ -63,18 +63,87 @@ The event-driven architecture pattern is a popular **distributed** **asynchronou
     1. Create processing events (e.g., **Change Address, Recalculate Quote, Update Claims**).
     2. Send processing events to the appropriate **event processors** (e.g., **Customer Process, Quote Process**).
     3. Execute steps **sequentially or concurrently**, as needed.
-
-
+	![[Pasted image 20250207185800.png]]
 
 - **Broker**:
   Facilitates decentralized, chained event handling with minimal orchestration.
+  - **No central event mediator**; instead, message flow is distributed.
+  - **Lightweight message broker** (e.g., **ActiveMQ, HornetQ**) is used.
+  - Best for **simple event processing flows** that don’t require orchestration. 
+  
+  #### **Components of Broker Topology**
+- **Broker Component**:
+    - Can be **centralized** or **federated**.
+    - Contains **event channels** (message queues, message topics, or both).
+- **Event Processor Component**:
+    - Processes events and publishes new events based on actions performed.
+#### **Event Flow in Broker Topology**
+
+1. **Initial event** is sent to an **event processor**.
+2. The **event processor processes** the event and **publishes a new event**.
+3. The next **event processor picks up the new event** and continues processing.
+4. This process continues in a **chain-like fashion**.
+   ![[Pasted image 20250207191410.png]]
+#### **Event Flow Example**
+![[Pasted image 20250207192628.png]]
+1️⃣ **Customer Process Component**
+
+- Receives the **initial event** (Relocation Event).
+- Updates the customer’s address.
+- Publishes a **Change Address Event**.
+
+2️⃣ **Event Processors React Independently**
+
+- **Quote Processor Component**:
+    - Receives **Change Address Event**.
+    - Recalculates insurance rates.
+    - Publishes **Recalculate Quote Event**.
+- **Claims Processor Component**:
+    - Receives **Change Address Event**.
+    - Updates outstanding insurance claims.
+    - Publishes **Update Claim Event**.
+
+3️⃣ **Chain Reaction Continues**
+
+- Other **event processors pick up new events** and continue processing.
+- This cycle continues **until no more new events are published**.
+  
+## Considerations
+#### **1. Complexity & Distributed Nature**
+
+- **Challenges due to asynchronous, distributed processing**.
+- Must handle issues like:
+    - **Remote process availability** (ensuring event processors are online).
+    - **Lack of responsiveness** (handling delays in event processing).
+    - **Broker or mediator failure** (reconnection logic is necessary).
+
+#### **2. Lack of Atomic Transactions**
+
+- **Difficult to maintain transactional integrity** across event processors.
+- Events are **highly decoupled and distributed**, making atomic transactions impractical.
+- **Design Consideration:**
+    - Determine **which events can run independently**.
+    - Avoid **splitting a single unit of work** across multiple processors if transactional integrity is required.
+
+#### **3. Event Processor Contracts & Data Standardization**
+
+- **Each event must have a contract** specifying:
+    - **Data structure** (values, format).
+    - **Expected behavior** when received.
+- **Key Governance Practices:**
+    - Choose a **standard data format** (e.g., **XML, JSON, Java Object**).
+    - Establish **contract versioning policies** early to avoid inconsistencies.
+
 
 ## Pattern Analysis
 
 ![[Screenshot 2025-01-08 at 9.54.08 AM.png]]
 
-
-
-
-
-
+| QA                      | Rating | Analysis                                                                                                                     |
+| ----------------------- | ------ | ---------------------------------------------------------------------------------------------------------------------------- |
+| **Overall Agility**     | High   | The decoupled nature of event-processor components allows for isolated changes without impacting other components.           |
+| **Ease of Deployment**  | High   | The pattern is easy to deploy due to decoupled event processors. Broker topology is easier to deploy than mediator topology. |
+| **Testability**         | Low    | Unit testing is challenging due to the asynchronous nature of the pattern and the need for specialized testing tools.        |
+| **Performance**         | High   | Achieves high performance via asynchronous capabilities, allowing decoupled parallel operations to outweigh messaging costs. |
+| **Scalability**         | High   | The pattern naturally scales through independent event processors, allowing for fine-grained scalability.                    |
+| **Ease of Development** | Low    | Development is complex due to the asynchronous nature, requiring careful contract creation and error handling for failures.  |
