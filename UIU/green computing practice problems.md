@@ -95,17 +95,61 @@ https://drive.google.com/drive/u/0/folders/1icWCrl-M-MhDhzNJkI5gi9MMNB3zmaMV?sor
 ### Green computing and your reputation
 
 
-1. 
-
-
+1. Explain the concept of greenwash with 4 real life examples. What steps an organization can take to avoid greenwash?
+	
+	Ans:
+	**Greenwashing** is when a company falsely claims or exaggerates its environmental benefits to appear more eco-friendly than it actually is.
+	### **Steps to Avoid Greenwashing and Ensure Transparency**
+	
+	1. **Be Honest and Transparent**
+	    
+	    - Provide clear, specific, and verifiable claims about sustainability efforts. Avoid vague terms like "eco-friendly" without data or certification to back it up.
+	    - Example: Instead of saying "sustainable," provide metrics like "100% of our products are made from recycled materials."
+	2. **Third-Party Certifications**
+	    
+	    - Obtain recognized certifications such as **Fair Trade**, **LEED**, **Energy Star**, or **Global Organic Textile Standard (GOTS)** to substantiate environmental claims. These certifications ensure an independent verification of the company’s sustainability practices.
+	3. **Measure and Report Environmental Impact**
+	    
+	    - Regularly publish **Environmental Impact Reports** that track specific sustainability goals, including carbon emissions, energy usage, and waste reduction.
+	    - Example: Share annual sustainability reports with measurable progress and future goals to show a commitment to continuous improvement.
+	4. **Set Realistic Goals**
+	    
+	    - Ensure sustainability goals are feasible, actionable, and time-bound. Avoid over-promising or setting unrealistic targets that cannot be met.
+	    - Example: Pledge to reduce carbon emissions by a specific percentage within a defined period rather than vague goals like "we aim to be carbon-neutral."
+	5. **Engage in Full Lifecycle Analysis**
+	    
+	    - Consider the environmental impact of a product across its entire lifecycle, from raw materials to disposal. Being transparent about these factors helps build trust with consumers.
+	    - Example: A company can offer a detailed breakdown of how its products are sourced, produced, used, and disposed of.
+	
+2. **State** reputation management. Why reputation is important for Green Computing?  
+	**Explain** the following terms in details:
+	
+	i. Sustainability-led  
+	ii. Sustainability-supported and  
+	iii. Sustainability as a Plus
+	**Ans:**
+	Reputation management refers to the strategies used by organizations to maintain a positive public image.
+	
+	**Sustainibility-led:**
+	 A **sustainability-led** approach means that sustainability is at the core of an organization’s mission and operations. Companies following this model prioritize environmental impact in decision-making, innovation, and business strategy.
+	 
+	 **Sustainability-supported:**
+	 Integrates sustainability into existing operations without making it the primary focus. While the company supports green initiatives, its core mission may be different.
+	 
+	 
+	**Sustainability as a Plus:**
+	This approach treats sustainability as an additional benefit rather than a core value. Companies in this category may implement green practices as a marketing advantage or to comply with regulations, but sustainability is not their main driver.
+	
+	
+	
 ## Previous CT questions
 
 ### CT 1
 #### spring 2024
-1. What is green computing? List the entities responsible for this how.
-2. Discuss sustainability and how green computing can help in this regard.
-3. Draw a data center layout and label each of the major components.
+3. What is green computing? List the entities responsible for this how.
+4. Discuss sustainability and how green computing can help in this regard.
+5. Draw a data center layout and label each of the major components.
 
 **Solutions:**
-1. ![[Green Computing#What is Green Computing?]]
-2. 
+6. ![[Green Computing#What is Green Computing?]]
+7. 

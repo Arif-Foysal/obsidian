@@ -3,6 +3,8 @@
 **Resources:** https://drive.google.com/drive/folders/1O5hLSCu1InGJbcGU-3u86LfU1-SsS3Og
 
 >[!Contents]
+>## Final Exam Materials
+>- https://drive.google.com/drive/folders/1qDL3wlFJpzHbo_augtCJ3KzsjR4TR45Y
 >- [[Quality Attributes]]
 >- [[Availability]]
 >- [[Deployability]]
