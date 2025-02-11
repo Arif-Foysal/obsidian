@@ -91,6 +91,84 @@ https://drive.google.com/drive/u/0/folders/1icWCrl-M-MhDhzNJkI5gi9MMNB3zmaMV?sor
 4. Briefly explain the concept of Cloud in a box.
    **Ans:**
    **Cloud in a Box** refers to a **pre-configured, self-contained cloud infrastructure** that provides cloud computing capabilities in a compact, on-premises solution. It includes servers, storage, networking, and virtualization software, allowing organizations to deploy a private or hybrid cloud environment quickly without relying on external cloud providers.
+
+
+5. Provide a typical Data Center layout in terms of its energy consumptions.
+**Ans:**
+![[Pasted image 20250209074256.png]]
+
+6. what is the 2 degree warming limit and what actions are critical to stay within the threshold?
+   **Ans:**
+   The **2-degree warming limit** refers to the internationally agreed threshold set by the **Paris Agreement (2015)** to limit global temperature rise to **well below 2°C above pre-industrial levels**, with efforts to keep it below **1.5°C** 
+   
+   ### **Critical Actions to Stay Within the Threshold**
+	
+	#### **1. Reduce Greenhouse Gas (GHG) Emissions**
+	
+	- **Shift to Renewable Energy** – Increase solar, wind, and hydro power usage.
+	- **Improve Energy Efficiency** – Upgrade buildings, appliances, and industries.
+	- **Decarbonize Transportation** – Promote electric vehicles (EVs) and public transit.
+	
+	#### **2. Sustainable Industrial and Agricultural Practices**
+	
+	- **Reduce Deforestation** – Protect and restore forests, which absorb CO₂.
+	- **Adopt Climate-Smart Agriculture** – Use precision farming and sustainable soil management.
+	- **Implement Carbon Capture** – Deploy Carbon Capture and Storage (CCS) technologies.
+	
+	#### **3. Policy and Global Cooperation**
+	
+	- **Enforce Carbon Pricing** – Tax or cap carbon emissions to encourage reductions.
+	- **Strengthen Climate Agreements** – Ensure countries follow their **Nationally Determined Contributions (NDCs)**.
+	- **Invest in Climate Adaptation** – Support climate-resilient infrastructure and disaster management.
+	
+	#### **4. Public Awareness and Behavioral Changes**
+	
+	- **Promote Sustainable Lifestyles** – Reduce waste, consume less energy, and choose sustainable products.
+		- **Encourage Corporate Sustainability** – Companies should commit to **Net-Zero** targets.
+7. what are the criteria to decide whether a device is truely green?
+	   
+	**Ans:**
+	### **1. Energy Efficiency**
+	
+	- **Low Power Consumption:** Must have an **ENERGY STAR** or equivalent certification.
+	- **Smart Power Management:** Features like **auto-sleep mode** or low-power standby.
+	- **Efficient Charging:** Uses fast, optimized, and low-energy charging mechanisms.
+	
+	---
+	
+	### **2. Eco-Friendly Manufacturing**
+	
+	- **Use of Recycled Materials:** Built with **recycled plastics, metals, or biodegradable materials**.
+	- **Sustainable Production Process:** Lower carbon footprint and minimal water usage.
+	- **Non-Toxic Components:** Free from **hazardous substances** like lead, mercury, or PVC (RoHS compliance).
+	
+	---
+	
+	### **3. Low Carbon Footprint**
+	
+	- **Minimal Greenhouse Gas (GHG) Emissions:** Reduced CO₂ emissions during production and transport.
+	- **Local Sourcing of Materials:** Reduces emissions from long-distance shipping.
+	
+	---
+	
+	### **4. Longevity and Upgradability**
+	
+	- **Durable Design:** Built to last longer, reducing e-waste.
+	- **Modular Components:** Allows easy repairs and upgrades instead of replacing the entire device.
+	
+	---
+	
+	### **5. Responsible E-Waste Management**
+	
+	- **Recyclability:** Device should be easy to **recycle or dispose of responsibly**.
+	- **Manufacturer Take-Back Programs:** Companies should offer **recycling or trade-in options** for old devices.
+	
+	---
+	
+	### **6. Renewable Energy Integration**
+	
+	- **Solar-Powered or Self-Sustaining Options:** Uses solar charging or other renewable energy sources.
+
    
 ### Green computing and your reputation
 
@@ -139,9 +217,121 @@ https://drive.google.com/drive/u/0/folders/1icWCrl-M-MhDhzNJkI5gi9MMNB3zmaMV?sor
 	 
 	**Sustainability as a Plus:**
 	This approach treats sustainability as an additional benefit rather than a core value. Companies in this category may implement green practices as a marketing advantage or to comply with regulations, but sustainability is not their main driver.
+
+3. What is embodied energy? What considerations should be taken to build a green data center?
+   **Ans:**
+   **Embodied energy** is the total energy consumed during the entire lifecycle of a product, including:
+
+	1. **Raw Material Extraction** – Energy used for mining, harvesting, or sourcing materials.
+	2. **Manufacturing & Processing** – Energy required to convert raw materials into components.
+	3. **Transportation** – Energy used to move materials and products across locations.
+	4. **Installation & Construction** – Energy spent in setting up the product or infrastructure.
+	5. **Maintenance & Repairs** – Energy needed for ongoing upkeep.
+	6. **Disposal & Recycling** – Energy used in dismantling, recycling, or waste management.
+   
+4. How can companies ensure that their supply chain aligns with green and ethical practices?
+   **Ans:**
+	 **1. Sustainable Sourcing of Raw Materials**
 	
+	- **Use Eco-Friendly Materials:** Prioritize recycled, biodegradable, or sustainably sourced materials.
+	- **Ensure Ethical Extraction:** Avoid materials linked to deforestation, pollution, or human rights violations (e.g., conflict minerals).
 	
+	### **2. Energy-Efficient Manufacturing**
 	
+	- **Adopt Green Production Methods:** Use renewable energy and energy-efficient machinery in factories.
+	- **Reduce Waste & Pollution:** Implement circular economy principles (e.g., zero-waste policies, water recycling).
+	
+	### **3. Ethical Labor Practices**
+	
+	- **Fair Wages & Safe Working Conditions:** Follow international labor standards (**ILO, UN Global Compact**).
+	- **No Forced or Child Labor:** Conduct regular audits to ensure compliance with ethical labor laws.
+	
+	### **4. Sustainable Logistics & Transportation**
+	
+	- **Optimize Supply Routes:** Reduce emissions by shortening supply chains and using local suppliers.
+	- **Use Green Transportation:** Shift to **electric vehicles (EVs), biofuels, or carbon-neutral shipping**.
+	
+	### **5. Transparent & Responsible Supplier Engagement**
+	
+	- **Supplier Code of Conduct:** Enforce sustainability and ethical standards among vendors.
+	- **Regular Audits & Certifications:** Work with third-party certifications like **Fair Trade, FSC, ISO 14001, and SA8000**.
+	
+	### **6. Carbon Footprint Monitoring**
+	
+	- **Measure & Reduce Emissions:** Use **carbon tracking tools** to assess supply chain impact.
+	- **Offset Carbon Footprint:** Invest in **reforestation, renewable energy, or carbon offset programs**.
+	
+	### **7. Circular Economy & Waste Reduction**
+	
+	- **Promote Product Recycling & Reuse:** Design products with recyclability in mind.
+	- **Implement Take-Back Programs:** Allow customers to return used products for responsible disposal.
+	
+1. What strategies can organizations employ to ensure that their cost-saving measures align with environmental benefits?
+   **Ans:**
+   - **Energy Efficiency Measures**
+    - Upgrade to **LED lighting** and energy-efficient appliances.
+    - Use **smart HVAC systems** and optimize energy consumption.
+	- **Sustainable Resource Management**
+	    
+	    - Reduce paper usage with **digital workflows**.
+	    - Implement **water conservation techniques** (low-flow fixtures, rainwater harvesting).
+	- **Green Supply Chain Practices**
+	    
+	    - Source from **eco-friendly suppliers**.
+	    - Optimize **transportation routes** to reduce fuel costs and emissions.
+	- **Waste Reduction & Recycling**
+	    
+	    - Implement a **circular economy model** (reuse, recycle, refurbish).
+	    - Reduce packaging and use biodegradable materials.
+	- **Renewable Energy Integration**
+	    
+	    - Install **solar panels** or purchase green energy.
+	    - Use battery storage to manage energy costs efficiently.
+	- **Eco-Friendly Workplace Policies**
+	    
+	    - Encourage **remote work** to cut commuting emissions.
+	    - Promote **employee awareness programs** on sustainability.
+		
+		
+		
+	
+
+1. As part of their sustainability initiatives, the local companies in Arcadia are exploring the use of **Internet of Things (IoT) devices** and sensors to **monitor and manage various environmental parameters**, such as **water quality, air pollution levels, and wildlife populations**. These IoT devices generate a significant amount of data that needs to be processed and analyzed in real-time to enable timely decision-making and response.
+
+	However, sending all the data generated by these IoT devices to a **centralized cloud computing platform** could result in **latency issues, network congestion, and increased costs** associated with data transmission and processing.
+	
+	#### **a)** Offer a **solution** to the problems stated above. Illustrate your solution with a **framework** and explain the purpose of its components in a figure.
+	
+	#### **b)** How does your solution **differ** from traditional cloud computing? What **benefits** does it offer?
+
+	**ANS:**
+	Instead of relying solely on **centralized cloud computing**, a **hybrid edge-cloud architecture** can help **process data closer to the source**, reducing latency and improving efficiency.
+	
+	#### **Proposed Framework**:
+	1. **IoT Devices & Sensors** – Collect data (e.g., water quality, air pollution).
+	2. **Edge Computing Nodes** – Process and filter critical data near the source.
+	3. **Fog Computing Layer (Optional)** – Intermediate nodes for further processing.
+	4. **Cloud Platform** – Stores processed insights and manages large-scale analytics.
+	
+	🔹 **Illustration Idea**: A diagram showing **IoT devices → Edge nodes → Fog nodes → Cloud** to visualize the flow of data.
+	
+	---
+	
+	### **b) Differences from Traditional Cloud Computing & Benefits**
+	
+	|**Aspect**|**Traditional Cloud Computing**|**Edge Computing**|
+	|---|---|---|
+	|**Data Processing**|Centralized in remote data centers|Distributed near data source|
+	|**Latency**|Higher due to network delays|Lower, real-time processing|
+	|**Bandwidth Usage**|High (continuous data transfer)|Reduced (only relevant data sent)|
+	|**Cost**|Higher (due to transmission/storage)|Lower (less data sent to cloud)|
+	|**Reliability**|Affected by network failures|Works even with intermittent connectivity|
+	
+	✅ **Key Benefits of Edge Computing:**
+	
+	- **Faster response times** (critical for real-time environmental monitoring).
+	- **Lower bandwidth & cost** (by reducing cloud dependency).
+	- **Better reliability & scalability** (works in remote areas with poor connectivity).
 ## Previous CT questions
 
 ### CT 1
