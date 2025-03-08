@@ -65,5 +65,3 @@ abu sayed vai
 11. Sticky message, social icons on footer
 12. FAQ
 13. payment: https://www.colorexpertsbd.com/payments/
-
-

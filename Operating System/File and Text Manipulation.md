@@ -70,6 +70,7 @@ Each process in #windows as well as #linux has 3 different streams.
 3. stderr (Standard Error)
 
 The [redirector operator], `>` allows us change where we want out standard output to go.
+
 |redirector|index|
 |----------|-----|
 |1>|stdout (**Default**)|

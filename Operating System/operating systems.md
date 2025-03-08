@@ -1,7 +1,15 @@
+>[!Note]
+>CT on [[2025-03-11]]. Syllabus: [[Fork System Call]], wait system call
+
+
 > [!Contents]
 > ## UIU
 > Link: https://drive.google.com/drive/u/0/folders/106Vjh9w2wcJ8Wdo75fhfUzjrVGGJ5R2C
 > ## General
+> ### Theory
+> - [[System Call]]
+> - [[Fork System Call]]
+> 
 >- [[Basic Commands]]
 > 	- [[Basic Commands#Make a directory-| Make a directory]]
 > 	- [[Basic Commands#Command History|Command History]]
@@ -27,7 +35,6 @@
 >	- [[File System#Mounting and Unmounting a Filesystem|Mounting and Unmountig a Filesystem]]
 >	- [[File System#]]
 >- [[process management]]
->- [[bash scripting]] 
->- 
+>- [[bash scripting]]
 
 

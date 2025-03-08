@@ -1,0 +1,4 @@
+#OperatingSystem 
+
+In many operating systems, the fork system call is an essential operation. The fork system call allows the creation of a new process. When a process calls the [fork](https://www.geeksforgeeks.org/fork-system-call/)(), it duplicates itself, resulting in two processes running at the same time. The new process that is created is called a [child process](https://www.geeksforgeeks.org/difference-between-process-parent-process-and-child-process/). It is a copy of the parent process. The [fork](https://www.geeksforgeeks.org/fork-system-call/) system call is required for [process](https://www.geeksforgeeks.org/introduction-of-process-management/) creation and enables many important features such as parallel processing, multitasking, and the creation of complex process hierarchies.
+

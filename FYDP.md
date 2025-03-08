@@ -11,4 +11,6 @@ https://www.internationalengineeringalliance.org/accords/washington
 
 
 
-## AI
+
+![[AI Based Medical Diagnosis System]]
+
