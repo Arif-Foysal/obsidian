@@ -3,7 +3,7 @@
 >[!Contents]
 >
 
-## **Prerequisits**
+## **Pre-requisits**
 In order to use Laravel, you need to have a good understanding of the following technologies:
 
 1. [[PHP]]
