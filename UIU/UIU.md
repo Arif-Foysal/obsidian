@@ -9,7 +9,7 @@
 **First Installment:**
 Deadline: [[2025-03-17]]
 To pay: 27000
-- [ ] Pay: 120000
+- [ ] Pay
 **Second Installment**
 Deadline: [[2025-04-13]]
 To pay: 20250

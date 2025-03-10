@@ -1,7 +1,6 @@
 >[!Note]
 >CT on [[2025-03-11]]. Syllabus: [[Fork System Call]], wait system call
 
-
 > [!Contents]
 > ## UIU
 > Link: https://drive.google.com/drive/u/0/folders/106Vjh9w2wcJ8Wdo75fhfUzjrVGGJ5R2C
@@ -36,5 +35,3 @@
 >	- [[File System#]]
 >- [[process management]]
 >- [[bash scripting]]
-
-
