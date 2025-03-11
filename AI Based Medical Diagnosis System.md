@@ -347,3 +347,22 @@ Analyzing different types of medical images to assist doctors in detecting and d
  PhysioNet ECG Dataset – ECG signals with labeled cardiac diseases. https://physionet.org/content/?topic=ecg  
  EchoNet-Dynamic – Echocardiography dataset for heart function analysis.  
  MIT-BIH Arrhythmia Database – https://www.physionet.org/content/mitdb/1.0.0/
+
+
+1. Knowledge Base: Foundations of AI-Driven Diagnosis
+
+Core Principles
+
+The system leverages core AI and medical imaging principles, utilizing deep learning algorithms for image analysis.
+
+Technology Stack
+
+The technology stack includes Python, TensorFlow/PyTorch, and cloud infrastructure AWS, GCP.
+
+Datasets
+
+The system is trained on various datasets, including chest X-rays, MRI scans, and CT scans.
+
+Example: Pneumonia Detection
+
+ResNet-50 achieves 92% accuracy in pneumonia detection, highlighting the potential of AI in medical diagnosis.
