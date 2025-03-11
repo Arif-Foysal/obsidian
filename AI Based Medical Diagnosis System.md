@@ -5,9 +5,114 @@
 >- Suggesting the most likely condition, with the other conditions that also might occur to the patient.
 
 
+## Speech
+
+Good afternoon everyone, today we are going to present our project idea which is **Computer Vision Based Medical Diagnosis System** designed to assist doctors in detecting and diagnosing diseases more accurately and efficiently.
+
+Before we dive into the details, Take a look at this X-ray. At first glance, it might look normal, right? But what if I told you there’s actually a fracture somewhere in this image? 
+
+
+Well it turns out that the pink box here highlights the fracture. 
+
+
+
+
+
+## Video
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3PbEgLw6lJ0?si=BkUuyWVFoZmiqkcz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## Transcript
+
+
+
+
+
+
+
+## Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Et5HC8SR0BA?si=__-vSN0V_W15GHkL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Transcriber: Elisabeth Buffard
+Reviewer: Anna Sobota Take a look at this x-ray here. I’m going to give you a medical pop quiz. Does anything look out of place 
+with this x-ray that you can see? What if I told you there was actually
+a fracture somewhere in this x-ray? Would you believe me? Well, it turns out that is the case
+as shown by this pink box here. That little crinkle there that you see is actually what’s called
+a Taurus fracture. See, this is a child’s hand, this x-ray, and children’s bones are more malleable than adult bones. So sometimes when they break their wrist, it’s more of a dent or a bend 
+than it is an actual clean break. Now, you might not know 
+to look for things like this, but I only happen to know 
+because I went to medical school. I’m the person that built this AI. My name is Logan Nye, I am  a research physician
+at Harvard Medical School, where I develop 
+intelligent systems for health care or in other words, 
+I’m a physician who codes. And that makes me unique 
+and in a couple of ways. One, it makes it so that I’m probably the biggest nerd
+that you’ve ever met in your life. That’s quite the overlap. But also it gives me
+a unique vantage point for creating artificial intelligence
+for medical diagnostics and health care. Usually when you develop 
+artificial intelligence, you have developers and you have 
+domain experts and there’s some crosstalk and they develop these
+sorts of algorithms. But I want to show you some insights
+as to why it’s helped me to be someone
+with scientific domain knowledge that just learns how to develop 
+artificial intelligence directly. So to do so, I’m going to share 
+some examples from my research at MGH from the past year. Here we have two images of histology, meaning the cells under a microscope. They look pretty similar, right? These are both showing cartilage tissue,
+but not just any cartilage tissue. They’re both tumors. On the left we have enchondroma,
+which is a benign condition. It’s just a clump of cells that you don’t need 
+any particular medical care for. You just keep an eye on it
+for the rest of your life. But on the right-hand side, 
+we have low-grade chondrosarcoma. It looks almost identical, but it’s vastly different results. Low-grade chondrosarcoma
+is very aggressive and needs to be treated aggressively. It requires surgery, often amputation and cautery of the wound
+that you scrape out. So obviously, it's important to know
+the difference between these two. But historically, we’ve been about 50% reliable
+in telling them apart on histology. I know about this because I’m in medicine and it’s a widely known problem. But as I also happen to know how to build
+artificial intelligence systems, I realize that this is great
+for image classification, a computer vision problem. And so over the course of an afternoon, we built a computer vision program that took our diagnostic accuracy
+between these two different tumor types from around 50% to 75 to 90%. It was a long-standing problem
+for several decades but if we apply AI and know
+how to apply it in a clinical context, we can solve those long-standing problems
+in a short course of time. And there’s other applications as well. Take these knee MRIs. These are showing different ACLs
+or anterior cruciate ligament that get torn. Using computer vision, we can automatically find 
+where and when they’re torn. On the left-hand side
+we have a healthy ACL, in the middle
+a completely ruptured ACL, on the right the AI systems
+that we develop are able to tell that
+it’s only partially torn. This is another way that computer vision
+can be applied within health care. That’s just the tip of the iceberg. We have scaphoid fractures. We’re able to detect lumbar disc 
+herniations when people have back pain and need to localize where their nervous
+system is being pressed on. We’re able to get fractures in arm areas, foot and ankle, hips, and we’re even able to quantify
+osteoarthritis in knees to tell people when they should
+be considering getting a knee replacement. All this is possible because we apply
+artificial intelligence from a clinical standpoint. In our lab, we’ve also worked
+on cancer diagnostic systems similar to the enchondroma problem, but applied to over 30 different 
+other soft tissue tumors. And not just soft tissues,
+but 15 or more bone tumors as well. We’re continuing to expand experiment
+with these different applications in the clinical context. Again made possible
+because we know what to look for and thus how to build AI. And in some cases,
+when you have rare diseases, you lack the data to create these useful artificial
+intelligence programs. Enchondroma is an example of this,
+that first tumor that we looked at. But thanks to generative AI,
+we can bridge that gap and the scarcity
+of medical data that exists. This histology image of enchondroma
+actually doesn’t exist. It was generated by AI, but because we know that
+that’s a gap that exists in clinical care, we can leverage AI to fill those needs. Now, you might ask why is this important? I can tell you why
+it’s personally important and why I became interested 
+in developing artificial intelligence. During medical school,
+I had the opportunity to participate in global health trips. One of them was to sub-Saharan Africa. The people there are incredible
+and do awesome things with what they have, but there’s no denying
+that they lack resources. We drived all the way out into the bush and we would spend all day working with the types of supplies that you’d find
+at OfficeMax or Home Depot to care for patients. But one thing that I noticed was that the medical staff used iPads 
+to record all their patient data. They had access to smartphones. And again, when I went to the Himalayas, we treated all sorts of patients
+in far reaches across the Himalayan mountain range and they lacked those resources,
+but they all had smartphones. So anybody that has a smartphone is able to access
+artificial intelligence systems and thus get proper care. And so that’s what we’re working on. We’re working on apps and APIs that we can open source,
+make available to anybody anywhere. If you have Internet access
+and if you have a smart device, we can democratize our medical expertise
+to those who most need it. Preventing the need to travel 
+for days or even weeks to get the care that they need. And so, I would encourage
+other people that are domain experts, whether it be in medicine,
+law, education, whatever, to try to find ways
+to use artificial intelligence to amplify your expertise 
+and make it available to other people. Who knows, it might just save lives. Thank you. (Applause).
+
 ## video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uvqDTbusdUU?si=3rgDsbtTbN__Kjwc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #### **Transcript:**
