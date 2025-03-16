@@ -1,5 +1,14 @@
 #amarFuel #startup #root #microComputer #iot
 
+## Events
+
+[[5th International Robo Tech Olympiad 2025]]
+
+
+
+
+
+
 [[electronics project development]]
 
 ![[Shark Tank Bangladesh]]

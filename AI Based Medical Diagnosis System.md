@@ -7,18 +7,30 @@
 
 ## Speech
 
-Good afternoon everyone, today we are going to present our project idea which is **Computer Vision Based Medical Diagnosis System** designed to assist doctors in detecting and diagnosing diseases more accurately and efficiently.
+Good afternoon everyone, today we are going to present our project idea which is **AI Dermatologist Agent For Skin Condition Diagnosis** designed to assist doctors in detecting and diagnosing diseases more accurately and efficiently.
 
-Before we dive into the details, Take a look at this X-ray. At first glance, it might look normal, right? But what if I told you there’s actually a fracture somewhere in this image? 
+**Challanges:**
+
+**Pathology:** dermatologists often rely on biopsy samples analyzed under a microscope To confirm skin cancer or other serious conditions. While this method is accurate, it’s also **expensive** and **time-consuming**. Patients may wait days or even weeks for results
+
+**Early Detection Difficulties**
+Some skin conditions, like melanoma, can be incredibly challenging to identify in their early stages. By the time these conditions are detected, they may have already progressed to a more dangerous stage.
+
+**human error**
+Even the most skilled dermatologists are not immune to mistakes. Studies show that dermatologists miss **10-15% of skin cancer cases** during visual exams.
+
+**Limited Access**
+In rural and underserved areas, access to dermatologists is often severely limited. Patients may have to travel long distances or wait months for an appointment.
+
+This lack of access can lead to delayed diagnoses, worsening outcomes, and even preventable deaths.
 
 
-Well the fracture is highlighted by the pink box right over here. See this is a child’s hand, and children’s bones are more malleable than adult bones. So, when they break their wrist, it’s often a bend or a dent rather than a clean fracture/break.
+In fact, studies show that dermatologists can miss up to **10-15% of skin cancer cases** during visual examinations. This is where our AI-powered dermatologist agent comes in.
 
-Now, obviously we are not medical professionals here, but even well-trained doctors can sometimes miss it. In fact, studies show that radiologists can miss up to **20-30% of abnormalities**in medical images due to the sheer volume of cases, fatigue, or the subtlety of certain conditions.
+Our goal is to build an AI-powered application that uses **deep learning** and **computer vision** to analyze skin images and provide highly informed decisions about potential diagnoses. This tool will not only assist doctors in making faster and more accurate diagnoses but also empower patients to seek early medical attention when needed.
 
-
-Our goal is to build an AI powered application that uses **deep learning** and **computer vision** that will learn from medical data such as x-ray, blood tests and even skin images and provide **highly informed desicions** about their diagnosis, their treatment options, prognosis and so on. 
-
+## Dermatologist Agent
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jtzN34U9cG0?si=rK4Rrp37OtMvTn2W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Video
 
