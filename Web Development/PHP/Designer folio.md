@@ -31,7 +31,6 @@ abu sayed vai
 	  - Multi-Clipping Path
 	  - Transparent Background
 - **Image Retouching**
-
 	- Model Retouch
 	- High-End Retouch
 	- Jewellery Retouch

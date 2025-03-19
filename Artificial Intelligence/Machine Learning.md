@@ -4,7 +4,7 @@
 >- [[Artificial Intelligence]]
 >- [[Python]]
 >- [[Supervised and Unsupervised Learning]]
->- [[k nearest neighbor]]
+>- [[k nearest neighbour (KNN Classifier)]]
 ## ML Community
 https://www.kaggle.com/
 
