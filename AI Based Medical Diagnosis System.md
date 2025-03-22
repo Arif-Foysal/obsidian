@@ -4,6 +4,8 @@
 >[!Ideas]
 >- Suggesting the most likely condition, with the other conditions that also might occur to the patient.
 
+## Datasets
+https://www.kaggle.com/code/aminaromdhani/skin-tumor-classification-tensorflow/notebook
 
 ## Speech
 
