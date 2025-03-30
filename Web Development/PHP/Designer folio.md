@@ -3,6 +3,10 @@
 Inspirations:
 https://muffingroup.com/blog/graphic-designers-portfolio-websites/
 
+**Chat system:**
+https://dashboard.tawk.to/#/chat
+
+
 **Front end ideas:**
 1. add shapes using css
 
