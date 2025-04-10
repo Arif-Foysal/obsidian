@@ -4,6 +4,8 @@
 > [!Contents]
 > ## UIU
 > Link: https://drive.google.com/drive/u/0/folders/106Vjh9w2wcJ8Wdo75fhfUzjrVGGJ5R2C
+> ## Mid Resources
+> https://drive.google.com/drive/folders/1zbM_MP0HIBKn7K6XwKux1kwbOnP9mgZy
 > ## General
 > ### Theory
 > - [[System Call]]

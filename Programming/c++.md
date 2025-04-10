@@ -40,7 +40,7 @@ C++ is a mid-level, general purpose, object-oriented programming(OOP) language.
 - scientific computing
 - [[game development]]
 - high performance application
-- [[operating systems]]
+- [[Operating Systems]]
 ## Header Files of C++
 **iostream**:Input/output stream handling (cin, cout, cerr).
 **iomanip**:Input/output manipulation (setw, setprecision).

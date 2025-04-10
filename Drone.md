@@ -12,6 +12,6 @@ A drone is basically a copter having autonomous features.
 
 [[Quadrotor]]
 [[robotics]]
-[[Agricultural Drone]]
+[[Autonomous Delivery Drone]]
 
 [[Aerial Robotics]]

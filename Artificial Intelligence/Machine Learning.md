@@ -1,10 +1,17 @@
 #Machine-Learning #root 
 
 >[!Links]
+>## Mid Term
+>- [[Intro to Machine Learning]]
+>- [[Regression]]
+>- [[Problems and solutions]]
+>- 
+>---
 >- [[Artificial Intelligence]]
 >- [[Python]]
 >- [[Supervised and Unsupervised Learning]]
 >- [[k nearest neighbour (KNN Classifier)]]
+>- [[]]
 ## ML Community
 https://www.kaggle.com/
 
