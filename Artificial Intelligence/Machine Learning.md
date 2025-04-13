@@ -5,6 +5,8 @@
 >- [[Intro to Machine Learning]]
 >- [[Regression]]
 >- [[Problems and solutions]]
+>- [[Hierarchical Clustering]]
+>- [[Fuzzy-C-Mean Clustering]]
 >- 
 >---
 >- [[Artificial Intelligence]]
