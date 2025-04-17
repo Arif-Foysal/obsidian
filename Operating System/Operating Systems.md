@@ -8,8 +8,10 @@
 > https://drive.google.com/drive/folders/1zbM_MP0HIBKn7K6XwKux1kwbOnP9mgZy
 > ## General
 > ### Theory
-> - [[System Call]]
-> - [[Fork System Call]]
+> - [[Process and Process API]]
+> 	- [[System Call]]
+> 	- [[Fork System Call]]
+> - 
 > 
 >- [[Basic Commands]]
 > 	- [[Basic Commands#Make a directory-| Make a directory]]

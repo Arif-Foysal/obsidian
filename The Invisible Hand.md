@@ -1,0 +1,5 @@
+- Concept introduced by economist Adam Smith in his book "The Wealth of Nations." 
+- Refers to the idea that individuals, by pursuing their self-interest in a free market, unintentionally promote the well-being of society as a whole. 
+- In a competitive market, the pursuit of profit drives individuals to produce goods and services that meet consumer demands efficiently. 
+- The interaction of supply and demand in the market leads to the optimal allocation of resources and the determination of prices. 
+- The invisible hand mechanism suggests that individuals acting in their own self-interest can contribute to the overall welfare of society without central planning or coordination.

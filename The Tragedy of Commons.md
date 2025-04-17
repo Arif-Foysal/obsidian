@@ -1,0 +1,5 @@
+- Concept first described by ecologist Garrett Hardin in 1968. 
+- Refers to a situation where multiple individuals, acting independently and rationally, deplete or degrade a shared resource. 
+- Arises when the cost of an individual's actions is borne collectively, while the benefits are reaped individually. 
+- Common examples include overfishing in open seas, pollution of air or water resources, and overgrazing on communal land. 
+- The tragedy of the commons highlights the challenges of managing and preserving shared resources, as individual incentives may lead to suboptimal outcomes and the depletion of the resource.

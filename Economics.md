@@ -1,10 +1,16 @@
 #Economics #root 
+>[!Links]
+>- [[Production Possibility Frontier(PPF)]]
+>	- [[Opportunity Cost]]
+>- [[Equilibrium Analysis]]
+>- [[Elasticity in Economics]]
+>- [[Supply, Demand and Govt Policies]]
+>- [[Economics Mid Practice Problems]]
 
 ## What is economics?
-Economics is the study of **how society manages its scarce resources**.
+Economics is the study of **how society manages its [[scarcity|scarce]] resources**.
 
 Economists analyze **decision-making**, **interactions**, and **forces affecting the economy**.
-
 
 ## 10 Principles of economics
 #### **How People Make Decisions**
@@ -42,6 +48,18 @@ Microeconomics studies individual decision-making by households and firms in mar
 ## Macroeconomics
 Macroeconomics examines broader economic phenomena like unemployment, government borrowing, and national growth.
 
+
+## Three major economics systems
+![[Capitalism]]
+![[Command Economy]]
+![[Mixed Economic System]]
+
+
+
+[[The Invisible Hand]]
+[[The Tragedy of Commons]]
+[[The Diamond Paradox]]
+
 ## The Circular-Flow **Diagram**
 
 - A model showing how money moves through markets between households and firms.
@@ -50,15 +68,3 @@ Macroeconomics examines broader economic phenomena like unemployment, government
 ![[Pasted image 20250316082311.png]]
 
 
-## **The Production Possibilities Frontier (PPF)**
-
-- A graph representing the possible combinations of goods an economy can produce given its resources and technology.
-- Points on the PPF are efficient, inside are inefficient, and outside are unattainable.
-- The slope represents the opportunity cost of producing one good over another.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RsU2M8AxXkc?si=HVzxNQF01AUiNALw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
-## Shifts in the PPF
-
-Economic growth (e.g., technological advancements or better resource utilization) can shift the PPF outward, enabling greater production.
