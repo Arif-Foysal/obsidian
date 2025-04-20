@@ -11,6 +11,8 @@
 >- [[Market Structure]]
 >- [[Monopoly Market]]
 >- [[Analysis of Costs]]
+>- [[Money and banking]]
+>- [[Inflation]]
 >- [[Economics Mid Practice Problems]]
 
 ## What is economics?

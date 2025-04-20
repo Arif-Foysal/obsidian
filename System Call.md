@@ -3,6 +3,7 @@
 
 [[Fork System Call]]
 [[wait system call]]
+[[exec system call]]
 
 
 ## What is a system call?

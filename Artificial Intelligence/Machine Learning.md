@@ -7,13 +7,17 @@
 >- [[Problems and solutions]]
 >- [[Hierarchical Clustering]]
 >- [[Fuzzy-C-Mean Clustering]]
->- 
+>- [[DBSCAN Clustering Algorithm]]
+>- [[Bayes Net]]
+>- [[Support Vector Machine]]
+>- [[Hidden Markov Model]]
+>- [[Artificial Neural Network]]
 >---
 >- [[Artificial Intelligence]]
 >- [[Python]]
 >- [[Supervised and Unsupervised Learning]]
 >- [[k nearest neighbour (KNN Classifier)]]
->- [[]]
+
 ## ML Community
 https://www.kaggle.com/
 

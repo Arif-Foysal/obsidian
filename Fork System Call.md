@@ -82,8 +82,16 @@ hello, I am child (pid:29147)
 
 
 ### However, 
+The output of this is non-deterministic, because the  OS decides which process to run first.
+
+>But if we want to control if child process to finish first, we can use [[wait system call]]
 
 
 
+## Practice Problems
+1. 
+Draw process tree and write the output of the following code:
+
+![[Pasted image 20250419235823.png]]
 
 

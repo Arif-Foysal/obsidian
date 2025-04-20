@@ -326,7 +326,6 @@ Reduce data size without losing valuable info.
 - **PCA (Principal Component Analysis)**: Combine related features into fewer ones
     
 - **Clustering**: Group similar data points
-    
 
 ---
 
@@ -347,7 +346,6 @@ Convert **continuous values** into **categories/bins**.
     - 31 → Adult
         
     - 50 → Senior
-        
 
 ---
 

@@ -11,7 +11,10 @@
 > - [[Process and Process API]]
 > 	- [[System Call]]
 > 	- [[Fork System Call]]
-> - 
+> 	- [[wait system call]]
+> 	- [[exec system call]]
+> - [[Scheduling in OS]]
+> - [[Inter Process Communication]]
 > 
 >- [[Basic Commands]]
 > 	- [[Basic Commands#Make a directory-| Make a directory]]

@@ -7,7 +7,7 @@
 >- [[Marketing Management]]
 >- ## Final Syllabus
 >- [[Demand Forecasting]]
->- [[scheduling]]
+>- [[scheduling in IPE]]
 >- [[Quality Management]]
 >- [[Linear Programming]]
 >- [[Lean manufacturing, six sigma and reliability]]
