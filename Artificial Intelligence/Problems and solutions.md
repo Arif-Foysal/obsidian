@@ -70,8 +70,6 @@ Classify the following data points into two clusters using the **Modified** K-me
 
 ![[Screenshot 2025-04-11 at 12.44.16 AM.png]]
 
-
-
 ### **Why do we need modified k-means clustering algorithm?**
 
 Modified K-Means, such as K-Means++, is needed because standard K-Means selects initial centroids randomly, which can lead to poor clustering, slow convergence, and inconsistent results. This randomness often causes the algorithm to get stuck in local minima or produce inaccurate clusters. K-Means++ improves this by choosing the initial centroids more intelligently—spreading them out based on distances—which leads to better accuracy, faster convergence, and more stable results. By starting with well-placed centroids, modified K-Means ensures more reliable performance, especially on complex datasets.

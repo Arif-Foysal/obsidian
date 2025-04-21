@@ -134,16 +134,11 @@ This is a **classification task** because the output is a **category**, not a nu
 ##### **Types of Classification Problems:**
 - **Binary-class**: Only **two classes**  
     → e.g., Pass or Fail, Yes or No, Spam or Not Spam
-    
 - **Multi-class**: More than two **mutually exclusive** classes  
-    → e.g., Grade: A, B, C, D, F
-    
+    → e.g., Grade: A, B, C, D, F    
 - **Multi-label**: Each item can belong to **multiple classes at the same time**  
     → e.g., A news article tagged with: Politics, Education, and Technology
-
-
 #### Regression
-
 Regression is about **predicting a number** — something **continuous**, **real-valued**, and **measurable**.
 
 ### 🧪 Example:
@@ -153,13 +148,9 @@ You want to **predict the price of a house**.
 You use features like:
 
 - Square footage
-    
 - Number of bedrooms
-    
 - Number of bathrooms
-    
 - Age of the house
-    
 
 The model learns from data and predicts:  
 ➡️ **A price like $250,000**
