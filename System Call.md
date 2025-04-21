@@ -15,3 +15,17 @@
 ![[Fork System Call]]
 ![[wait system call]]
 
+## Practice Problems
+
+**1. How does your shell execute commands?**
+Ans:
+
+|Step|What Happens|
+|---|---|
+|1. Read input|Shell reads the command|
+|2. Parse input|Break into command + args|
+|3. Fork|Create a child process|
+|4. Exec|Child replaces itself with the command|
+|5. Wait|Parent waits for command to finish|
+|6. Loop|Go back to prompt|
+
