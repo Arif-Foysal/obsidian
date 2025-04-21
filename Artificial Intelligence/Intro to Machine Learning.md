@@ -8,7 +8,7 @@ It focuses on designing mining algorithms and systems that **learn from big data
 - **Artificial Intelligence**
 	- The broader concept of machines being able to **carry out tasks in a "smart" way**
 - **Machine Learning**
-	- Algorithms that allow computers to learn from examples without being explicitly programmed..
+	- Algorithms that allow computers to learn from examples without being explicitly programmed.
 - **Artificial Neural Networks**
 	- Brain inspired machine learning models.
 - **Deep Learning**
