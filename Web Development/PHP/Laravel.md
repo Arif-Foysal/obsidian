@@ -17,8 +17,10 @@ In order to use Laravel, you need to have a good understanding of the following 
 
 # Learning Resources
 
-## Laravel Documentation
-https://laravel.com/docs/11.x
+1. **Laravel Documentation**
+	https://laravel.com/docs/11.x
+2. **laracast youtube channel**
+
 
 ## Articles
 https://medium.com/@kamruljpi/code-like-a-pro-laravel-design-patterns-you-need-to-know-77eddf83a45f

@@ -48,7 +48,7 @@ There are two different types of recursion which are as follows:
 
 ## Examples of c++ recursion
 
-### c++ program to calculate the sum of first n natural
+### c++ program to calculate the sum of first n natural numbers
 
 ```cpp
 #include<iostream>

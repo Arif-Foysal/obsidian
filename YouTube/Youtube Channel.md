@@ -10,6 +10,14 @@
 
 - [ ] Determine your goal.
 
+# #todo 
+
+- [ ] Plan 100 videos
+	- [ ] Analyze Competitor's popular videos(Bengali)
+	- [ ] Sort out some interesting videos
+	- [ ] Recreate with a better version of that video
+
+
 ### Tips
 1. Be yourself
 2. Stick to a certain topic

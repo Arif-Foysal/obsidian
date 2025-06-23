@@ -23,7 +23,7 @@ Number of pairs of attacking queens in a given state can be considered as heuris
 So,
 `h=(no. of pairs of row wise attacks)+(no. of pairs of column wise attack)`
 Here,
-	- The heuristic function is a cost function
+	- The heuristic function is a [[cost function]]
 	- It is a [[Minimization Problem]]
 ## Successor
 7x8 = 56 successors

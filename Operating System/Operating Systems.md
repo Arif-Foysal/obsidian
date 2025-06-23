@@ -6,8 +6,7 @@
 > Link: https://drive.google.com/drive/u/0/folders/106Vjh9w2wcJ8Wdo75fhfUzjrVGGJ5R2C
 > ## Mid Resources
 > https://drive.google.com/drive/folders/1zbM_MP0HIBKn7K6XwKux1kwbOnP9mgZy
-> ## General
-> ### Theory
+> ## Theory
 > - [[Process and Process API]]
 > 	- [[System Call]]
 > 	- [[Fork System Call]]
@@ -15,7 +14,9 @@
 > 	- [[exec system call]]
 > - [[Scheduling in OS]]
 > - [[Inter Process Communication]]
-> 
+> ## Final
+>- [[Memory Management in OS]]
+>## General
 >- [[Basic Commands]]
 > 	- [[Basic Commands#Make a directory-| Make a directory]]
 > 	- [[Basic Commands#Command History|Command History]]
