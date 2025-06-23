@@ -8,3 +8,14 @@
 >- [[python data types]]
 >- [[pip]]
  
+## Create a virtual environment
+
+```bash
+python3 -m venv env
+```
+
+### Activate virtual environment:
+
+```bash
+source env/bin/activate
+```

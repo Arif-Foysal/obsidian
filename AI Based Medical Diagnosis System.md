@@ -7,6 +7,33 @@
 ## Datasets
 https://www.kaggle.com/code/aminaromdhani/skin-tumor-classification-tensorflow/notebook
 
+
+## Proposed Features
+#### 1. Clinical Decision Support (for Doctors)
+
+- **Symptom Triage & Preliminary Assessment**
+    - Collect patient-reported symptoms via conversational interface
+    - Create a structured summery of patient's reported symptoms
+    - Use probabilistic models to suggest differential diagnoses and next steps
+- **Diagnostic Imaging Analysis**
+    - Automated detection of anomalies in X-rays, MRIs, CT scans (e.g., tumor segmentation)
+    - Quantitative measurements (e.g., lesion size tracking over time)
+- **Evidence-Based Recommendations**
+    - Retrieval of the latest clinical guidelines and relevant literature
+    - Personalized treatment suggestions based on patient history and comorbidities
+- **Scheduling & Resource Management**
+	- Intelligent appointment booking, predicting no-show risk
+#### 3. Patient Engagement & Self-Care (for Patients)
+- **Symptom Checker & Guidance**
+    - 24/7 chatbot for symptom triage, advising when to seek in-person care.
+    - **Immediate Alert:** The system might say, “Your symptoms could indicate an emergency. Would you like to connect now with a doctor for an urgent video consult?”
+- **Medication Management**
+	- Personalized reminders for dosing schedules
+- **Health Education & Coaching**
+	- Behavioral nudges for lifestyle changes (e.g., activity goals, nutrition tips)
+
+
+
 ## Speech
 
 Good afternoon everyone, today we are going to present our project idea which is **AI Dermatologist Agent For Skin Condition Diagnosis** designed to assist doctors in detecting and diagnosing diseases more accurately and efficiently.

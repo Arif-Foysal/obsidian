@@ -17,7 +17,7 @@
 >- [[CSS Flexbox]]
 >- [[CSS]]
 >### **CSS Frameworks**
->- [[tailwind css]]
+>- [[Tailwind css]]
 
 **CSS** stands for **Cascading Style Sheets**.
 

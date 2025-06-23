@@ -25,3 +25,8 @@ https://www.internationalengineeringalliance.org/accords/washington
 
 ![[AI Based Medical Diagnosis System]]
 
+
+
+
+## Vapi Voice Assistant for Booking Appointments
+

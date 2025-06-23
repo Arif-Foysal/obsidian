@@ -43,3 +43,6 @@
 >	- [[File System#]]
 >- [[process management]]
 >- [[bash scripting]]
+
+[[Deadlock]]
+

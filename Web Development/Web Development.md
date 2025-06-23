@@ -3,7 +3,7 @@
 >[!References]
 >- [[HTML]]
 >- [[CSS]]
->	- [[tailwind css]]
+>	- [[Tailwind css]]
 >	- [[Bootstrap]]
 >	- [[sass]]
 >- [[JavaScript]]
