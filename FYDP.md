@@ -1,10 +1,18 @@
 #uiu #FYDP #software-engineering #Machine-Learning 
 
-[[FYDP workload distribution]]
+[[fydp pre defence presentation]]
+
+## ML For everybody
+	https://www.youtube.com/watch?v=i_LwzRVP7bg&t=6824s
+
+## [[FYDP workload distribution]]
 
 [[Reducing traffic using computer vision]]
-## Defining Complex Engineering Problem:
 
+
+
+
+## Defining Complex Engineering Problem:
 
 ## AI Dermatologist Agent
 https://www.geeksforgeeks.org/deep-learning/skin-cancer-detection-using-tensorflow/
