@@ -15,6 +15,7 @@
 > - [[Scheduling in OS]]
 > - [[Inter Process Communication]]
 > ## Final
+> [[assignment os]]
 >- [[Memory Management in OS]]
 >## General
 >- [[Basic Commands]]

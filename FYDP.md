@@ -12,12 +12,15 @@
 
 
 ## Defining Complex Engineering Problem:
+### papers
+https://pmc.ncbi.nlm.nih.gov/articles/PMC10752524/
+
 
 ## AI Dermatologist Agent
 https://www.geeksforgeeks.org/deep-learning/skin-cancer-detection-using-tensorflow/
 
 https://thepythoncode.com/article/skin-cancer-detection-using-tensorflow-in-python
-	- 
+
 
 ### How to improve a notebook for your paper
 ##### 1. ✅ **Understand What the Notebook Does**

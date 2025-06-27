@@ -1,4 +1,10 @@
 #OperatingSystem #Computer-Science #Filesystem
+
+
+
+
+
+
 #### Disk Partitioning
 Partitions act as own seperate sub disks. 
 When you formate a file system in a partition, it becomes a **Volume**
