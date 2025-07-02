@@ -1,5 +1,33 @@
 #FYDP 
 
+**Challanges:**
+
+**Pathology:** dermatologists often rely on biopsy samples analyzed under a microscope To confirm skin cancer or other serious conditions. While this method is accurate, it’s also **expensive** and **time-consuming**. Patients may wait days or even weeks for results
+
+**Early Detection Difficulties**
+Some skin conditions, like melanoma, can be incredibly challenging to identify in their early stages. By the time these conditions are detected, they may have already progressed to a more dangerous stage.
+
+**human error**
+Even the most skilled dermatologists are not immune to mistakes. Studies show that dermatologists miss **10-15% of skin cancer cases** during visual exams.
+
+**Limited Access**
+In rural and underserved areas, access to dermatologists is often severely limited. Patients may have to travel long distances or wait months for an appointment.
+
+AI-powered application that uses **deep learning** and **computer vision** to analyze skin images and provide highly informed decisions about potential diagnoses. This tool will not only assist doctors in making faster and more accurate diagnoses but also empower patients to seek early medical attention when needed.
+
+
+Here you see the distribution of the original 7 classes present in the dataset. As is common in medical imaging datasets, we observe a significant class imbalance. The 'Melanocytic nevi', or benign moles, represent the vast majority of the data. In contrast, classes like Dermatofibroma and Vascular lesions have considerably fewer samples."
+
+"This imbalance is a key challenge. Training a model directly on this data without addressing the skew can lead to a model that performs very well on the majority class but struggles to accurately identify the less common, but often more critical, malignant lesions. This is something we need to keep in mind and address during our preprocessing and training phases
+
+
+The dataset mostly contains adults aged 35 to 65, with fewer young and elderly patients. The age distribution is approximately normal, slightly right-skewed, with a peak near age 45.
+
+
+
+
+
+
 ### 🔹 **1. Title Slide**
 
 - Project title
