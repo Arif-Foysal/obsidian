@@ -1,5 +1,11 @@
 #Computer-Science #webDevelopment #root 
 
+## 5 Day Challenge
+
+- [ ] Learn [[React JS]]
+- [ ] Learn [[Django]]
+
+
 >[!References]
 >- [[HTML]]
 >- [[CSS]]
@@ -7,9 +13,12 @@
 >	- [[Bootstrap]]
 >	- [[sass]]
 >- [[JavaScript]]
+>	- [[React JS]]
+>	- [[VueJS]]
 >- [[Relational Databases and SQL]]
 >- [[PHP]]
 >- [[MongoDB]]
+>- [[Django]]
 
 >[!Development Environment Setup]
 >### **Linux**

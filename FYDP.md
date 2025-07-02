@@ -2,6 +2,12 @@
 
 [[fydp pre defence presentation]]
 
+
+- [ ] Methodology
+- [ ] results
+- [ ] conclusion
+- [ ] references
+
 ## ML For everybody
 	https://www.youtube.com/watch?v=i_LwzRVP7bg&t=6824s
 
