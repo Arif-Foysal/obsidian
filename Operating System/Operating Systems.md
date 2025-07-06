@@ -16,7 +16,11 @@
 > - [[Inter Process Communication]]
 > ## Final
 > [[assignment os]]
+> [[Directory Structure]]
+> [[File Allocation Methods]]
 >- [[Memory Management in OS]]
+>- [[Deadlock]]
+>- 
 >## General
 >- [[Basic Commands]]
 > 	- [[Basic Commands#Make a directory-| Make a directory]]
@@ -47,3 +51,4 @@
 
 [[Deadlock]]
 
+##
