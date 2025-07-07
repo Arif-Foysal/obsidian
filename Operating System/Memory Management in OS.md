@@ -24,6 +24,8 @@
 ![[Pasted image 20250706204852.png]]
 **1TB = 2^40 Bytes**
 
+
+![[Screenshot 2025-07-07 at 2.12.39 AM.png]]
 ## Practice problems
 
 ![[Pasted image 20250706210556.png]]
