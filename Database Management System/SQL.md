@@ -20,3 +20,5 @@ Structured Query Language or [[SQL]] is a programming language for interacting w
 [[CSI-222-LAB_Manual.pdf|DBMS Lab Manual PDF]]
 **MYSQL Official Documentation by Oracle**
 https://dev.mysql.com/doc/refman/8.0/en/
+
+- [ ] Learn postgresql
