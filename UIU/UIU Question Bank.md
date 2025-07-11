@@ -45,9 +45,9 @@ Inteligence : [https://drive.google.com/drive/folders/1u-DbvjELoX84I9l01mzZgTaru
 39. SML: [https://drive.google.com/drive/folders/1MxltdHdifRhm0uZyHiaZP_Glm6cw2rAI?usp=share_link](https://l.messenger.com/l.php?u=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1MxltdHdifRhm0uZyHiaZP_Glm6cw2rAI%3Fusp%3Dshare_link&h=AT1AHUy100V_8s9R-TvhbIAzXlVKb-0cwPG9ie6NgtoVFEWXQuT1GhV0bXrCnpF3nZUNl4PFjMRNt4ugj12J4hUScGs2hlMu_nPQHtAsGuGyK0HVrExzPPjGCrgGppK0BF-s7w) 
 40. DSA-1: [https://drive.google.com/drive/folders/17ORTRa5Vn4DvZ2FH2k6X4TpRq-xYnvFH?usp=share_link](https://drive.google.com/drive/folders/17ORTRa5Vn4DvZ2FH2k6X4TpRq-xYnvFH?usp=share_link) 
 41. DSA-2: [https://drive.google.com/drive/folders/1wy4NLWH80E5bJizOfiVEfYPpBCoUKcTC?usp=share_link](https://drive.google.com/drive/folders/1wy4NLWH80E5bJizOfiVEfYPpBCoUKcTC?usp=share_link)
-42. Software Engineering
+42. Software Engineering: 
 	https://drive.google.com/drive/folders/1M8tuy8Q-COExSV8isDq2uH3AGEh4igew
-43. Green Computing
+43. Green Computing: 
 	[[green computing practice problems]]
-44. Software Architecture
+44. Software Architecture: 
 	https://drive.google.com/drive/folders/1IJgL1ivbu6oCEQ_c3qI6Gqd9A_pQ5PbY

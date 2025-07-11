@@ -14,6 +14,10 @@
 >- [[Money and banking]]
 >- [[Inflation]]
 >- [[Economics Mid Practice Problems]]
+>- **Final**
+>- [[The Cost of Production]]
+>- [[Measuring Income of a Nation]]
+>- [[Measuring the Cost of Living]]
 
 ## What is economics?
 Economics is the study of **how society manages its [[scarcity|scarce]] resources**.

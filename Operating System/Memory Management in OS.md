@@ -13,7 +13,7 @@
 ![[Pasted image 20250705161544.png]]
 ![[Pasted image 20250705193048.png]]
 
-
+## Segmentation
 ![[Pasted image 20250705200928.png]]
 
 ## Paging
