@@ -6,7 +6,6 @@
 
 ![[Pasted image 20250711021147.png]]
 ---
-
 ![[Pasted image 20250711131956.png]]
 ![[Pasted image 20250711133134.png]]
 Typical cost curve:
