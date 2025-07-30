@@ -15,3 +15,7 @@ A drone is basically a copter having autonomous features.
 [[Autonomous Delivery Drone]]
 
 [[Aerial Robotics]]
+
+![[Autonomous Agriculture Drone]]
+
+

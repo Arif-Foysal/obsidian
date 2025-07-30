@@ -5,4 +5,3 @@ Key components to enable autonomous flight-
 - [[planning]]
 
 ![[state estimation]]
-
