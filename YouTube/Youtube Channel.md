@@ -18,6 +18,9 @@
 	- [ ] Recreate with a better version of that video
 
 
+### AI Tools For Content Creation
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P13PSFQZDss?si=I4QxamZmshobK9ES" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Tips
 1. Be yourself
 2. Stick to a certain topic
