@@ -1,4 +1,6 @@
 #Algorithm #programming #root
+## Found a nice course
+https://frontendmasters.com/courses/algorithms/
 
 >[!Contents]
 >- [[minimax problem]]

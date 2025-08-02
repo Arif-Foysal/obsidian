@@ -3,6 +3,14 @@
 [[fydp pre defence presentation]]
 
 
+## Get  real-time feedback on clarity, accuracy, delivery, and engagement.
+https://slidecoach.ai/en/slide-coach
+
+> log in with your github account
+
+## Front end masters
+https://frontendmasters.com/welcome/github-student-developers/
+
 - [ ] Methodology
 - [ ] results
 - [ ] conclusion
