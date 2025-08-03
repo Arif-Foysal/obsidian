@@ -1,4 +1,14 @@
+#FYDP 
+## **Assigned to:** Noman & Pranto
 
-# #todo
+# Test Cases For API Testing
+https://www.geeksforgeeks.org/software-testing/test-cases-for-api-testing/
 
-## Tasks
+
+
+### **Deliverables:**
+- Test plan
+- Test cases (manual & automated)
+- Bug reports
+- Test summary report for presentation
+- 
